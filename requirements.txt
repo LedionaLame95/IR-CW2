@@ -4,3 +4,5 @@ tqdm
 rank-bm25
 jupyter
 ipykernel
+
+xml file of the folders 001979, 002000
