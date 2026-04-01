@@ -1,0 +1,6 @@
+pandas
+lxml
+tqdm
+rank-bm25
+jupyter
+ipykernel
