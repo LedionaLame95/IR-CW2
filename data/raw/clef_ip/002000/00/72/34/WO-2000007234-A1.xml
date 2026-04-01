@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.ir-facility.org/dtds/patents/v1.4/patent-document.dtd"><patent-document ucid="WO-2000007234-A1" country="WO" doc-number="2000007234" kind="A1" lang="EN" family-id="26519371" status="new" date-produced="20090508" date="20000210"><bibliographic-data><publication-reference ucid="WO-2000007234-A1" status="new" fvid="77352502"><document-id status="new" format="original"><country>WO</country><doc-number>2000007234</doc-number><kind>A1</kind><date>20000210</date></document-id></publication-reference><application-reference ucid="JP-9904016-W" status="new" is-representative="NO"><document-id status="new" format="epo"><country>JP</country><doc-number>9904016</doc-number><kind>W</kind><date>19990727</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-21269698-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>21269698</doc-number><kind>A</kind><date>19980728</date></document-id></priority-claim><priority-claim ucid="JP-21269798-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>21269798</doc-number><kind>A</kind><date>19980728</date></document-id></priority-claim></priority-claims><technical-data status="new"><classification-ipc status="new"><edition>7</edition><main-classification>H01L  21/52</main-classification></classification-ipc><classifications-ipcr><classification-ipcr status="new">H01L  21/02        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">H01L  21/58        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">H01L  23/28        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">H01L  23/31        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">H01L  23/48        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">H01L  23/498       20060101A I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">H01L  21/58</classification-symbol><classification-symbol scheme="EC">H01L  23/31H2</classification-symbol><classification-symbol scheme="EC">H01L  23/31H2B</classification-symbol><classification-symbol scheme="EC">H01L  23/498C4</classification-symbol></classification-ecla><invention-title load-source="docdb" status="new" lang="EN">SEMICONDUCTOR DEVICE AND METHOD FOR MANUFACTURING THE SAME</invention-title><invention-title load-source="docdb" status="new" lang="FR">DISPOSITIF A SEMI-CONDUCTEUR ET PROCEDE DE FABRICATION ASSOCIE</invention-title><citations><patent-citations><patcit ucid="JP-7273134-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>7273134</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-9089462-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>9089462</doc-number><kind>A</kind></document-id><sources><source category="A"  name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>See also references of EP     1111667A1</text><sources><source name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>HITACHI CHEMICAL CO LTD</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>KANEDA AIZOU</name><address><country>JP</country></address></addressbook></applicant><applicant status="new"  format="epo"><addressbook><name>KOUSAKA TAKASHI</name><address><country>JP</country></address></addressbook></applicant><applicant status="new"  format="epo"><addressbook><name>SUZUKI NAOYA</name><address><country>JP</country></address> </addressbook></applicant><applicant status="new"  format="epo"><addressbook><name>TANAKA TOSHIAKI</name><address><country>JP</country></address> </addressbook> </applicant> <applicant status="new" format="epo"><addressbook><name>YASUDA MASAAKI</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>HITACHI CHEMICAL COMPANY, LTD.</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>KANEDA, AIZOU</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>KOUSAKA, TAKASHI</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>SUZUKI, NAOYA</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>TANAKA, TOSHIAKI</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>YASUDA, MASAAKI</name></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>KANEDA AIZOU</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>KOUSAKA TAKASHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SUZUKI NAOYA</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TANAKA TOSHIAKI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>YASUDA MASAAKI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KANEDA, AIZOU</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KOUSAKA, TAKASHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SUZUKI, NAOYA</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TANAKA, TOSHIAKI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>YASUDA, MASAAKI</name></addressbook></inventor></inventors></parties></bibliographic-data><abstract load-source="docdb" source="national office" status="new" lang="EN"><p>An encapsulated semiconductor device wherein a semiconductor chip is mounted on a semiconductor chip mounting substrate with an adhesive having a curing start temperature of exothermic reaction of 130  DEG C or less measured by means of a differential scanning calorimeter on the assumption that the temperature rise rate is 10  DEG C/min. A method for manufacturing the same is also disclosed.</p></abstract><abstract load-source="docdb" source="national office" status="new" lang="FR"><p>L'invention concerne un dispositif à semi-conducteur encapsulé, dans lequel une puce est fixée sur un substrat de montage au moyen d'un adhésif. Ce dernier, pour la réaction exothermique, a une température de début de durcissement inférieure ou égale à 130  DEG C, mesurée par un calorimètre à balayage différentiel, sur la base d'une vitesse d'élévation de la température égale à 10  DEG C/min. L'invention concerne également un procédé permettant de fabriquer ledit dispositif.</p></abstract><description load-source="epoque" status="new" lang="EN"><p><pre xml:space="preserve" listing-type="other">
+
+ 
+EMI1.1     
+  
+EMI2.1     
+  
+EMI3.1     
+  
+EMI4.1     
+  
+EMI5.1     
+  
+EMI6.1     
+  
+EMI7.1     
+  
+EMI8.1     
+  
+EMI9.1     
+  
+EMI10.1     
+  
+EMI11.1     
+  
+EMI12.1     
+  
+EMI13.1     
+  
+EMI14.1     
+  
+EMI15.1     
+  
+EMI16.1     
+  
+EMI17.1     
+  
+EMI18.1     
+  
+EMI19.1     
+  
+EMI20.1     
+
+  
+</pre></p></description><claims load-source="epoque" status="new" lang="EN"><claim num="1"><claim-text>
+ 
+EMI21.1     
+  
+EMI22.1     
+ 
+</claim-text></claim></claims><copyright>User acknowledges that the Information Retrieval Facility (IRF) and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws. User acquires no ownership rights to this xml including but not limited to its format. User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.ir-facility.org/legal/marec/data_licence</copyright></patent-document>

@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.ir-facility.org/dtds/patents/v1.4/patent-document.dtd"><patent-document ucid="WO-2000044313-A1" country="WO" doc-number="2000044313" kind="A1" lang="EN" family-id="27382014" status="new" date-produced="20090508" date="20000803"><bibliographic-data><publication-reference ucid="WO-2000044313-A1" status="new" fvid="77431518"><document-id status="new" format="original"><country>WO</country><doc-number>2000044313</doc-number><kind>A1</kind><date>20000803</date></document-id></publication-reference><application-reference ucid="US-0002126-W" status="new" is-representative="NO"><document-id status="new" format="epo"><country>US</country><doc-number>0002126</doc-number><kind>W</kind><date>20000127</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-11759999-P" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>11759999</doc-number><kind>P</kind><date>19990127</date></document-id></priority-claim><priority-claim ucid="US-15213599-P" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>15213599</doc-number><kind>P</kind><date>19990825</date></document-id></priority-claim><priority-claim ucid="US-16193499-P" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>16193499</doc-number><kind>P</kind><date>19991028</date></document-id></priority-claim></priority-claims><technical-data status="new"><classification-ipc status="new"><edition>7</edition><main-classification>A61F   2/24</main-classification><further-classification>A61M   5/00</further-classification></classification-ipc><classifications-ipcr><classification-ipcr status="new">A61F               20060101S I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61F   2/01        20060101A N20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61F   2/01        20060101C N20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61F   2/24        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61F   2/24        20060101C I20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61M   5/00        20060101A I20051110RMEP        </classification-ipcr><classification-ipcr status="new">A61M   5/00        20060101C I20051110RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">A61F   2/24D</classification-symbol><classification-symbol scheme="EC">A61F   2/24H</classification-symbol><classification-symbol scheme="EC">A61F   2/90</classification-symbol><classification-symbol scheme="ICO">K61F2:01</classification-symbol><classification-symbol scheme="ICO">K61F2:24D6</classification-symbol></classification-ecla><invention-title load-source="docdb" status="new" lang="EN">CARDIAC VALVE PROCEDURE METHODS AND DEVICES</invention-title><invention-title load-source="docdb" status="new" lang="FR">PROCEDES ET DISPOSITIFS POUR INTERVENTIONS SUR VALVULES CARDIAQUES</invention-title><citations><patent-citations><patcit ucid="US-5827237-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5827237</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5876367-A"  status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5876367</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="US-5980570-A" status="new"><document-id status="new"  format="epo"><country>US</country><doc-number>5980570</doc-number><kind>A</kind></document-id><sources><source category="AP"  name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="US-5984959-A" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>5984959</doc-number><kind>A</kind></document-id><sources><source category="AP" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>See also references of EP     1154738A1</text><sources><source name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>LAMBRECHT GREGORY H</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>LIDDICOAT JOHN</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>MOORE ROBERT KEVIN</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>VIACOR INC</name><address><country>US</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>LAMBRECHT, GREGORY, H.</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>LIDDICOAT, JOHN</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>MOORE, ROBERT, KEVIN</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>VIACOR INCORPORATED</name></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>LAMBRECHT GREGORY H</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>LIDDICOAT JOHN</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>MOORE ROBERT KEVIN</name><address><country>US</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>LAMBRECHT, GREGORY, H.</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>LIDDICOAT, JOHN</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>MOORE, ROBERT, KEVIN</name></addressbook></inventor></inventors></parties></bibliographic-data><abstract load-source="docdb" source="national office" status="new" lang="EN"><p>Devices and methods for performing intrvenous vascular procedures without cardiac bypass. The devices include various embodiments of temporary filter devices (10), temporary valves (26, 100), and prosthetic valves (80, 85, 86, 90). The temporary filter devices (10) have one or more cannulae (2) which provide access for surgical tools for effecting repair of the cardiac valves. A cannula (2) may have filters (3) of various configurations encircling the distal region of the cannula, which prevents embolism material from entering the coronary arteries, and aorta. In one embodiment, a set of valve leaflets (70, 71) extend peripherally from the filter to prevent blood flow through peripheral arteries. The temporary valve devices (26) may also have one or more cannulae (2') which guide insertion of the valve into the aorta. The valve devices (26) expand in the aorta to occupy the entire flow path of the vessel. In one embodiment, the temporary valve (26) is a disc of flexible, porous material that acts to filter blood passing therethrough. In another embodiment, the temporary valve (100) has leaflets (111) which act in concert to alternately block or allow blood flow.</p></abstract><abstract load-source="docdb" source="national office" status="new" lang="FR"><p>La présente invention se rapporte à des dispositifs et à des procédés permettant d'effectuer des interventions intravasculaires sans pontage cardiaque. Ces dispositifs comprennent diverses réalisations de dispositifs filtrants temporaires (10), de valvules temporaires (26) et de valvules prothétiques (90). Les dispositifs filtrants temporaires (10) possèdent une ou plusieurs canules (2) qui permettent à des outils chirurgicaux d'accéder à des valvules cardiaques en vue de leur réparation. Une canule (2) peut comporter des filtres (3) de structures diverses autour de sa région distale, ce qui gène la pénétration de la matière embolique dans les artères coronaires, et l'aorte. Les dispositifs valvules temporaires (26) peuvent comporter une ou plusieurs canules (2') qui guident l'introduction de la valvule dans l'aorte. Ces dispositifs valvules (26) se déploient dans l'aorte de manière à occuper la totalité du chemin d'écoulement du vaisseau. Dans une réalisation, la valvule temporaire (26) est un disque composé d'un matériau souple et poreux qui sert à filtrer le sang le traversant. Plusieurs valves sont disposées en périphérie du disque. Ces valves peuvent, de manière alternée, s'affaisser pour empêcher l'écoulement sanguin dans la valvule et se déployer pour permettre ledit écoulement.</p></abstract><description load-source="pctxml" status="new" lang="EN"><!-- EPO <DP n="3"/>--><p num="p0001"> CARDIACVALVE PROCEDURE METHODSAND DEVICES</p><p num="p0002">Background</p><p num="p0003">Of all valvular heart lesions, aortic stenosis carries the worst prognosis. Within one year of diagnosis, half of patients with critical aortic stenosis have died, and by three years this figure rises to 80%. Currently, there is only one effective treatment for patients with aortic stenosis — aortic valve replacement via open heart surgery. Unfortunately, this is a substantial and invasive undertaking for the patient. While there have been significant advances in heart valve technology over the last thirty years, there has been little progress in the development of safer and less invasive valve delivery systems. Aortic valve replacement currently requires a sternotomy or thoracotomy, use of cardiopulmonary bypass to arrest the heart and lungs, and a large incision on the aorta. The native valve is resected through this incision and a prosthetic valve is sutured to the inner surface of the aorta with a multitude of sutures passing into the wall of the aorta. This procedure is accompanied by a 5% mortality rate, in addition to significant morbidity (stroke, bleeding, myocardial infarction, respiratory insufficiency, wound infection) related to the use of cardiopulmonary bypass and the approach to the aortic valve. Elderly patients and those who require concomitant coronary artery bypass grafting experience increased morbidity and mortality. All patients require 4 to 6 weeks to recover from the procedure.</p><p num="p0004">Less invasive approaches to aortic valve surgery have followed two paths. In the Eighties, there was a flurry of interest in percutaneous balloon valvotomy. In this procedure, a cardiologist introduced catheters through the femoral artery to dilate the patient's aortic valve, thereby relieving the stenosis. Using the technology available at that time, success was limited. The valve area was increased only minimally, and nearly all patients had restenosis within one year. More recently, surgeons have approached the aortic valve via smaller chest wall incisions. These approaches still require cardiopulmonary bypass and cardiac arrest, which entail significant morbidity and a prolonged postoperative recovery.</p><p num="p0005">A truly minimally invasive approach to the treatment of aortic valve disease requires aortic valve replacement without cardiopulmonary bypass. Such an approach 
+<!-- EPO <DP n="4"/>-->
+would reduce patient morbidity and mortality and hasten recovery. Although there has been great progress in the treatment of coronary artery disease without cardiopulmonary bypass (angioplasty/stenting and "off-pump" coronary artery bypass grafting), similar advances have not yet been realized in heart valve surgery. With an aging population and improved access to advanced diagnostic testing, the incidence of aortic stenosis will continue to increase. The development of a system for "off-pump" aortic valve replacement would be of tremendous benefit to this increasing patient population.</p><p num="p0006">There are three significant challenges to replacing a diseased aortic valve without cardiopulmonary bypass. The first is to remove the valve without causing stroke or other ischemic events that might result from particulate material liberated while manipulating the valve. The second is to prevent cardiac failure during removal of the valve. The aortic valve serves an important function even when diseased. When the valve becomes acutely and severely incompetent during removal, the patient develops heart failure leading to death unless the function of the valve is taken over by another means. The third challenge is placing a prosthetic valve into the vascular system and affixing it to the wall of the aorta.</p><p num="p0007">Temporary valves have been reported in the art, most notably by Boretos, et. al. in U.S. 4,056,854 and Moulopoulos in U.S. 3,671,979. All temporary valves disclosed to date have been inserted into a vessel, advanced to a location distant from the insertion site and then expanded radially from the center of the vessel.</p><p num="p0008">These designs have many disadvantages. First, they tend to occupy a significant length of the vessel when deployed. During a valve procedure, it may be advantageous to place the temporary valve in a vessel between two branches leading from that vessel. It may also be necessary to insert other tools through the vessel wall between those two branches. A temporary valve such as the ones disclosed in the art may leave very little room between the branches for insertion of these tools. The valves disclosed to date tend also to be rather flimsy and may have difficulty supporting the fluid pressures while the valve is closed. A more significant disadvantage of these valves is that they generally must be inserted into a vessel at a significant distance from the valve to allow adequate room for deployment. If some portions of the operation are performed through the chest wall, insertion of such a 
+<!-- EPO <DP n="5"/>-->
+temporary valve may require a separate incision distant from the chest cavity. This adds morbidity and complexity to the procedure. Another drawback of the prior art is that valves with three or fewer leaflets rely on the perfect performance of each of those leaflets. If one of the leaflets malfunctions, the valve fails to function adequately.</p><p num="p0009">Throughout this disclosure the terms proximal and distal will be used to describe locations within the vascular anatomy. In the arterial system, proximal means toward the heart while distal means away from the heart. In the venous system, proximal means away from the heart while distal means toward the heart. In both the arterial and venous systems a distal point in a blood flowpath is downstream from a proximal point. The terms antegrade and retrograde flow are also used. In the arterial system, antegrade refers to flow away from the heart while retrograde refers to flow toward the heart. In the venous system, these terms are again reversed. Antegrade means toward the heart while retrograde means away from the heart.</p><p num="p0010">Summary of the Invention</p><p num="p0011">The present invention relates to devices and methods for providing a valve within a fluid-bearing vessel within the body of a human. The present invention further relates to intravascular filters capable of filtering particulate debris flowing within a vessel. The present invention further relates to devices and methods for performing the repair or replacement of cardiac valves.</p><p num="p0012">One aspect of the present invention involves methods and devices of performing aortic valve repair or replacement. In one form, the method involves the steps of inserting at least a temporary valve and a temporary filter into a segment of the aorta. Following placement of these devices, various procedures can be carried out on the aortic valve. Following the procedure, the temporary valve and temporarily filter can be removed.</p><p num="p0013">The temporary valve acts to restrict retrograde blood flow while allowing antegrade flow. Generally, the valve allows forward or antegrade flow during the systolic phase of cardiac rhythm while obstructing flow during the diastolic phase. The valve serves to assist or replace the function of the native aortic valve while a procedure is performed on the native valve. The temporary valve means can be one 
+<!-- EPO <DP n="6"/>-->
+of a variety of possible designs. The embodiments described below are merely illustrative examples and do not serve to limit the scope of this invention.</p><p num="p0014">The temporary valve can be placed in any suitable location within the aorta and can be inserted either directly into the aorta itself or advanced into the aorta from a peripheral vessel such as the femoral or axillary artery. The temporary valve is preferably inserted into the vascular system in a compressed state requiring a relatively small insertion hole and expands or is expanded within the aorta at a desired site. It can then be compressed for removal. In its expanded state, the valve can occupy the entirety of the aorta's flow path, although this is not a requirement of the present invention and may not be preferred in certain patients with extensive atherosclerotic disease in the aorta. The temporary valve, therefore, can, but does not need to contact the wall of the aorta and can act to obstruct all or only a portion of the aorta's flow path.</p><p num="p0015">The temporary filter acts to prevent emboli that may be dislodged during the valve procedure from moving distal to the filter. In a preferred method of use, the filter is placed in the aorta proximal to the braciolcephalic artery to prevent emboli from reaching the brain. The filter can be one of a variety of designs, including, but not limited to a mesh filter with a pore size smaller than the dimensions of anticipated embolic particles. The filter can be inserted directly into the aorta or advanced into the aorta from a peripheral artery. It is preferably inserted in a compressed state and expands or is expanded to a larger state at a desired site within the aorta.</p><p num="p0016">The temporary filter and temporary valve can be separate elements or part of a single device. They may be affixed to various tubes, rods, wires, catheters, etc., to aid in their insertion into and removal from the vascular system. Once the temporary valve and filter have been placed within the aorta, various procedures can be performed safely on the aortic valve while the heart is beating. This includes, but is not limited to, balloon aortic valvuloplasty, or removal of the aortic valve, followed by placement of a permanent valve prosthesis. The temporary valve, temporary filter, or both may be designed with lumens through which various procedure instruments can be placed. Instruments might also be passed around these devices or through a site in the aorta proximal to them. 
+<!-- EPO <DP n="7"/>-->
+ Another aspect of the present invention is a method of performing a procedure on a beating heart involving, at a minimum, inserting into the aorta, a temporary valve, as described above, removing at least some portion of the native aortic valve, and placing a permanent valve prosthesis at a site within the aorta. The temporary valve allows removal of the native valve while reducing the risk of heart failure due to insufficiency of the native valve. Removal of at least some portion of the native valve can be carried out with one or a variety of tools that can be inserted either directly into the aorta or through a peripheral artery and advanced to the native valve. Similarly, the permanent valve prosthesis can be inserted either directly into the aorta or advanced into the aorta from a peripheral artery. The valve prosthesis is preferably inserted in a compressed state and expands or is expanded at the desired implantation site. The implantation site is preferably proximal to the coronary arteries, but can be at any suitable location in the aorta. The valve can be one of a variety of types known in the art, but is preferably a flexible valve suitable for inserting into an artery in a compressed state. This method can further involve the placement of a temporary filter as described above to reduce the risk of emboli generated during manipulation of the native valve. As described above, the temporary filter can be a separate device or an integral component of the temporary valve.</p><p num="p0017">Any procedure performed using the disclosed methods can be assisted by one of a variety of visualization technologies, including, but not limited to, fluoroscopy, angioscopy and/or epi-cardial, epi-aortic, and/or trans-esophageal echocardiography. These methodologies allow real-time visualization of intra-aortic and intra-cardiac structures and instruments.</p><p num="p0018">Specific reference is made to procedures performed on the aortic valve in this description, however the methods and devices described herein could be applied to other valves within the heart. The devices described above and in the claims below can be used as part of procedures performed on cardiac valves, but their use is not restricted to this limited application. 
+<!-- EPO <DP n="8"/>-->
+Description Of The Drawing</p><p num="p0019">For a fuller understanding of the nature and objects of the present invention, reference should be made to the following detailed description taken in connection with the accompanying drawings, in which: Figures 1A-1F depict various phases in the deployment of an exemplary filter device of the present invention;</p><p num="p0020">Figures 2A-2C depict another embodiment of a temporary filter device. A small balloon located about the exterior of the cannula of this device forces blood to flow through a filter when inflated; Figure 3 A shows a schematic representation of an endovascular procedure catheter of the invention, with the one-way valve and filter membrane in a retracted position;</p><p num="p0021">Figure 3B depicts the endovascular procedure catheter of Figure 3 A following deployment of the one-way valve and filter membrane; Figure 4A depicts valve and filter components of the procedure catheter of</p><p num="p0022">Figure 3A viewed along the retrograde flow path. The valve is closed on the left portion of Figure 4 A, preventing retrograde flow, and open on the right portion of Figure 4A, allowing antegrade flow;</p><p num="p0023">Figure 4B depicts the "valve open" (left portion) and "valve closed" (right portion) positions of the procedure catheter of Figure 3 A viewed along an axis perpendicular to the flow path;</p><p num="p0024">Figure 3 A depicts the filter membrane element of the procedure catheter of Figure 1 A as viewed along the flow path within a vessel;</p><p num="p0025">Figure 5B depicts the procedure catheter of Figure 3 A with the one-way valve removed;</p><p num="p0026">Figure 6 depicts an exemplary deployment system for the temporary valve and filter elements of the endovascular procedure catheter of Figure 3 A;</p><p num="p0027">Figures 7A-7D depict exemplary elements used to aid in deployment of the temporary valve and filter element of the endovascular procedure catheter of Figure 3A;</p><p num="p0028">Figures 8 A and 8B depict another embodiment of a temporary valve and filter device of the invention. The temporary valve of the depicted device is a small balloon 
+<!-- EPO <DP n="9"/>-->
+on the outside of an inner cannula. The balloon is inflated to prevent retrograde flow and deflated to allow antegrade flow;</p><p num="p0029">Figures 9A and 9B depict another embodiment of a temporary valve and filter device in accordance with the invention. Flaps of material collapse against the expandable mesh of the temporary filter to prevent retrograde flow;</p><p num="p0030">Figures 10A and 10B depict another embodiment of a temporary valve and filter device in accordance with the invention. Slits cut in a valve material located about the expandable mesh provide a path for blood during antegrade flow and close against the expandable mesh during retrograde flow; Figures 11 A and 1 IB depict the device of Figures 2A-C with the addition of a one-way valve;</p><p num="p0031">Figure 12 depicts an exploded cross-sectional view of an alternative temporary valve assembly in accordance with the invention. In Figure 12, components of the valve pieces are shown in cross section except for backing element 110 and valve 111;</p><p num="p0032">Figures 13A, 13B, 13C, 13C ,13D and 13D depict a series of cross-sectional views of the valve assembly illustrated in Figure 12;</p><p num="p0033">Figure 13 A depicts the valve of the exemplary valve assembly of Figure 12 in a compressed state within a delivery cannula 105; Figure 13B depicts the valve of Figure 13A advanced outside of delivery cannula 105;</p><p num="p0034">Figure 13C depicts the expanded valve of Figure 13 A seen looking down the long axis of the vessel into which it is deployed. The valve is expanded by pulling back on button 101. In Figure 13C, the valve is open, allowing flow through flexible loop 109. This depiction represents the state of the valve during the systolic phase when placed in the aorta and acting to support the aortic valve;</p><p num="p0035">Figure 13C is the same as Figure 13C with the valve assembly viewed along a radius/diameter of the vessel into which it is deployed. Naive leaflets 111 extend away to the right (as shown) of flexible loop 109;</p><p num="p0036">Figure 13D depicts the expanded valve of Figure 13A seen looking down the long axis of the vessel into which it is deployed. In Figure 13D, the valve is in a 
+<!-- EPO <DP n="10"/>-->
+closed position, preventing flow through flexible loop 109. This depiction represents the state of the valve during the diastolic phase when placed in the aorta and acting to support the aortic valve;</p><p num="p0037">Figure 13D' is the same as Figure 13D with the valve assembly viewed along a radius/diameter of the vessel into which it is deployed. Naive leaflets 111 are collapsed against backing 110;</p><p num="p0038">Figures 14A-14D depict the valve end of temporary valve assembly of Figure 12 inserted into a vessel. Figure 14A is a lateral view, showing partial deployment into the vessel. Figure 14B is a lateral view of the deployment of Figure 14A, showing a rod 106 positioning the temporary valve into the vessel. In this view, the temporary valve is beginning to unfold and expand. Figures 14C and 14D show similar views with the temporary valve somewhat more deployed;</p><p num="p0039">Figure 15 depicts a temporary valve of the invention deployed in the aorta with the valve open; Figure 16 depicts the temporary valve of Figure 16 deployed in the aorta, with the valve closed;</p><p num="p0040">Figures 17A-17E show various components of a prosthetic valve and fixation system in lateral views (left side) and axial views (right side);</p><p num="p0041">Figure 18 depicts a method of performing surgery on a cardiac valve using a temporary valve and filter of the invention;</p><p num="p0042">Figure 19 depicts another method of performing surgery on a cardiac valve using a temporary valve of the invention;</p><p num="p0043">Figure 20 depicts the methods of Figures 18 and 19 following removal of the cardiac valve and inner cannula; Figure 21 depicts deployment of an expandable prosthetic valve through the outer cannula and into the valve annulus, in accordance with the invention;</p><p num="p0044">Figure 22 depicts an exemplary method of fixing a prosthetic valve to a vessel wall during cardiac rhythm, in accordance with the invention;</p><p num="p0045">Figures 23 A and 23B depict a method for repairing a stenotic aortic valve, in accordance with the invention;</p><p num="p0046">Figure 24 depicts another method for performing surgery in a cardiac valve using a temporary valve and filter in accorance with the invention. 
+<!-- EPO <DP n="11"/>-->
+Description of the Preferred Embodiments</p><p num="p0047">The methods and devices of the present invention can be used for performing procedures on cardiac valves without cardiac arrest or cardiopulmonary bypass. Various embodiments of the methods and devices are described to clarify the breadth of the present invention.</p><p num="p0048">Preferred Embodiments - Temporary Filter Device</p><p num="p0049">One critical aspect of any intravascular procedure that potentially involves the liberation of embolic material is the prevention of stroke and other ischemic events. Below, numerous temporary filter devices are described that allow the passage of procedure instruments into the vascular system while filtering blood passing through the lumen of the vessel into which the instrument is placed.</p><p num="p0050">Figures 1A-1F depict multiple stages of deployment of an exemplary temporary filter device 10 of the present invention. This device is particularly useful during the manipulation and/or resection of a cardiac valve.</p><p num="p0051">Figure 1A shows the three primary components of the filter device 10-outer cannula 1, inner cannula 2, and expandable mesh 3. Outer cannula 1 has an inner diameter that is greater than the outer diameter of inner cannula 2. Mesh 3 is generally tubular when collapsed and at least conical in part when expanded, and is located on the outside of inner cannula 2. The apex of the conical portion of mesh 3 is movably attached to inner cannula 2 along a length proximal (to the right) of inner cannula 2's distal tip. Collapsed mesh 3 is restrained on inner cannula 2 between two OD steps 4 rigidly affixed or integral to inner cannula 2. These OD steps may be greater than the generalized outer diameter of inner cannula 2 or may mark the ends of a reduced diameter section of inner cannula 2. The apex of mesh 3 is free to slide along and rotate about inner cannula 2's length between the two OD steps. Expandable mesh 3 may be affixed to a ring (not shown) with an inner diameter larger than the outer diameter of cannula 2 along this length. This allows the cannula to be moved along and rotated about its long axis within a tubular vessel without the expandable means and filter material moving against and abrading the vessel wall. 
+<!-- EPO <DP n="12"/>-->
+This feature may act to minimize the risk of dislodging embolic material from the vessel wall during manipulations required by the procedure.</p><p num="p0052">To maintain its collapsed state in the embodiment of Figures 1A-1F, the self- expanding, mesh 3 is positioned against the outer surface of inner cannula 1. As shown in Figure IE (but not shown in Figures 1 A- IF), a filter material 71, such as woven nylon mesh with a defined pore size, may be positioned over the mesh 3. Such a material is optional and may be used to cover at least some portion of expanded mesh 3 and may be placed on either the outer or inner surface of mesh 3.</p><p num="p0053">The outer and inner cannulae can be constructed from any one of a variety of materials, including, but not limited to, various plastics, rubber, and metals. They can be either wholly rigid or flexible in nature. They can be rigid along most of their lengths with a small flexible region or regions that allow the cannulae to bend. There can further be a valve means (not shown) situated along the interior of inner cannula 2 that prevents the flow of blood while allowing passage of instruments through inner cannula 2. Either or both of inner cannula 2 and outer cannula 1 can have additional degassing ports (not shown) exterior to the vascular system to allow removal of air and other gases from the interiors of the cannulae.</p><p num="p0054">Expandable mesh 3 can also be made from any one of a variety of materials, but is preferably constructed from elastic metal woven into a tube. This tube preferably has a first diameter in an expanded state and a second, smaller diameter in a compressed state. The first diameter is preferably similar to that of the aorta or vessel in which the filter is used. The mesh itself can act as a filter or filter material can be attached along its interior or exterior. This embodiment is merely an illustrative example. There are many other potential embodiments of a filter means that could be imagined without departing from the spirit of the present invention.</p><p num="p0055">Figure IB depicts assembled filter device 10, with the distal end of the inner cannula 2 inserted into the proximal end of the outer cannula 1.</p><p num="p0056">Figure 1C depicts assembled filter device 10 with the outer cannula 1 retracted proximally, exposing mesh 3 and allowing its free to expand against the inner wall of the vessel into which it is deployed. In this embodiment, mesh 3 expands into a conical shape, with the base of the cone extending toward the distal end of the cannulae. Inner cannula 2 has a deflected tip that bends the lumen of the cannula 
+<!-- EPO <DP n="13"/>-->
+away from the long axis of the device. This bend assists in guiding any procedural instrument passed through the lumen of inner cannula 2 toward the wall of the vessel and/or the attachments of a cardiac valve to that wall. The mobility of mesh 3 in this figure permits this bend without altering the orientation of mesh 3 relative to the vessel into which it is inserted. As shown, the tip of inner cannula 2 extends beyond mesh 3. Moreover, in some embodiments, that tip is steerable under the remote control of a surgeon. In that configuration, a device, such as valve resecting device which extends out of cannula 2, may be steered to resect desired portion of a stenotic valve, for example. The invention may also include a fiber optic viewing assembly extending through cannula 2.</p><p num="p0057">Figure ID depicts the device of Figure 1C with inner cannula 2 rotated 180° about its long axis and retracted proximally. The sliding attachment of expanded mesh 3 to inner cannula 2 allows this to occur without any motion of mesh 3 relative to the vessel wall. Figure IE depicts the device of Figure ID during removal. Outer cannula lis advanced over inner cannula 2 and is about to compress expanded mesh 3 and any entrapped material. The mobility of expanded mesh 3 relative to inner cannula 2 causes mesh 3 to move beyond the distal end of inner cannula 2. This ensures that embolic material captured by mesh 3 will not be trapped between mesh 3 and the exterior of inner cannula 2. This would prevent passage of outer cannula 1 over mesh 3 and inner cannula 2. With the mobility of mesh 3 relative to inner cannula 2, a much greater amount of embolic material may be trapped compared to a fixed proximal filter as described in the prior art.</p><p num="p0058">Figure IF depicts the device of Figure ID with filter material 71 added to the exterior surface of expanded mesh 3. In this embodiment, expanded mesh 3 has been shortened to just the cone portion of the prior meshes. Extending distally beyond this cone are filter extensions 70 that occupy only a portion of the circumference of a cylinder having a diameter equal to the maximum diameter of the cone-shaped mesh 3. The extensions are adapted to lie along the vessel wall and rest over the ostium of one or more arteries that branch from the vessel. The extension configuration of</p><p num="p0059">Figure IE is advantageous for filtering the ostia of branch vessels that may be located between valve commissures, such as the coronary ostia in the aorta. 
+<!-- EPO <DP n="14"/>-->
+ For aortic valve applications, extensions 70 are preferably from three points spaced around the circumference of the cone's expanded end. These points are preferably 120 degrees apart. Each extension 70 is preferably a hemi-circular leaflet with the diameter of the hemi-circle being located about the circumference of the cone's base. When deployed, device 10 is oriented so that the base of the cone is expanded toward the aortic valve. The shape of the three leaflets allows the filter to be expanded or advanced along the wall of the aorta beyond the plane created by the three apices of the aortic valve commissures. In this position, the leaflets cover and filter the left and right coronary ostia while the filter cone filters blood flowing through the aorta.</p><p num="p0060">In the expanded position, the three extensions 70 can be biased against the wall of the aorta by expandable mesh 3, by the stiffness of the filter material 71, or by the shape of the filter itself. Extensions 70 can further be designed to exploit pressure within the vessel to compress them against the vessel wall. Such an expandable filter acts to filter just the branch vessels with the conical portion of the expanded mesh left uncovered by filter material 71. In such an embodiment, either the partial filter extensions can be employed (as in Figure IF) or full cylindrical filters (not shown) that cover the entire circumference of the vessel wall can be employed. Figures 2 A, 2B, and 2C show an alternate embodiment of a filter that can be used to filter emboli from blood flowing through a vessel. Filter 20 consists of cannula 17, a valve located within the interior of the cannula (not shown), an expandable means depicted as balloon 19, and a filter depicted as mesh 18. The valve interior to cannula 17 acts to prevent the flow of blood out of the vessel through cannula 17 while allowing the passage of instruments through the lumen of cannula 17. This valve is positioned to the right of filter 18 as viewed in Figures 2 A and 2B. Balloon 19 can be expanded by the injection of gas or liquid through port 21. Once inflated, balloon 19 obstructs the flow path of the vessel exterior to cannula 17. Hence, the blood must flow into the interior of cannula 17 and exit the cannula through filter 18. In this way, emboli are prevented from flowing past the filter. In Figure 2B, an intravascular instrument 5 has been passed through the inner lumen of cannula 17. As instrument 5 does not occupy the entire interior flow area of cannula 
+<!-- EPO <DP n="15"/>-->
+17, blood can flow around instrument 5, into cannula 17 and through filter 18. Figure 2C is an end-on view of filter 20 and instrument 5 from the left side as viewed in Figure 2B. In this figure, the blood flow path is annulus 22 formed by the inner wall of the cannula 17 and the shaft of the instrument 5. Additional blood flow paths could be provided through portions of balloon 19. Optionally, these paths additionally have a filter mesh covering the path. Filter 20 can be used in a variety of intravascular procedures that would benefit from the filtration of blood.</p><p num="p0061">Preferred Embodiment - Combined Temporary Naive Devices In order to carry out procedures on cardiac valves without cardiopulmonary bypass, it is critical to support the function of the valve during the procedure. Numerous preferred embodiments of temporary valves that perform this function are disclosed below. Many of these valves are combined with filters to further limit the risk of ischemic events that might result from liberated embolic material. Figures 3-7 depict one embodiment of such a combined valve and filter device. As depicted in Figures 3 A and 3B, endovascular procedure catheter 2' is inserted into the host. It is positioned over a guide wire 800 at its desired location, for this example in the ascending aorta above the coronary arteries and below the brachiocephalic artery. Guide wire 800 and guiding catheter 700 can then be removed.</p><p num="p0062">Once endovascular procedure catheter 2' is in position, temporary one way valve 26, the selectively permeable, filtering membrane 3', and mounting ring 900 are deployed. Deployment comprises the controlled, adjustable increase in the diameter of valve 26, membrane 3 ', and / or mounting ring 900 until they abut or nearly abut the inner wall of the vessel.</p><p num="p0063">Temporary one-way valve mechanism 26 can be comprised of any type of one way valve. The critical function of valve 26 is to limit the aortic insufficiency and, thus, the amount of volume overload on the heart generated by resecting or manipulating the diseased or damaged host valve. This will allow procedures to be performed on the valve and replacement of the valve without the need for partial or complete cardiac bypass or cardiopulmonary bypass. 
+<!-- EPO <DP n="16"/>-->
+ Next, the host aortic valve is resected, removed or manipulated. If the valve is to be replaced, the new cardiac valve is implanted. This valve can be mounted on endovascular procedure catheter 2' or can be delivered through another port of entry or cannula. Upon completion of the procedure, all devices are retracted and removed. The illustrated exemplary endovascular procedure catheter 2' is a cylindrical sleeve that is made of a flexible material. It is durable and resistant to thrombogenesis.</p><p num="p0064">It has several associated components:</p><p num="p0065">• a lumen for the passage of devices e.g. imaging devices, tissue resecting devices, valve deployment devices, the new valve, or any other device necessary to perform endovascular procedures on the endovascular vessels or valves</p><p num="p0066">• a guiding catheter 700 which is tapered on the end and extends out of the working port of the endovascular procedure catheter 2'; catheter 700 helps in positioning the endovascular procedure catheter • a one way valve 25 inside the catheter which limits blood loss during the procedure</p><p num="p0067">• temporary one way valve 26</p><p num="p0068">• a selectively permeable, filtering membrane 3 '</p><p num="p0069">• an endovascular mounting ring 900 onto which temporary valve 26 and/or selectively permeable, filtering membrane 3 ' are mounted</p><p num="p0070">• a stent system 950-958 which deploys the mounting ring 900, temporary endovascular one-way valve 26 , and selectively permeable filtering membrane 3 ' by interacting with guiding catheter 700 and endovascular procedure catheter 2' • several holes 600 in the wall of the distal end of the catheter which may augment antegrade flow of blood during the procedure.</p><p num="p0071">The aforementioned components may be used alone or in combination during endovascular procedures. The lumen of endovascular procedure catheter 2' functions as a working port allowing for the passage of devices such as imaging devices, tissue resecting devices, 
+<!-- EPO <DP n="17"/>-->
+or any other device necessary to perform endovascular procedures on the endovascular vessels or valves.</p><p num="p0072">Endovascular procedure catheter 2' itself has a one-way valve 25 in its lumen (indicated in phantom) to minimize the loss of fluid i.e. blood during the procedure. This one-way valve can be of any configuration as long as it serves to permit the passage and removal of instruments through the lumen of the endovascular procedure catheter and inhibits retrograde blood flow through the endovascular procedure catheter. It is located proximal to side holes 600 of endovascular procedure catheter 2'. Temporary valve 26 is made of a flexible, durable, non-thrombogenic material. Valve 26 can be any type of one-way valve and consist of as many or few leaflets as desired as long as it permits the antegrade flow of blood and prevents the retrograde flow of blood. This minimizes the development of aortic insufficiency created during manipulation of the valve and minimizes the need for cardiac or cardiopulmonary bypass. Naive 26 depicted in Figure 3 A, 3B and Figure 4A, 4B is a bileaflet valve mounted on mounting ring 900. It permits antegrade blood flow through filter 3 ' in the open position and inhibits retrograde blood flow by collapsing against filter 3 ' in the closed position. The valve mechanism is a simple one way, single orifice valve which is mounted on the stabilizer. However, the valve can sit independent of mounting ring 900 and as aforementioned can take on any shape as long as it functions as a one way valve.</p><p num="p0073">The center of selectively permeable filtering membrane 3 ' is mounted on the outside wall of endovascular procedure catheter 2' . The relatively large diameter peripheral edge is mounted on mounting ring 900. It is conical in shape when deployed and sits just upstream of temporary valve 26. Filter membrane 3 ' is made of a flexible, durable, non-thrombogenic material that has pores that are sized to permit select fluids through (i.e. blood and blood components) but prevents the flow or embolization of debris generated during the endovascular procedure. By placing it upstream of temporary valve 26 it prevents prolapse of the temporary valve leaflets. In order to assist in positioning and removal of endovascular procedure catheter 2', a tapered guiding catheter 700 of the size of the internal diameter of endovascular procedure catheter 2' is placed inside endovascular procedure catheter 
+<!-- EPO <DP n="18"/>-->
+2' as depicted in Figure 3 A. In a preferred form, the tapered end at the distal tip DT extends approximately 2 centimeters beyond the distal end of endovascular procedure catheter 2', but other extension lengths may be used. Guiding catheter 700 is made of flexible material and the end is soft to prevent injury to the vessels during placement of endovascular procedure catheter 2' . Guiding catheter 700 has a lumen of such a size as to permit its passage over guide wire 800.</p><p num="p0074">Guiding catheter 700 also serves to deploy and retract mounting ring 900, temporary valve 26, and filter membrane 3 '. Figure 6 illustrates an exemplary deployment assembly DA for membrane 3'. That assembly DA includes elements 950-958, described in detail below. As depicted in Figure 7A, guiding catheter 700 has slots distally which engage extension arms 955 of struts 952 that support mounting ring 900.</p><p num="p0075">Mounting ring 900 is mounted on the outside of endovascular procedure catheter 2' by struts 952. Mounting ring 900 is comprised of a flexible, durable, nonthrombogenic material which abuts the inner lumen of the vessel when deployed. Temporary valve 26 and/or selectively permeable membrane 3 ' are mounted on mounting ring 900. When mounting ring 900 is deployed so are the mounted components. Mounting ring 900 is deployed in a controlled, adjustable way. Struts 952 are connected to mobile ring 953 and fixed ring 950 which is mounted on endovascular, procedure catheter 2' as shown in Figure 6. Mobile ring 953 has extensions 955 which extend into the lumen of endovascular procedure catheter 2' by passing through slots in the wall of endovascular procedure catheter 2<sup>'</sup>. These extensions are engaged by grooves 957 in the wall of guiding catheter 700. Thus as guiding catheter 700 is withdrawn or advanced inside endovascular procedure catheter 2', mounting ring 900 is deployed or retracted in an umbrella-like manner. Once mounting ring 900 is deployed to the desired diameter, it is "locked" into place by engaging extension arms 955 into locking slots 958 cut into the wall of endovascular procedure catheter 2'. At this point, guiding catheter 700 is disengaged from extension arms 955 and removed while mounting ring 900 remains deployed. As shown in Figure 6, the strut mechanism consists of struts 952, rings 950 and 953, and hinges 954. The strut mechanism depicted here consists of three struts 952 that connect mounting ring 900 to the fixed proximal ring 950 that is mounted on 
+<!-- EPO <DP n="19"/>-->
+the outside of procedure catheter 2'. These struts are also connected to support arms 951 which extend to mobile distal ring 953 also mounted to the outside of endovascular procedure catheter 2'. Distal ring 953 has extension arms 955 which extend through the slots in the wall of procedure catheter 2' as shown in Figure 7. Mounting ring 900 is expanded by moving support rings 953 and 950 relative to each other. Struts 952 and arms 951 are hinged at pivot points 954.</p><p num="p0076">Figures 8 A and 8B illustrate another embodiment of a combined valve and filter device for use in intravascular procedures. The filter means of device 40 is the same as device 10 depicted in Figures 1 A- IE. A temporary valve, depicted in Figures 8A and 8B as expandable balloon 25, is situated on the exterior of outer cannula 1 ' of the device. A continuous lumen (not shown) extends from the interior of balloon 25 to port 21 '. Port 21 ' is connected to balloon pump 8 by tube 24. Figure 8 A depicts a device 40 with filter 3 deployed and balloon 25 deflated during the systolic phase of the cardiac rhythm. Figure 8B shows balloon 25 in an inflated state 25' during the diastolic phase. Similar to device 10 of Figure 3, inner cannula 2 may have a lumen through which instruments can be passed to effect an intravascular procedure. In these figures, the filter is shown to the left of the valve. In other embodiments, this relationship may be reversed.</p><p num="p0077">Figures 9A and 9B show yet another embodiment of a combined valve and filter device for use in intravascular procedures. Device 50 is the same as device 10 in Figures 1A-1E with the addition of valve means 26 that covers the surface of expanded filter 3. In this embodiment, valve means 26 consists of one or a number of thin sheets of material that are attached to the exterior of the base of the cone formed by the expanded mesh filter 3. The sheet material is relatively free to move at the apex of the cone such that mesh filter 3 and the sheet material act in concert as a flap valve. As shown in Figure 9B, blood flows through filter 3 from the interior of the cone causing flap valve 26 to open and allow flow. As shown in Figure 9A, blood moving toward the exterior of the cone causes the sheet material of flap valve 26 to move against the exterior of the cone, preventing flow through filter 3. The device can be delivered with mesh filter 3 and flap valve 26 in a compressed state within outer cannula 1 similar to Figure 3 B. Mesh filter 3 and valve 26 then expand once outer cannula 1 is retracted. The sheet material can additionally be affixed to a more 
+<!-- EPO <DP n="20"/>-->
+proximal segment of inner cannula 2 by thin filaments 27 or the like to aid in returning valve 26 and filter 3 to a collapsed state by advancing the outer cannula 1.</p><p num="p0078">Figures 1 OA and 1 OB show another embodiment of a combined valve and filter device. Device 60 is the same as device 10 in Figures 1 A- IE with the addition of valve 28 that covers the surface of expanded filter 3. Naive 28 consists of a singular sheet of material that covers the entirety of the outer surface of the cone portion of expanded mesh filter 3. It is attached, at a minimum, to the cone's base and either its apex or the exterior of inner cannula 2 near the apex. Slit 29 is cut through the sheet between these attachment sites. As shown in Figure 10A, slot 29 closes against filter 3 <sup>'</sup> during retrograde flow, i.e. flow from the cone's apex toward its base, preventing the passage of blood through expanded filter 3. As shown in Figure 10B, slit 29 moves to an open state 29' during antegrade flow, i.e. from the cone's base toward its apex, allowing passage of blood through expanded filter 3. Slit 29 is shown in these figures as being in a plane that passes through the long axis of inner cannula 2, however other orientations are possible. A singular slit is shown, although there could be multiple slits. The sheet material comprising valve 28 can be attached at additional sites along mesh filter 3 to assist in its function.</p><p num="p0079">Figures 11 A and 1 IB depict a combined valve and filter device 30. The filter means of device 30 is the same as filter device 20 shown in Figures 2A-2C. In this embodiment, valve 22 is placed around the exterior of cannula 17, covering filter 18. Naive means 22 is preferably a flexible sleeve of material such as silicone rubber. A slit 23 has been cut through the sleeve along its length. Slit 23 is normally closed, but opens under positive pressure within cannula 17. Hence, when this device is placed in the arterial system with the distal end (near balloon 19) pointed proximally, slit 23 opens during the systolic phase of cardiac rhythm, allowing blood flow through filter 18, and closes during the diastolic phase, preventing blood flow through filter 18. Figure 11 A depicts valve 22 in a closed position. Figure 1 IB depicts valve means 22 in an open position. Similar to device 20, device 30 may be configured with additional flow paths (not shown) passing through balloon 19. These flow paths may have filters associated with them that act to filter blood passing therethrough. These flow paths may include additional valves that resist retrograde flow while allowing antegrade flow. 
+<!-- EPO <DP n="21"/>-->
+ Each of the preceding filter and valve embodiments are adapted to be inserted into a vessel through an insertion site and expanded radially from the center of the vessel at a site remote from that insertion site.</p><p num="p0080">Figures 12 -14 disclose a temporary valve assembly (with optional filter) 100 which can be inserted substantially perpendicular to the long axis of the vessel and expanded at or near the insertion site.</p><p num="p0081">In a preferred form , the valve assembly 100 consists of four components - a cannula, a deformable loop, a backing element and a valve. In use, the distal end of the cannula is inserted into a vessel, the deformable loop is then advanced out of the distal end into the vessel and expanded to abut the interior wall of the vessel. The backing element spans the interior lumen of the expanded loop and is attached to the loop at at least one point. The backing element is permeable to blood flow. A valve is affixed to either the expanded loop, the backing element, or both and functions to stop flow along the long axis of the vessel in a first direction through the loop by collapsing against the backing element and covering substantially all of the lumen formed by the loop. The valve further allows flow in a second, opposite direction by deflecting away from the backing element during flow through the loop in that direction.</p><p num="p0082">Figure 12 depicts the detailed construction of the valve device 100 in exploded form. Button 101 is a rigid piece with an opening that is used to attach it to a central rod 106. Rod 106 is rigid and is attachable to the valve components of the device (Parts G, A, and B, as illustrated) as well as two small discs 108 and 108'. Secondary button 102 is affixed to valve holder 107 through tube 103. Parts I form proximal seal 104 and are affixed to each other and delivery cannula 105. Tube 103 can slide through the lumens of proximal seal 104 and delivery cannula 105. Rod 106 can in turn be passed through the lumens of valve holder 107, tube 103, and secondary button 102. Proximal seal 104 includes an o-ring that seals around the exterior of tube 103. Flexible loop 109 has a hole through the center of its length seen at the base of the loop formed in the figure. A backing element 110 and valve 111 are affixed to flexible loop 109 with any suitable fixation means. Backing element 110 spans the interior of flexible loop 109. Element 110 is made of flexible material and in its preferred embodiment is a woven nylon sheet. This sheet can act to filter particulate 
+<!-- EPO <DP n="22"/>-->
+debris from blood passing through flexible loop 109. Valve 111 is a set of valve leaflets. In this figure there are six valve leaflets. These leaflets are attached to the periphery of backing means 110, flexible loop 109 or both, for example, by way of a ring of material surrounding the leaflets. Once assembled, backing element 110, valve 111, and flexible loop 109 are affixed to valve holder 107 through the two small through-holes in valve holder 107. These through holes act as hinge points about which the ends of flexible loop 109 can pivot. Rod 106 is inserted through a central lumen in valve holder 107, superior disc 108, the hole in flexible loop 109, and finally inferior disc 108'. Discs 108 and 108' are affixed to rod 106 to immobilize the center section of flexible loop 109 relative to the lower end of rod 106. Valve holder 107 fits within the lumen of delivery cannula 105.</p><p num="p0083">In a preferred embodiment of this valve assembly 100, backing element 110 is a porous sheet of material that further acts to filter blood passing through deformable loop 109. This porous sheet can be a woven material with an open area that allows the passage of blood, although other forms may be used, all within the scope of the invention.</p><p num="p0084">In another preferred implementation of the device 100, deformable loop 109 is made from a strip of material with a non-circular cross section. It may have a rectangular cross-section. The thicker side of the rectangle can be positioned against the wall of the vessel. This gives the loop greater flexibility to conform easily to the shape of the wall and greater stiffness against flopping or twisting away from the vessel wall under the pressure of blood flowing through the vessel.</p><p num="p0085">The valve 111 is preferably effected by a set of valve leaflets as shown. The valve leaflets can collapse, in an overlapping manner, against backing element 110 to prevent flow in a first direction through the loop 100. The leaflets may alternatively coapt against each other so as to prevent flow in the first direction. In the latter form, the device may be used without a filter (backing element), to provide a valve-only device. Generally, such a device would be used with a filter in another location.</p><p num="p0086">The leaflets of valve 111 are preferably formed from thin, flexible sheets of material. There may be any number of leaflets. The leaflets may be sized to act in concert to close the flow path formed by the loop. The leaflets may alternatively be oversized, such that fewer than all of the leaflets are required to close the flow path. 
+<!-- EPO <DP n="23"/>-->
+ In one embodiment, there may be two or more leaflets with one or some combination of the leaflets capable of closing the flow path through the loop against flow in the second direction.</p><p num="p0087">The valve 111 may alternatively be a sheet of material cut with slits. The slits stay substantially closed (not parted) to prevent flow in a first direction through the flow path created by the loop 109 by collapsing against the backing element. The slits allow the passage of blood in the second, opposite direction through the flow path by parting open in the direction away from the backing element.</p><p num="p0088">In a preferred method of using a valve of the form of Figures 12-14, the device is expanded from a point or set of points on the circumference of the vessel into which it is placed until the valve occupies substantially all of the cross sectional flow area of that vessel.</p><p num="p0089">Another method of using that device of the form of Figures 12-14, is to insert the distal end of the device into the vessel through an entry site and expanding the valve proximate to the entry site. This allows the device to be placed easily, near the heart, during an open-chest procedure.</p><p num="p0090">Another method of using the device is to insert its distal end into a vessel along a path that is substantially perpendicular to the long axis of the vessel and expand the valve about that path. In a preferred application of this method, the device is expanded until it occupies the entire flow path of the vessel and sits within a cross- section of that vessel taken perpendicular to the vessel's long axis. This minimizes the length of the vessel taken up by the temporary valve device.</p><p num="p0091">Figure 15 depicts temporary valve assembly 100, with its valve deployed in aorta 215. In this figure, a procedure is indicated as being performed on aortic valve 212 through a separate access cannula 201 using procedure instrument 205. Device 100 is shown with its valve open (as in Figure 13C3 allowing flow through flexible loop 109. This figure depicts the systolic phase of cardiac rhythm.</p><p num="p0092">In Figure 16, valve assembly 100 is similarly positioned, but is closed (as in Figure 13D'), preventing flow back toward the heart. This figure depicts the diastolic phase of cardiac rhythm. The position of valve assembly 100 distal to the three branches from the aortic arch is shown as a representative application of the device and by no means limits its application to this position. 
+<!-- EPO <DP n="24"/>-->
+Preferred Embodiment - Prosthetic Valve</p><p num="p0093">Another aspect of the present invention is a valve fixation device, illustrated in Figures 17A-17E. The valve fixation device 300 is used to secure a prosthetic valve to the wall of a vessel. In a preferred embodiment, the prosthetic valve is a stentless tissue valve. The tissue valve has a base, located proximal to the heart when placed in an anatomic position, and an apex located distal to the base. The prosthetic valve preferably has three commissures and three leaflets. The apex of the commissures is toward the apex of the valve. The valve has an interior surface and an exterior surface. The interior surface serves as an attachment site for the valve leaflets to the valve anulus. The exterior of the valve is generally smooth and forms at least a portion of a cylinder. The valve has a long axis that runs along the long axis of the cylinder.</p><p num="p0094">The valve fixation device consists of at least one substantially rigid strut and at least two expandable fixation rings. The strut(s) runs along the exterior surface of the valve in a direction substantially parallel to the long axis of the valve. The rings are preferably located about the circumference of the base and apex of the valve. These rings are affixed to the strut(s) such that the distance along the long axis of the valve between the rings is fixed. The rings may be located either on the interior or exterior surface of the valve. The valve is preferably affixed to both the rings and the struts by any suitable fixation means including, but not limited to barbs, sutures, staples, adhesives, or the like. In a preferred embodiment, the valve fixation device 90 has three struts 92 and two rings 91. Each of the three struts 92 is affixed to the valve along an axis that is parallel to the long axis of the valve and passes proximate to one of the valve commissures.</p><p num="p0095">The rings 91 are preferably self-expanding. Alternatively, rings 91 may be plastically expandable by any suitable means, such as a balloon. The rings 91 and/or strut(s) 92 may employ barbs or spikes 83 at any location along their exterior to aid in securing the valve to the vessel wall. The rings 91 may further be affixed to the exterior of the valve and employ a sealing material 84 or other means, on rings 91, to aid in sealing rings 91 against the vessel wall. 
+<!-- EPO <DP n="25"/>-->
+ In the preferred embodiment, the valve fixation device 90 and attached tissue valve 80 are inserted in a compressed state into the vascular system. The compressed valve/fixation system is then advanced to the site of implantation, expanded, and secured to the vessel wall. When used as an aortic valve replacement, the compressed valve/fixation system can be inserted through any peripheral artery distal to the aorta. Alternatively, the valve can be inserted through the wall of a cardiac chamber or directly into the aorta itself. Various devices can be employed to aid in delivering the valve to the implantation site, including, but not limited to delivery cannulae, catheters, and any of a variety of valve holders known in the art. Figure 17A depicts a stentless tissue valve 80 such as those known in the art.</p><p num="p0096">The valve consists of valve wall 81 and three attached leaflets 82. Valve wall 81 has three sections of its cylindrical form removed so as not to block branch vessels such as the coronaries. There are many variations of this type of valve prosthesis. Any flexible valve with a wall and leaflets can be used with the present invention. Figure 17B depicts valve fixation device 90 of the present invention. This embodiment comprises two expandable rings-like structures 91, shown in their expanded state, and three struts 92. Struts 92 are relatively rigid and do not change dimensions from the compressed to the expanded state of the device 90. The three struts 92 are separated by roughly 120 degrees in the illustrated form, as shown in the axial view of the figure, corresponding to the three commissures of the prosthetic valve. Struts 92 are preferably relatively rigidly attached to expandable rings 91 such that the two expandable rings 91 may not rotate about their central axes relative to each other. This avoids twisting of tissue valve 80 during deployment, minimizing the risk of valve leakage. Figure 17C depicts valve fixation device 90 affixed to tissue valve 80, forming valve assembly 85. Fixation device 90 can be affixed to tissue valve 80 at sites along struts 92, expandable rings 91, or both. In this embodiment, struts 92 and expandable rings 91 are affixed to the outside of the valve wall 81.</p><p num="p0097">Figure 17D depicts the assembly 85 of Figure 17C in a compressed state 85' suitable for insertion into an artery or vein through a relative smaller opening.</p><p num="p0098">Figure 17E depicts another embodiment of the valve fixation device 90. In embodiment 86, barbs 83 reside on the exterior surfaces of both struts 92 and 
+<!-- EPO <DP n="26"/>-->
+expandable rings 91 to aid in securing the device 90 to a vessel wall. Felt 84 has also been added to the expandable rings 91 to aid in sealing against peri- valvular leaks. Felt 84 could be added to struts 92. Other forms of sealant may be used as well.</p><p num="p0099">Preferred Embodiments - Procedure Methods</p><p num="p0100">The above embodiments may be used alone or in combination with other devices to carry out procedures on a cardiac valve while the heart is beating. Below are numerous such procedure methods in accordance with the invention, which are described to clarify the breadth of possible applications of these preferred device embodiments.</p><p num="p0101">Figure 18 depicts a procedure being carried out on aortic valve 412 while the heart is beating. Instrument 405 is manipulating aortic valve 412 following the placement of both temporary valve 406 and filter device 410. In this embodiment, temporary valve 406 and filter device 401 (for example device 10 of Figures 1A-1F) are separate instruments that have been inserted directly into the aorta through separate insertion sites 414 and 413. Alternatively, valve 406 and filter 410 may be effected in a single instrument placed through a single incision. Valve 406 and filter 410 may also be inserted from a peripheral vessel and advanced to a location within the aorta. Mesh filter 403 is deployed through outer cannula 401 to a preferred site proximal to the brachiocephalic artery 411. In this position, filter 403 prevents distal embolization of debris that may be dislodged during manipulation of valve 412. Portions of inner and outer cannulae 401 and 402 and instrument 405 extend to the exterior of the aorta where they can be manipulated by a surgeon. In the method illustrated by Figure 18, balloon valve 406 is deployed in the descending aorta 415. Balloon 406 is inflated and deflated by an attached balloon pump 408 exterior to the patient. Balloon pump 408 is in fluid connection with balloon 406 through tube 407. Balloon pump 408 is timed to the cardiac rhythm so that it inflates balloon 406 during substantially all of the diastolic phase and deflates balloon 406 during substantially all of the systolic phase. This allows the valve 406 to perform the function of aortic valve 412 while the aortic valve is manipulated. 
+<!-- EPO <DP n="27"/>-->
+ Figures 19, 20, and 21 show another form of the present invention. Those figures depict sequential views of method of removing the native aortic valve and replacing it with a permanent prosthetic valve while the heart is beating. In Figure 19, balloon valve 406 has been placed in the descending aorta 415. Cannula 401 has been placed into the aorta to allow the passage of instrument 405. Cannula 401 may have a valve (not shown) along its interior that acts to prevent the flow of blood through the cannula while allowing the passage of various instruments. Instrument 405 has been inserted through cannula 401 to remove native aortic valve 412. Figure 20 shows the embodiment described in Figure 19 after substantially all of the aortic valve has been removed. Portions 412' of the aortic valve may remain without deviating from the scope of this invention. Indeed resection of native valve 412 can be limited to removal of those portions of the right and left valve leaflets that would cover coronary arteries 409 if the valve were to be compressed against the inner walls of the aorta. Instrument 405 has been withdrawn from outer cannula 401 to allow the insertion of valve prosthesis 416 into the aorta. In this figure, temporary valve 406 is performing the full function of the resected aortic valve. Figure 21 shows valve prosthesis 416 expanded against and affixed to the aortic wall at a site near the previous attachment of the native valve. Once valve prosthesis 416 is in place and functioning, temporary valve 406 can be removed. No filter is shown in Figures 19, 20, and 21. A filter is not necessary for completing the procedure, but could be used without deviating from the intent of the present invention.</p><p num="p0102">Another method of replacing a cardiac valve while the heart is beating, employs described using a combination of the methods disclosed in Figures 18, 20, and 21. In accordance with the latter method, a set of two concentric cannulae, inner cannula 402 that fits within the lumen of outer cannula 401 , are inserted into the vessel. The method further involves the steps of advancing the set of cannulae to a site downstream of the cardiac valve, expanding an expandable member 403 from the exterior of the inner cannula 402, performing a procedure at least in part through the lumen of the inner cannula that removes or disrupts cardiac valve 412, retracting inner cannula 402 and expandable member 403 through the inner lumen of outer cannula 401, leaving the distal end of outer cannula 401 near the annulus of cardiac valve 412, inserting a compressed valve prosthesis 416 through the inner lumen of outer cannula 
+<!-- EPO <DP n="28"/>-->
+401 to the site of the cardiac valve anulus, and expanding and affixing prosthetic valve 416 to the cardiac valve annulus. Using the set of two cannulae allows the insertion and removal of expandable member 403 on the exterior of inner cannula 402 as well as valve prosthesis 416 and other instruments through the lumen of outer cannula 401 without losing the position of outer cannula 401 relative to the cardiac valve during the procedure. Expandable member 403 is located anywhere along the length of inner cannula 402 and performs any number of functions such as acting as a temporary valve, acting as a filter, or removing or disrupting the cardiac valve leaflets. Figure 22 depicts one method of fixing a prosthetic valve 516 to a vessel wall during cardiac rhythm. In this embodiment, prosthetic valve 516 is inserted into aorta</p><p num="p0103">515 in a compressed state through access cannula 501. Prosthetic valve 516 is then expanded to abut the inner wall of aorta 515. A needle 512 and suture 514 are then passed from the outer surface of aorta 515 through the aortic wall and into the prosthetic valve 516. In this depiction, three sutures are used to tack prosthetic valve</p><p num="p0104">516 to the aortic wall in locations superior to the valve commissures. Alternatively, a fixation means can be passed from the interior wall of aorta 515 through to the exterior surface. The fixation means can be a staple, suture or other suitable means.</p><p num="p0105">In accordance with another aspect of the present invention, a compressed prosthetic valve is inserted into a vessel downstream of the cardiac valve to be replaced. The prosthetic valve is then expanded to allow it to function temporarily in its downstream location. With that valve temporarily placed, and functioning, a procedure on the cardiac valve is performed, involving the disruption and/or removal of the cardiac valve. Then the prosthetic valve is advanced toward the site of the excised or disrupted cardiac valve, and affixed at a site within the vessel at or near the site of the excised or disrupted cardiac valve. During the procedure on the cardiac valve, the expanded prosthetic valve functions as the native valve, preventing retrograde flow.</p><p num="p0106">The cardiac valve procedure occurring while the prosthetic valve is downstream of its final position, may be performed through an incision somewhere between the cardiac valve and the prosthetic valve. Alternatively, the procedure could be done with tools inserted through the functioning prosthetic. 
+<!-- EPO <DP n="29"/>-->
+ Figures 23 A and 23 B depict a method for repairing a stenotic aortic valve in accordance with the invention. Figure 23 A shows stenotic aortic valve 612 within the aortic root. View 1 in this figure shows two views of stenotic valve 612 looking along the long axis of aorta 615 proximal to the valve. In this view, the leaflets of valve 612 provide a reduced aperture due to the stenosis.</p><p num="p0107">Figure 23B shows the aortic valve after the repair method of the invention has been implemented. Initially, the aortic valve 612" is disrupted by incising each leaflet such that six leaflets are formed. A balloon valvuloplasty may optionally be performed on valve 612". Following the disruption of valve 612", a valve support 620 is positioned upstream of the valve 612". Preferably, the valve support 620 includes an expandable outer ring (circular or otherwise, eg elliptical, oval, polygonal), which is spanned by a bloodflow permeable structure. The outer ring is expanded to be proximal to and affixed to the aortic wall, so that the support structure provides a surface against which the disrupted leaflets can collapse, forming a multileafed flap valve, similar to the valve described above in conjunction with Figures 12-14.</p><p num="p0108">Figure 24 depicts a procedure being performed on the aortic valve 412 while the heart is beating. Instrument 405 is manipulating aortic valve 412 following the placement of both temporary valve 100 and filter device 410 (for example, device 10 of Figure IF). In this embodiment, temporary valve 100 and filter device 410 have been inserted directly into the aorta through separate insertion sites 414 and 413.</p><p num="p0109">Mesh filter (not visible) has been deployed through outer cannula 401 to a site proximal to the coronary arteries 409. Filter material 71 covers the mesh filter. Filter extensions 70 extend from the filter material and form filter leaflets that prevent embolic material from entering the coronary arteries 409. Portions of the inner and outer cannulae 401 and 402 and instruments 405 extend to the exterior of the aorta where they can be manipulated by the surgeon.</p><p num="p0110">In the method illustrated in Figure 24, temporary valve 100 is deployed in the descending aorta 415, and as described earlier, expands to occupy the entire flow path. Temporary valve 100 is shown in the systolic phase of cardiac rhythm, i.e. with its valve open (as in Figure 13D'), allowing flow through the device. 
+<!-- EPO <DP n="30"/>-->
+ In other embodiments of the invention the temporary valve and/or filter may be deployed downstream of the aortic valve, or in still other forms, downstream of the mitral or other cardiac valves. Further, these devices may be deployed downstream of one cardiac valve while procedures are being performed on another cardiac valve upstream of the devices.</p><p num="p0111">Although preferred and other embodiments of the invention are described herein, further embodiments may be perceived by those skilled in the art without departing from the scope of the claims. 
+<!-- EPO <DP n="31"/>--></p><p num="p0112">1. A method for enabling performance of an operation on a cardiac valve of a heart while the heart is beating, comprising the steps of: a) placing at least one temporary valve in a flow path of a blood vessel downstream from said cardiac valve, said temporary valve being operative to effect greater antegrade flow than retrograde flow through said vessel; and b) placing at least one temporary filter in said flowpath downstream from said cardiac valve, said filter being operative to restrict the passage of emboli while allowing blood to flow through said vessel.</p><p num="p0113">2. A method for performing an operation on a cardiac valve of a heart while the heart is beating, comprising the steps of: a) positioning at least one temporary valve in a flow path of a blood vessel downstream from said cardiac valve, said temporary valve being operative to effect greater antegrade flow than retrograde flow through said vessel; b) resecting at least a portion of the cardiac valve; and c) affixing at least one prosthetic valve at or downstream from said resected cardiac valve.</p><p num="p0114">3. A device for performing intravascular procedures wherein at least a portion of the device is adapted for placement in a flowpath of a blood vessel, said intravascular portion comprising: a) a valve means that acts to allow greater antegrade flow than retrograde flow through said vessel; and b) a filter operative to restrict the passage of emboli while allowing blood flow through said vessel. 
+<!-- EPO <DP n="32"/>-->
+4. A device for filtering blood flowing through a vessel within the vascular system, said device comprising: a) an expandable element operative to direct bloodflow through said vessel to a flow area of said vessel; and b) a filter operative to filter the blood passing through said portion of said flow area.</p><p num="p0115">5. A device for use in intravascular procedures, wherein at least a portion of the device is adapted for placement in a flowpath of a blood vessel, the intravascular portion comprising: a) a filter including a flowpath spanning portion operative to filter at least a portion of blood flowing through said vessel; and b) a valve assembly including valve elements and said flowpath spanning portion, said valve elements being positionable in a first state away from said flowpath spanning portion to permit antegrade blood flow through said flowpath spanning portion, and positionable in a second state adjacent to said flowpath spanning portion to prevent retrograde blood flow through said flowpath spanning portion.</p><p num="p0116">6. An expandable valve for insertion into a vessel to allow greater flow along a central axis of said vessel in a first direction than in a second, opposite direction, said valve comprising: a) an expandable member adapted for selective expansion to abut the wall of the vessel, said expandable member having at least one flow path therethrough; b) a valve element, said valve element opening during flow through said flow path in said first direction while closing over said flow path during flow in said second direction; and wherein said expandable member and said valve element are unitary assembly adapted for insertion into said vessel in a collapsed state along an axis angularly offset from said central axis of said vessel. 
+<!-- EPO <DP n="33"/>-->
+7. An expandable valve adapted to be expanded to abut the interior wall of a vessel and occupy substantially all of a cross-sectional flow area of said vessel, said valve comprising: a) a flexible, elongated element, said elongated element configured into a loop that can be collapsed to form two adjacent parallel segments mutually joined at their respective ends, and that can be expanded to a ring-like form adapted to abut the interior wall of said vessel, said loop adapted to occupy a portion of the cross-sectional flow area of said vessel; b) a backing element affixed to and spanning said loop, said loop and said backing elements forming a valve base; and c) at least one valve leaflet peripherally affixed to said valve base, said valve leaflet adapted in a first state to collapse against said backing element to prevent flow in a first direction through said valve base, and adapted in a second state to move away from said backing element to permit fluid flow in a second direction through said valve base.</p><p num="p0117">8. An expandable valve according to claim 7 having at least four valve leaflets.</p><p num="p0118">9. An expandable valve according to claim 7 having at least two valve leaflets affixed to said valve base, said valve leaflets sized such that a combination of fewer than the total number of said valve leaflets can resist flow in a first direction through said valve base and open to allow flow in a second direction through said valve base.</p><p num="p0119">10. A method for providing a valve within a tubular vascular structure, comprising: a) inserting an expandable valve in a collapsed state into said vascular structure through an entry site; and b) expanding said valve within said vascular structure to an expanded state proximate to said entry site. 
+<!-- EPO <DP n="34"/>-->
+11. A method according to claim 10 wherein said valve is inserted into said vascular structure along an axis transverse to a central axis of said vascular structure.</p><p num="p0120">12. An expandable intravascular filter device adapted to filter blood flowing through a tubular vascular structure, said filter comprising: a) an elongated filament, said filament having a proximal and a distal end, said distal end being adapted to be inserted into said vessel through an entry site; and b) an expandable filter, said filter being adapted to track along said filament, said filter having a collapsed state with a relatively small maximum transverse dimension and having an expanded state with a relatively large transverse dimension, said filter being insertable into said vessel in a collapsed state and expandable in said vessel to an expanded state, wherein said filter occupies a cross sectional flow area of said vessel not occupied by said filament, said filter being attached to said filament proximal to the distal end of said filament.</p><p num="p0121">13. An expandable intravascular filter kit, said kit comprising: a) an elongated cannula having an outer diameter D and defining at least one lumen passing therethrough, said cannula having a proximal and a distal end, said distal end being adapted for insertion into a blood vessel through an entry site, b) a filter axially and slidingly positioned along a limited portion of the outer surface of said cannula near said distal end, said filter being collapsible in a first state whereby a maximum dimension of said filter and said cannula is relatively small, and thereby being adapted in said first state for insertion into said vessel and being expandable in a second state, whereby said filter extends transverse to a central axis of said cannula, thereby being adapted to span at least a portion of said vessel and to filter blood flowing therethrough. 
+<!-- EPO <DP n="35"/>-->
+14. An expandable intravascular filter according to claim 13 wherein said filter is circumferentially slidingly positioned on said limited portion.</p><p num="p0122">15. An expandable intravascular filter according to claim 12 wherein said filter includes at least one of circumferentially extending filter elements extending from a distal end thereof, said circumferentially extending filter elements being adapted to filter blood passing therethrough along an axis transverse to a central axis of said cannula.</p><p num="p0123">16. An expandable intravascular filter device according to claim 12 wherein said distal end of said cannula is selectively deflectable away from a central axis of said cannula.</p><p num="p0124">17. A valve fixation device for affixing a flexible prosthetic valve to the interior wall of a vessel, said prosthetic valve having a generally cylindrical shape with a base, an apex, an interior surface and an exterior surface, said prosthetic valve further having a long axis passing through the centers of the circles formed by at least two circumferences of said cylindrical shape along the distance between said apex and said base, said fixation device comprising: a) at least two expandable fixation rings, said rings being expandable from a first compressed state having a relatively small maximum transverse dimension to a second expanded state having a relatively large maximum transverse dimension, said rings expandable in a direction perpendicular to the long axis of said prosthetic valve, each of said rings being affixed to said prosthetic valve near a respective end thereof.</p><p num="p0125">18. A valve fixation device according to claim 17 further comprising at least one rigid strut on the exterior surface of said prosthetic valve passing along an axis parallel to the long axis of said valve, said struts being affixed to said rings at least one point on each of said rings. 
+<!-- EPO <DP n="36"/>-->
+19. A prosthetic cardiac valve comprising: a) flexible prosthetic valve means having a generally cylindrical shape with a base, an apex, an interior surface and an exterior surface, said prosthetic valve further having valve leaflets joined to said interior surface, said leaflets forming commissures where two of said leaflets meet along said interior surface, said prosthetic valve further having a long axis passing through the centers of the circles formed by at least two circumferences of said cylindrical shape taken along the distance between said apex and said base; b) at least two expandable fixation rings, each being affixed to a respective end of said prosthetic valve at least one point, said rings being expandable in a direction perpendicular to the long axis of said prosthetic valve; and c) at least one rigid strut on the exterior surface of said prosthetic valve passing along an axis parallel to the long axis of said valve, said struts being affixed to said rings at least one point on each of said rings.</p><p num="p0126">20. A prosthetic cardiac valve according to claim 19 comprising two expandable fixation rings and three rigid struts, each of said struts passing proximate to one of said commissures.</p><p num="p0127">21. A prosthetic cardiac valve according to claim 20 wherein said struts are affixed to said prosthetic valve at least one point.</p><p num="p0128">22. A prosthetic cardiac valve according to claim 20 wherein said rings are affixed to the exterior surface of said prosthetic valve.</p><p num="p0129">23. A prosthetic cardiac valve according to claim 20 wherein said rings are further affixed to a sealing means for sealing against an interior surface of said vessel wall.</p><p num="p0130">24. A prosthetic cardiac valve according to claim 20 wherein said struts are further affixed to a sealing means for sealing against the interior surface of said vessel wall. 
+<!-- EPO <DP n="37"/>-->
+25. A prosthetic cardiac valve according to claim 20 wherein said rings have integral fixation means for securing said prosthetic valve to an interior surface of said vessel wall.</p><p num="p0131">26. A prosthetic cardiac valve according to claim 20 wherein said struts have integral fixation means for securing said prosthetic valve to the interior surface of said vessel wall.</p><p num="p0132">27. A method for affixing a prosthetic valve to the wall of a vessel, comprising the steps of: a) during cardiac rhythm, inserting said prosthetic valve into a vessel in a compressed state; b) advancing said prosthetic valve to the site of implantation; c) expanding said prosthetic valve to an expanded state; and d) passing at least one fixation means entirely through the wall of said vessel.</p><p num="p0133">28. The method of claim 27 wherein said fixation means is passed from the inside of said vessel through to the outside of said vessel.</p><p num="p0134">29. The method of claim 27 wherein said fixation means is passed from the outside of said vessel through to the inside of said vessel.</p><p num="p0135">30. The method of claim 27 wherein said fixation means is a suture.</p><p num="p0136">31. The method claim 27 wherein said method is performed during cardiac rhythm.</p><p num="p0137">32. A method of replacing a native cardiac valve, comprising the steps of: a) during cardiac rhythm, inserting into a vessel the distal ends of a set of two concentric cannulae including an inner cannula and an outer cannula, said inner cannula having a smaller outer diameter than the inner 
+<!-- EPO <DP n="38"/>-->
+diameter of said outer cannula such that said inner cannula can be slidably placed within a lumen of said outer cannula; b) advancing the distal ends of said cannulae to a site proximate to said cardiac valve; c) positioning said cannula whereby the distal end of said inner cannula extends beyond the distal of end of said outer cannula, and expanding an expandable member secured to an outer surface of said cannula, whereby said expandable member occupies substantially all of the cross sectional flow area of said vessel; d) performing a procedure on said native valve at least in part through a lumen of the inner cannula; e) removing said inner cannula and said expandable member through said lumen of said outer cannula, the distal end of said outer cannula remaining proximate to the attachment site of said cardiac valve to said vessel; 
+<!-- EPO <DP n="39"/>--></p><p num="p0138">f) advancing a valve prosthesis through said outer lumen of said cannula to a site at or near the attachment site of said cardiac valve; and g) affixing said valve prosthesis to the wall of said vessel.</p><p num="p0139">33. A method of repairing and replacing a stenosed cardiac valve comprising the steps of: a) during cardiac rhythm, disrupting said cardiac valve, without completely removing said cardiac valve such that said cardiac valve no longer functions as a valve, thereby decreasing pressure drop across said cardiac valve; and b) implanting a prosthetic valve downstream of said cardiac valve.</p><p num="p0140">34. A method of replacing a diseased cardiac valve comprising the sequential steps of: a) during cardiac rhythm, placing a valve prosthesis into a vessel downstream of said cardiac valve; and b) resecting at least some portion of said cardiac valve.</p><p num="p0141">35. A method of replacing a diseased cardiac valve comprising the sequential steps of: a) during cardiac rhythm, placing a valve prosthesis into a vessel downstream of said cardiac valve; b) resecting at least some portion of said cardiac valve; c) repositioning said valve prosthesis to or near the site of the resected cardiac valve; and d) affixing said valve prosthesis to the wall of said vessel. 
+<!-- EPO <DP n="40"/>-->
+36. A method of replacing a diseased cardiac valve comprising the steps of: a) during cardiac rhythm, inserting an expandable valve prosthesis into a vessel in a collapsed state and positioning said valve prosthesis at the site of said cardiac valve; b) expanding said valve prosthesis and crushing said cardiac valve against the wall of said vessel; and c) affixing the valve prosthesis to said vessel wall through the crushed cardiac valve.</p><p num="p0142">37. A method of resecting cardiac valve leaflets attached to the inner wall of a vessel comprising the steps of: a) during cardiac rhythm, inserting one end of a elongated resection instrument into the vascular system and advancing said end proximate to said cardiac valve; b) directing said end against the wall of said vessel; c) advancing said end along the wall of said vessel until it makes contact with a the attachment of said leaflet of said cardiac valve to said vessel; and d) resecting said leaflet with said resection instrument.</p><p num="p0143">38. A method ofrepairing a stenotic cardiac valve comprising the steps of: a) during cardiac rhythm, disrupting the leaflets of said valve such that the pressure drop across said valve is decreased; and b) supporting said leaflets with a valve support device that at least in part spans the flow area of said valve upstream of said valve leaflets. 
+<!-- EPO <DP n="41"/>--></p><p num="p0144">AMENDED CLAIMS</p><p num="p0145">[received by the International Bureau on 26 June 2000 (26.06.00); new claims 39-49 added; remaining claims unchanged (6 pages)]</p><p num="p0146">39. A method for enabling performance of an operation on a</p><p num="p0147">cardiac valve of a heart while the heart is beating, comprising the steps</p><p num="p0148">of: a) placing at least one temporary valve in a flow path of a</p><p num="p0149">blood vessel of said cardiac valve, said temporary valve being operative</p><p num="p0150">to effect greater antegrade flow than retrograde flow through said vessel;</p><p num="p0151">and b) placing at least one temporary filter in said flowpath downstream from said cardiac valve, said filter being operative to restrict</p><p num="p0152">the passage of emboli while allowing blood to flow through said vessel.</p><p num="p0153">40. A method for performing an operation on a cardiac valve of</p><p num="p0154">a heart while the heart is beating, comprising the steps of:</p><p num="p0155">a) positioning at least one temporary valve in a flow path of a</p><p num="p0156">blood vessel downstream from said cardiac valve, said temporary valve</p><p num="p0157">being operative to effect greater antegrade flow than retrograde flow</p><p num="p0158">through said vessel;</p><p num="p0159">b) resecting or disrupting at least a portion of the cardiac valve;</p><p num="p0160">and 
+<!-- EPO <DP n="42"/>-->
+ c) affixing at least one prosthetic valve at, upstream or</p><p num="p0161">downstream from said resected cardiac valve.</p><p num="p0162">41. A device for performing intravascular or intracardiac</p><p num="p0163">procedures wherein at least a portion of the device is adapted for</p><p num="p0164">placement in a flowpath of a blood vessel, said portion comprising:</p><p num="p0165">a) a valve means that acts to allow greater antegrade flow than</p><p num="p0166">retrograde flow through said vessel; and</p><p num="p0167">b) a filter operative to restrict the passage of emboli while</p><p num="p0168">allowing blood flow through said vessel.</p><p num="p0169">42. A device for performing intravascular or intracardiac</p><p num="p0170">procedures wherein at least a portion of said device is adapted for</p><p num="p0171">placement in the flowpath of blood, said portion comprising:</p><p num="p0172">a valve means that acts to allow greater antegrade flow than</p><p num="p0173">retrograde flow.</p><p num="p0174">43. A valve fixation device for affixing a non-flexible prosthetic</p><p num="p0175">valve to the interior wall of a vessel, said prosthetic valve having a</p><p num="p0176">generally cylindrical shape with a base, an apex, an interior surface and 
+<!-- EPO <DP n="43"/>-->
+an exterior surface, said prosthetic valve further having a long axis</p><p num="p0177">passing through the centers of the circles formed by at least two</p><p num="p0178">circumferences of said cylindrical shape along the distance between said</p><p num="p0179">apex and said base, said fixation device comprising:</p><p num="p0180">a) at least two expandable mounting rings, said rings being expandable from a first compressed state having a relatively small</p><p num="p0181">maximum transverse dimension to a second expanded state having a relatively large maximum transverse dimension, said rings expandable in</p><p num="p0182">a direction perpendicular to the long axis of said prosthetic valve, each of</p><p num="p0183">said rings being affixed to said prosthetic valve near a respective end</p><p num="p0184">thereof.</p><p num="p0185">44. A valve fixation device for affixing a non-flexible prosthetic</p><p num="p0186">valve to the interior wall of a vessel, said prosthetic valve having a</p><p num="p0187">generally cylindrical shape with a base, an apex, an interior surface and</p><p num="p0188">an exterior surface, said prosthetic valve further having a long axis</p><p num="p0189">passing through the centers of the circles -formed by at least two</p><p num="p0190">circumferences of said cylindrical shape along the distance between said</p><p num="p0191">apex and said base, said fixation device comprising: 
+<!-- EPO <DP n="44"/>-->
+ a) at least one expandable mounting ring, said ring being</p><p num="p0192">expandable from a first compressed state having a relatively small</p><p num="p0193">maximum transverse dimension to a second expanded state having a</p><p num="p0194">relatively large maximum transverse dimension, said ring expandable in a</p><p num="p0195">direction perpendicular to the long axis of said prosthetic valve, each of</p><p num="p0196">said ring being affixed to said prosthetic valve near a respective end</p><p num="p0197">thereof.</p><p num="p0198">45. A valve fixation device for affixing a flexible prosthetic valve</p><p num="p0199">to the interior wall of a vessel, said prosthetic valve having a generally</p> <p num="p0200">cylindrical shape with a base, an apex, an interior surface and an exterior</p><p num="p0201">surface, said prosthetic valve further having a long axis passing through</p><p num="p0202">the centers of the circles formed by at least two circumferences of said</p><p num="p0203">cylindrical shape along the distance between said apex and said base,</p><p num="p0204">said fixation device comprising:</p> <p num="p0205">a) at least one expandable mounting ring, said ring being</p> <p num="p0206">expandable from a first compressed state having a relatively small</p> <p num="p0207">maximum transverse dimension to a second expanded state having a</p><p num="p0208">relatively large maximum transverse dimension, said ring expandable in a</p><p num="p0209">direction perpendicular to the long axis of -said prosthetic valve, each of 
+<!-- EPO <DP n="45"/>-->
+said ring being affixed to said prosthetic valve near a respective end</p><p num="p0210">thereof.</p><p num="p0211">46. A method of repairing and replacing a stenosed cardiac</p><p num="p0212">valve comprising the steps of:</p><p num="p0213">a) during cardiac rhythm, disrupting said cardiac valve, without</p><p num="p0214">completely removing said cardiac valve such that said cardiac valve no longer functions as a valve, thereby decreasing pressure drop across said</p><p num="p0215">cardiac valve; and</p><p num="p0216">b) implanting a prosthetic valve downstream, upstream or at</p><p num="p0217">said cardiac valve.</p><p num="p0218">47. A method of repairing and replacing a stenosed cardiac</p><p num="p0219">valve comprising the steps of:</p><p num="p0220">a) during cardiac rhythm, disrupting said cardiac valve, without</p><p num="p0221">completely removing said cardiac valve such that said cardiac valve no</p><p num="p0222">longer functions as a valve, thereby substantially equalizing the pressure</p><p num="p0223">gradient across said cardiac valve; and</p><p num="p0224">b) implanting a prosthetic valve downstream, upstream or at</p><p num="p0225">said cardiac valve. 
+<!-- EPO <DP n="46"/>-->
+ 48. A method for enabling performance of an operation on a cardiac valve of a heart while the heart is beating, comprising the steps</p><p num="p0226">of:</p><p num="p0227">a) placing at least one temporary valve in a flow path of blood</p><p num="p0228">vessel, said temporary valve being operative to effect greater antegrade</p><p num="p0229">flow than retrograde flow through said vessel; and</p><p num="p0230">b) placing at least one temporary filter in said flowpath</p><p num="p0231">downstream from said cardiac valve, said filter being operative to restrict the passage of emboli while allowing blood to flow through said vessel.</p><p num="p0232">49. A method for performing an operation on a cardiac valve of</p><p num="p0233">a heart while the heart is beating, comprising the steps of:</p><p num="p0234">a) positioning at least one temporary valve in a flow path of</p><p num="p0235">blood, said temporary valve being operative to effect greater antegrade</p><p num="p0236">flow than retrograde flow;</p><p num="p0237">b) resecting or disrupting at least a portion of the cardiac valve;</p><p num="p0238">and</p><p num="p0239">c) affixing at least one prosthetic valve at, upstream or</p><p num="p0240">downstream from said resected cardiac valve. 
+</p></description><claims load-source="epoque" status="new" lang="EN"><claim num="1"><claim-text>1 1. A method for enabling performance of an operation on a cardiac valve of a
+
+</claim-text><claim-text>2 heart while the heart is beating, comprising the steps of:
+
+</claim-text><claim-text>3 a) placing at least one temporary valve in a flow path of a blood
+
+</claim-text><claim-text>4 vessel downstream from said cardiac valve, said temporary valve being
+
+</claim-text><claim-text>5 operative to effect greater antegrade flow than retrograde flow through said
+
+</claim-text><claim-text>6 vessel; and
+
+</claim-text><claim-text>7 b) placing at least one temporary filter in said flowpath
+
+</claim-text><claim-text>8 downstream from said cardiac valve, said filter being operative to restrict the
+
+</claim-text><claim-text>9 passage of emboli while allowing blood to flow through said vessel.
+
+</claim-text><claim-text>1 2. A method for performing an operation on a cardiac valve of a heart while the
+
+</claim-text><claim-text>2 heart is beating, comprising the steps of:
+
+</claim-text><claim-text>3 a) positioning at least one temporary valve in a flow path of a
+
+</claim-text><claim-text>4 blood vessel downstream from said cardiac valve, said temporary valve being
+
+</claim-text><claim-text>5 operative to effect greater antegrade flow than retrograde flow through said
+
+</claim-text><claim-text>6 vessel;
+
+</claim-text><claim-text>7 b) resecting at least a portion ofthe cardiac valve; and
+
+</claim-text><claim-text>8 c) affixing at least one prosthetic valve at or downstream from
+
+</claim-text><claim-text>9 said resected cardiac valve.
+
+</claim-text><claim-text>1 3. A device for performing intravascular procedures wherein at least a portion of
+
+</claim-text><claim-text>2 the device is adapted for placement in a flowpath of a blood vessel, said intravascular
+
+</claim-text><claim-text>3 portion comprising:
+
+</claim-text><claim-text>4 a) a valve means that acts to allow greater antegrade flow than
+
+</claim-text><claim-text>5 retrograde flow through said vessel; and
+
+</claim-text><claim-text>6 b) a filter operative to restrict the passage of emboli while
+
+</claim-text><claim-text>7 allowing blood flow through said vessel. ,- n nndiiii[Delta]i I
+1 4. A device for filtering blood flowing through a vessel within the vascular
+
+</claim-text><claim-text>2 system, said device comprising:
+
+</claim-text><claim-text>3 a) an expandable element operative to direct bloodflow through
+
+</claim-text><claim-text>4 said vessel to a flow area of said vessel; and
+
+</claim-text><claim-text>5 b) a filter operative to filter the blood passing through said portion
+
+</claim-text><claim-text>6 of said flow area.
+
+</claim-text><claim-text>1 5. A device for use in intravascular procedures, wherein at least a portion ofthe
+
+</claim-text><claim-text>2 device is adapted for placement in a flowpath of a blood vessel, the intravascular
+
+</claim-text><claim-text>3 portion comprising:
+
+</claim-text><claim-text>4 a) a filter including a flowpath spanning portion operative to filter
+
+</claim-text><claim-text>5 at least a portion of blood flowing through said vessel; and
+
+</claim-text><claim-text>6 b) a valve assembly including valve elements and said flowpath
+
+</claim-text><claim-text>7 spanning portion, said valve elements being positionable in a first state away
+
+</claim-text><claim-text>8 from said flowpath spanning portion to permit antegrade blood flow through
+
+</claim-text><claim-text>9 said flowpath spanning portion, and positionable in a second state adjacent to
+
+</claim-text><claim-text>10 said flowpath spanning portion to prevent retrograde blood flow through said
+
+</claim-text><claim-text>11 flowpath spanning portion.
+
+</claim-text><claim-text>1 6. An expandable valve for insertion into a vessel to allow greater flow along a
+
+</claim-text><claim-text>2 central axis of said vessel in a first direction than in a second, opposite direction, said
+
+</claim-text><claim-text>3 valve comprising:
+
+</claim-text><claim-text>4 a) an expandable member adapted for selective expansion to abut
+
+</claim-text><claim-text>5 the wall ofthe vessel, said expandable member having at least one flow path
+
+</claim-text><claim-text>6 therethrough;
+
+</claim-text><claim-text>7 b) a valve element, said valve element opening during flow
+
+</claim-text><claim-text>8 through said flow path in said first direction while closing over said flow path
+
+</claim-text><claim-text>9 during flow in said second direction; and
+
+</claim-text><claim-text>10 wherein said expandable member and said valve element are unitary assembly
+
+</claim-text><claim-text>11 adapted for insertion into said vessel in a collapsed state along an axis angularly offset
+
+</claim-text><claim-text>12 from said central axis of said vessel.
+
+</claim-text><claim-text>BNSDOCID &lt;WO&lt;"&gt;0044313A1 I &gt;
+
+
+</claim-text><claim-text>7. An expandable valve adapted to be expanded to abut the interior wall of a vessel and occupy substantially all of a cross-sectional flow area of said vessel, said valve comprising: a) a flexible, elongated element, said elongated element configured into a loop that can be collapsed to form two adjacent parallel segments mutually joined at their respective ends, and that can be expanded to a ring-like form adapted to abut the interior wall of said vessel, said loop adapted to occupy a portion ofthe cross-sectional flow area of said vessel; b) a backing element affixed to and spanning said loop, said loop and said backing elements forming a valve base;
+</claim-text><claim-text> and c) at least one valve leaflet peripherally affixed to said valve base, said valve leaflet adapted in a first state to collapse against said backing element to prevent flow in a first direction through said valve base, and adapted in a second state to move away from said backing element to permit fluid flow in a second direction through said valve base.
+
+
+</claim-text><claim-text>8. An expandable valve according to claim 7 having at least four valve leaflets.
+
+
+</claim-text><claim-text>9. An expandable valve according to claim 7 having at least two valve leaflets affixed to said valve base, said valve leaflets sized such that a combination of fewer than the total number of said valve leaflets can resist flow in a first direction through said valve base and open to allow flow in a second direction through said valve base.
+
+
+</claim-text><claim-text>10. A method for providing a valve within a tubular vascular structure, comprising: a) inserting an expandable valve in a collapsed state into said vascular structure through an entry site; and b) expanding said valve within said vascular stmcture to an expanded state proximate to said entry site.
+1 11. A method according to claim 10 wherein said valve is inserted into said
+
+</claim-text><claim-text>2 vascular stmcture along an axis transverse to a central axis of said vascular stmcture.
+
+</claim-text><claim-text>1 12. An expandable intravascular filter device adapted to filter blood flowing
+
+</claim-text><claim-text>2 through a tubular vascular structure, said filter comprising:
+
+</claim-text><claim-text>3 a) an elongated filament, said filament having a proximal and a
+
+</claim-text><claim-text>4 distal end, said distal end being adapted to be inserted into said vessel through
+
+</claim-text><claim-text>5 an entry site; and
+
+</claim-text><claim-text>6 b) an expandable filter, said filter being adapted to track along
+
+</claim-text><claim-text>7 said filament, said filter having a collapsed state with a relatively small
+
+</claim-text><claim-text>8 maximum transverse dimension and having an expanded state with a relatively
+
+</claim-text><claim-text>9 large transverse dimension, said filter being insertable into said vessel in a
+
+</claim-text><claim-text>10 collapsed state and expandable in said vessel to an expanded state, wherein
+
+</claim-text><claim-text>11 said filter occupies a cross sectional flow area of said vessel not occupied by
+
+</claim-text><claim-text>12 said filament, said filter being attached to said filament proximal to the distal
+
+</claim-text><claim-text>13 end of said filament.
+
+</claim-text><claim-text>1 13. An expandable intravascular filter kit, said kit comprising:
+
+</claim-text><claim-text>2 a) an elongated cannula having an outer diameter D and defining
+
+</claim-text><claim-text>3 at least one lumen passing therethrough, said cannula having a proximal and a
+
+</claim-text><claim-text>4 distal end, said distal end being adapted for insertion into a blood vessel
+
+</claim-text><claim-text>5 through an entry site,
+
+</claim-text><claim-text>6 b) a filter axially and slidingly positioned along a limited portion
+
+</claim-text><claim-text>7 of the outer surface of said cannula near said distal end, said filter being
+
+</claim-text><claim-text>8 collapsible in a first state whereby a maximum dimension of said filter and
+
+</claim-text><claim-text>9 said cannula is relatively small, and thereby being adapted in said first state for
+
+</claim-text><claim-text>10 insertion into said vessel and being expandable in a second state, whereby said
+
+</claim-text><claim-text>11 filter extends transverse to a central axis of said cannula, thereby being
+
+</claim-text><claim-text>12 adapted to span at least a portion of said vessel and to filter blood flowing
+
+</claim-text><claim-text>13 therethrough.
+
+</claim-text><claim-text>BNSDOCID &lt;WO 0044313A1
+1 14. An expandable intravascular filter according to claim 13 wherein said filter is
+
+</claim-text><claim-text>2 circumferentially slidingly positioned on said limited portion.
+
+</claim-text><claim-text>1 15. An expandable intravascular filter according to claim 12 wherein said filter
+
+</claim-text><claim-text>2 includes at least one of circumferentially extending filter elements extending
+
+</claim-text><claim-text>3 from a distal end thereof, said circumferentially extending filter elements
+
+</claim-text><claim-text>4 being adapted to filter blood passing therethrough along an axis transverse to a
+
+</claim-text><claim-text>5 central axis of said cannula.
+
+</claim-text><claim-text>1 16. An expandable intravascular filter device according to claim 12 wherein said
+
+</claim-text><claim-text>2 distal end of said cannula is selectively deflectable away from a central axis of said
+
+</claim-text><claim-text>3 cannula.
+
+</claim-text><claim-text>1 17. A valve fixation device for affixing a flexible prosthetic valve to the interior
+
+</claim-text><claim-text>2 wall of a vessel, said prosthetic valve having a generally cylindrical shape with a base,
+
+</claim-text><claim-text>3 an apex, an interior surface and an exterior surface, said prosthetic valve further
+
+</claim-text><claim-text>4 having a long axis passing through the centers ofthe circles formed by at least two
+
+</claim-text><claim-text>5 circumferences of said cylindrical shape along the distance between said apex and
+
+</claim-text><claim-text>6 said base, said fixation device comprising:
+
+</claim-text><claim-text>7 a) at least two expandable fixation rings, said rings being
+
+</claim-text><claim-text>8 expandable from a first compressed state having a relatively small maximum
+
+</claim-text><claim-text>9 transverse dimension to a second expanded state having a relatively large
+
+</claim-text><claim-text>10 maximum transverse dimension, said rings expandable in a direction
+
+</claim-text><claim-text>11 perpendicular to the long axis of said prosthetic valve, each of said rings being
+
+</claim-text><claim-text>12 affixed to said prosthetic valve near a respective end thereof.
+
+</claim-text><claim-text>1 18. A valve fixation device according to claim 17 further comprising at least one
+
+</claim-text><claim-text>2 rigid st t on the exterior surface of said prosthetic valve passing along an axis
+
+</claim-text><claim-text>3 parallel to the long axis of said valve, said struts being affixed to said rings at
+
+</claim-text><claim-text>4 least one point on each of said rings.
+
+</claim-text><claim-text>BNSDOCID &lt;WO 0044313A1 I &gt;
+1 19. A prosthetic cardiac valve comprising:
+
+</claim-text><claim-text>2 a) flexible prosthetic valve means having a generally cylindrical
+
+</claim-text><claim-text>3 shape with a base, an apex, an interior surface and an exterior surface, said
+
+</claim-text><claim-text>4 prosthetic valve further having valve leaflets joined to said interior surface,
+
+</claim-text><claim-text>5 said leaflets forming commissures where two of said leaflets meet along said
+
+</claim-text><claim-text>6 interior surface, said prosthetic valve further having a long axis passing
+
+</claim-text><claim-text>7 through the centers ofthe circles formed by at least two circumferences of said
+
+</claim-text><claim-text>8 cylindrical shape taken along the distance between said apex and said base;
+
+</claim-text><claim-text>9 b) at least two expandable fixation rings, each being affixed to a
+
+</claim-text><claim-text>10 respective end of said prosthetic valve at least one point, said rings being
+
+</claim-text><claim-text>11 expandable in a direction perpendicular to the long axis of said prosthetic
+
+</claim-text><claim-text>12 valve; and
+
+</claim-text><claim-text>13 c) at least one rigid strut on the exterior surface of said prosthetic
+
+</claim-text><claim-text>14 valve passing along an axis parallel to the long axis of said valve, said stmts
+
+</claim-text><claim-text>15 being affixed to said rings at least one point on each of said rings.
+
+</claim-text><claim-text>1 20. A prosthetic cardiac valve according to claim 19 comprising two expandable
+
+</claim-text><claim-text>2 fixation rings and three rigid stmts, each of said stmts passing proximate to
+
+</claim-text><claim-text>3 one of said commissures.
+
+</claim-text><claim-text>1 21. A prosthetic cardiac valve according to claim 20 wherein said stmts are
+
+</claim-text><claim-text>2 affixed to said prosthetic valve at least one point.
+
+</claim-text><claim-text>1 22. A prosthetic cardiac valve according to claim 20 wherein said rings are affixed
+
+</claim-text><claim-text>2 to the exterior surface of said prosthetic valve.
+
+</claim-text><claim-text>1 23. A prosthetic cardiac valve according to claim 20 wherein said rings are further
+
+</claim-text><claim-text>2 affixed to a sealing means for sealing against an interior surface of said vessel wall.
+
+</claim-text><claim-text>1 24. A prosthetic cardiac valve according to claim 20 wherein said stmts are further
+
+</claim-text><claim-text>2 affixed to a sealing means for sealing against the interior surface of said vessel wall.
+
+</claim-text><claim-text>BNSDOCID &lt;WO 0044313A1 I &gt;
+
+
+</claim-text><claim-text>25. A prosthetic cardiac valve according to claim 20 wherein said rings have integral fixation means for securing said prosthetic valve to an interior surface of said vessel wall.
+
+
+</claim-text><claim-text>26. A prosthetic cardiac valve according to claim 20 wherein said stmts have integral fixation means for securing said prosthetic valve to the interior surface of said vessel wall.
+
+
+</claim-text><claim-text>27. A method for affixing a prosthetic valve to the wall of a vessel, comprising the steps of: a) during cardiac rhythm, inserting said prosthetic valve into a vessel in a compressed state; b) advancing said prosthetic valve to the site of implantation; c) expanding said prosthetic valve to an expanded state; and d) passing at least one fixation means entirely through the wall of said vessel.
+
+
+</claim-text><claim-text>28. The method ofclaim 27 wherein said fixation means is passed from the inside of said vessel through to the outside of said vessel.
+
+
+</claim-text><claim-text>29. The method ofclaim 27 wherein said fixation means is passed from the outside of said vessel through to the inside of said vessel.
+
+
+</claim-text><claim-text>30. The method of claim 27 wherein said fixation means is a suture.
+
+
+</claim-text><claim-text>31. The method claim 27 wherein said method is performed during cardiac rhythm.
+
+
+</claim-text><claim-text>32. A method of replacing a native cardiac valve, comprising the steps of: a) during cardiac rhythm, inserting into a vessel the distal ends of a set of two concentric cannulae including an inner cannula and an outer cannula, said inner cannula having a smaller outer diameter than the inner
+5 diameter of said outer cannula such that said inner cannula can be slidably
+
+</claim-text><claim-text>6 placed within a lumen of said outer cannula;
+
+</claim-text><claim-text>7 b) advancing the distal ends of said cannulae to a site proximate to
+
+</claim-text><claim-text>8 said cardiac valve;
+
+</claim-text><claim-text>9 c) positioning said cannula whereby the distal end of said inner
+
+</claim-text><claim-text>10 cannula extends beyond the distal of end of said outer cannula, and expanding
+
+</claim-text><claim-text>11 an expandable member secured to an outer surface of said cannula, whereby
+
+</claim-text><claim-text>12 said expandable member occupies substantially all ofthe cross sectional flow
+
+</claim-text><claim-text>13 area of said vessel;
+
+</claim-text><claim-text>14 d) performing a procedure on said native valve at least in part
+
+</claim-text><claim-text>15 through a lumen of the inner cannula;
+
+</claim-text><claim-text>16 e) removing said inner cannula and said expandable member
+
+</claim-text><claim-text>17 through said lumen of said outer cannula, the distal end of said outer cannula
+
+</claim-text><claim-text>18 remaining proximate to the attachment site of said cardiac valve to said vessel;
+
+</claim-text><claim-text>BNSDOCID &lt;WO
+19 f) advancing a valve prosthesis through said outer lumen of said
+
+</claim-text><claim-text>20 cannula to a site at or near the attachment site of said cardiac valve; and
+
+</claim-text><claim-text>21 g) affixing said valve prosthesis to the wall of said vessel.
+
+</claim-text><claim-text>1 33. A method of repairing and replacing a stenosed cardiac valve comprising the
+
+</claim-text><claim-text>2 steps of:
+
+</claim-text><claim-text>3 a) during cardiac rhythm, disrupting said cardiac valve, without
+
+</claim-text><claim-text>4 completely removing said cardiac valve such that said cardiac valve no longer
+
+</claim-text><claim-text>5 functions as a valve, thereby decreasing pressure drop across said cardiac
+
+</claim-text><claim-text>6 valve; and
+
+</claim-text><claim-text>7 b) implanting a prosthetic valve downstream of said cardiac valve.
+
+</claim-text><claim-text>1 34. A method of replacing a diseased cardiac valve comprising the sequential
+
+</claim-text><claim-text>2 steps of:
+
+</claim-text><claim-text>3 a) during cardiac rhythm, placing a valve prosthesis into a vessel
+
+</claim-text><claim-text>4 downstream of said cardiac valve; and
+
+</claim-text><claim-text>5 b) resecting at least some portion of said cardiac valve.
+
+</claim-text><claim-text>1 35. A method of replacing a diseased cardiac valve comprising the sequential
+
+</claim-text><claim-text>2 steps of:
+
+</claim-text><claim-text>3 a) during cardiac rhythm, placing a valve prosthesis into a vessel
+
+</claim-text><claim-text>4 downstream of said cardiac valve;
+
+</claim-text><claim-text>5 b) resecting at least some portion of said cardiac valve;
+
+</claim-text><claim-text>6 c) repositioning said valve prosthesis to or near the site ofthe
+
+</claim-text><claim-text>7 resected cardiac valve; and
+
+</claim-text><claim-text>8 d) affixing said valve prosthesis to the wall of said vessel.
+
+</claim-text><claim-text>BNSDOCID &lt;WO 0044313A1 I &gt;
+1 36. A method of replacing a diseased cardiac valve comprising the steps of:
+
+</claim-text><claim-text>2 a) during cardiac rhythm, inserting an expandable valve prosthesis
+
+</claim-text><claim-text>3 into a vessel in a collapsed state and positioning said valve prosthesis at the
+
+</claim-text><claim-text>4 site of said cardiac valve;
+
+</claim-text><claim-text>5 b) expanding said valve prosthesis and cmshing said cardiac valve
+
+</claim-text><claim-text>6 against the wall of said vessel; and
+
+</claim-text><claim-text>7 c) affixing the valve prosthesis to said vessel wall through the
+
+</claim-text><claim-text>8 c shed cardiac valve.
+
+</claim-text><claim-text>1 37. A method of resecting cardiac valve leaflets attached to the inner wall of a
+
+</claim-text><claim-text>2 vessel comprising the steps of:
+
+</claim-text><claim-text>3 a) during cardiac rhythm, inserting one end ofa elongated
+
+</claim-text><claim-text>4 resection instrument into the vascular system and advancing said end
+
+</claim-text><claim-text>5 proximate to said cardiac valve;
+
+</claim-text><claim-text>6 b) directing said end against the wall of said vessel;
+
+</claim-text><claim-text>7 c) advancing said end along the wall of said vessel until it makes
+
+</claim-text><claim-text>8 contact with a the attachment of said leaflet of said cardiac valve to said
+
+</claim-text><claim-text>9 vessel; and
+
+</claim-text><claim-text>10 d) resecting said leaflet with said resection instrument.
+
+</claim-text><claim-text>1 38. A method of repairing a stenotic cardiac valve comprising the steps of:
+
+</claim-text><claim-text>2 a) during cardiac rhythm, disrupting the leaflets of said valve such
+
+</claim-text><claim-text>3 that the pressure drop across said valve is decreased; and
+
+</claim-text><claim-text>4 b) supporting said leaflets with a valve support device that at least
+
+</claim-text><claim-text>5 in part spans the flow area of said valve upstream of said valve leaflets.
+
+</claim-text><claim-text>BNSDOCID &lt;WO 0044313A1 I &gt;
+AMENDED CLAIMS
+
+</claim-text><claim-text>[received by the International Bureau on 26 June 2000 (26.06.00); new claims 39-49 added; remaining claims unchanged (6 pages)]
+
+
+</claim-text><claim-text>39. A method for enabling performance of an operation on a
+
+</claim-text><claim-text>cardiac valve of a heart while the heart is beating, comprising the steps
+
+</claim-text><claim-text>of: a) placing at least one temporary valve in a flow path of a
+
+</claim-text><claim-text>blood vessel of said cardiac valve, said temporary valve being operative
+
+</claim-text><claim-text>to effect greater antegrade flow than retrograde flow through said vessel;
+
+</claim-text><claim-text>and
+
+</claim-text><claim-text>b) placing at least one temporary filter in said flowpath downstream from said cardiac valve, said filter being operative to restrict
+
+</claim-text><claim-text>the passage of emboli while allowing blood to flow through said vessel.
+
+
+</claim-text><claim-text>40. A method for performing an operation on a cardiac valve of
+
+</claim-text><claim-text>a heart while the heart is beating, comprising the steps of:
+
+</claim-text><claim-text>a) positioning at least one temporary valve in a flow path of a
+
+</claim-text><claim-text>blood vessel downstream from said cardiac valve, said temporary valve
+
+</claim-text><claim-text>being operative to effect greater antegrade flow than retrograde flow
+
+</claim-text><claim-text>through said vessel;
+
+</claim-text><claim-text>b) resecting or disrupting at least a portion of the cardiac valve;
+
+</claim-text><claim-text>and
+c) affixing at least one prosthetic valve at, upstream or
+
+</claim-text><claim-text>downstream from said resected cardiac valve.
+
+
+</claim-text><claim-text>41. A device for performing intravascular or intracardiac procedures wherein at least a portion of the device is adapted for
+
+</claim-text><claim-text>placement in a flowpath of a blood vessel, said portion comprising:
+
+</claim-text><claim-text>a) a valve means that acts to allow greater antegrade flow than retrograde flow through said vessel; and
+
+</claim-text><claim-text>b) a filter operative to restrict the passage of emboli while allowing blood flow through said vessel.
+
+
+</claim-text><claim-text>42. A device for performing intravascular or intracardiac
+
+</claim-text><claim-text>procedures wherein at least a portion of said device is adapted for
+
+</claim-text><claim-text>placement in the flowpath of blood, said portion comprising:
+
+</claim-text><claim-text>a valve means that acts to allow greater antegrade flow than retrograde flow.
+
+
+</claim-text><claim-text>43. A valve fixation device for affixing a non-flexible prosthetic
+
+</claim-text><claim-text>valve to the interior wall of a vessel, said prosthetic valve having a
+
+</claim-text><claim-text>generally cylindrical shape with a base, an apex, an interior surface and
+
+</claim-text><claim-text>AMENDED SHEET (ARTICLE 19)
+
+</claim-text><claim-text>BNSDOCID &lt;WO 0044313A1 I
+an exterior surface, said prosthetic valve further having a long axis
+
+</claim-text><claim-text>passing through the centers of the circles formed by at least two
+
+</claim-text><claim-text>circumferences of said cylindrical shape along the distance between said
+
+</claim-text><claim-text>apex and said base, said fixation device comprising:
+
+</claim-text><claim-text>a) at least two expandable mounting rings, said rings being
+
+</claim-text><claim-text>expandable from a first compressed state having a relatively small
+
+</claim-text><claim-text>maximum transverse dimension to a second expanded state having a
+
+</claim-text><claim-text>relatively large maximum transverse dimension, said rings expandable in
+
+</claim-text><claim-text>a direction perpendicular to the long axis of said prosthetic valve, each of said rings being affixed to said prosthetic valve near a respective end
+
+</claim-text><claim-text>thereof.
+
+
+</claim-text><claim-text>44. A valve fixation device for affixing a non-flexible prosthetic
+
+</claim-text><claim-text>valve to the interior wall of a vessel, said prosthetic valve having a
+
+</claim-text><claim-text>generally cylindrical shape with a base, an apex, an interior surface and
+
+</claim-text><claim-text>an exterior surface, said prosthetic valve further having a long axis
+
+</claim-text><claim-text>passing through the centers of the circles .formed by at least two
+
+</claim-text><claim-text>circumferences of said cylindrical shape along the distance between said
+
+</claim-text><claim-text>apex and said base, said fixation device comprising:
+
+</claim-text><claim-text>AMENDED SHEET (ARTICLE 19)
+
+</claim-text><claim-text>RNSnOCID- &lt;:W 0044313A1 I &gt;
+a) at least one expandable mounting ring, said ring being
+
+</claim-text><claim-text>expandable from a first compressed state having a relatively small
+
+</claim-text><claim-text>maximum transverse dimension to a second expanded state having a
+
+</claim-text><claim-text>relatively large maximum transverse dimension, said ring expandable in a
+
+</claim-text><claim-text>direction perpendicular to the long axis of said prosthetic valve, each of
+
+</claim-text><claim-text>said ring being affixed to said prosthetic valve near a respective end
+
+</claim-text><claim-text>thereof.
+
+
+</claim-text><claim-text>45. A valve fixation device for affixing a flexible prosthetic valve
+
+</claim-text><claim-text>to the interior wall of a vessel, said prosthetic valve having a generally
+
+</claim-text><claim-text>cylindrical shape with a base, an apex, an interior surface and an exterior
+
+</claim-text><claim-text>surface, said prosthetic valve further having a long axis passing through
+
+</claim-text><claim-text>the centers of the circles formed by at least two circumferences of said
+
+</claim-text><claim-text>cylindrical shape along the distance between said apex and said base,
+
+</claim-text><claim-text>said fixation device comprising:
+
+</claim-text><claim-text>a) at least one expandable mounting ring, said ring being
+
+</claim-text><claim-text>expandable from a first compressed state having a relatively small
+
+</claim-text><claim-text>maximum transverse dimension to a second expanded state having a
+
+</claim-text><claim-text>relatively large maximum transverse dimension, said ring expandable in a
+
+</claim-text><claim-text>direction perpendicular to the long axis of .said prosthetic valve, each of
+
+</claim-text><claim-text>AMENDED SHEET (ARTICLE 19)
+
+</claim-text><claim-text>BNSDOCID &lt;WO 0044313A1 I &gt;
+said ring being affixed to said prosthetic valve near a respective end
+
+</claim-text><claim-text>thereof.
+
+
+</claim-text><claim-text>46. A method of repairing and replacing a stenosed cardiac
+
+</claim-text><claim-text>valve comprising the steps of:
+
+</claim-text><claim-text>a) during cardiac rhythm, disrupting said cardiac valve, without
+
+</claim-text><claim-text>completely removing said cardiac valve such that said cardiac valve no longer functions as a valve, thereby decreasing pressure drop across said
+
+</claim-text><claim-text>cardiac valve; and
+
+</claim-text><claim-text>b) implanting a prosthetic valve downstream, upstream or at
+
+</claim-text><claim-text>said cardiac valve.
+
+
+</claim-text><claim-text>47. A method of repairing and replacing a stenosed cardiac
+
+</claim-text><claim-text>valve comprising the steps of:
+
+</claim-text><claim-text>a) during cardiac rhythm, disrupting said cardiac valve, without
+
+</claim-text><claim-text>completely removing said cardiac valve such that said cardiac valve no
+
+</claim-text><claim-text>longer functions as a valve, thereby substantially equalizing the pressure
+
+</claim-text><claim-text>gradient across said cardiac valve; and
+
+</claim-text><claim-text>b) implanting a prosthetic valve downstream, upstream or at said cardiac valve.
+
+
+</claim-text><claim-text>48. A method for enabling performance of an operation on a cardiac valve of a heart while the heart is beating, comprising the steps
+
+</claim-text><claim-text>of: a) placing at least one temporary valve in a flow path of blood
+
+</claim-text><claim-text>vessel, said temporary valve being operative to effect greater antegrade flow than retrograde flow through said vessel; and b) placing at least one temporary filter in said flowpath
+
+</claim-text><claim-text>downstream from said cardiac valve, said filter being operative to restrict the passage of emboli while allowing blood to flow through said vessel.
+
+
+</claim-text><claim-text>49. A method for performing an operation on a cardiac valve of
+
+</claim-text><claim-text>a heart while the heart is beating, comprising the steps of:
+
+</claim-text><claim-text>a) positioning at least one temporary valve in a flow path of
+
+</claim-text><claim-text>blood, said temporary valve being operative to effect greater antegrade
+
+</claim-text><claim-text>flow than retrograde flow;
+
+</claim-text><claim-text>b) resecting or disrupting at least a portion of the cardiac valve;
+
+</claim-text><claim-text>and
+
+</claim-text><claim-text>c) affixing at least one prosthetic valve at, upstream or
+
+</claim-text><claim-text>downstream from said resected cardiac valve.
+
+</claim-text><claim-text>AMENDED SHEET (ARTICLE 19)
+
+</claim-text><claim-text>BNSDOCID: &lt;WO 0044313A1
+</claim-text></claim></claims><copyright>User acknowledges that the Information Retrieval Facility (IRF) and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws. User acquires no ownership rights to this xml including but not limited to its format. User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.ir-facility.org/legal/marec/data_licence</copyright></patent-document>

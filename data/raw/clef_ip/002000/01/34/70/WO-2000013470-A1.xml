@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.ir-facility.org/dtds/patents/v1.4/patent-document.dtd"><patent-document ucid="WO-2000013470-A1" country="WO" doc-number="2000013470" kind="A1" lang="EN" family-id="17155791" status="new" date-produced="20090508" date="20000309"><bibliographic-data><publication-reference ucid="WO-2000013470-A1" status="new" fvid="77366035"><document-id status="new" format="original"><country>WO</country><doc-number>2000013470</doc-number><kind>A1</kind><date>20000309</date></document-id></publication-reference><application-reference ucid="JP-9904668-W" status="new" is-representative="NO"><document-id status="new" format="epo"><country>JP</country><doc-number>9904668</doc-number><kind>W</kind><date>19990827</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-24692498-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>24692498</doc-number><kind>A</kind><date>19980901</date></document-id></priority-claim></priority-claims><technical-data status="new"><classification-ipc status="new"><edition>7</edition><main-classification>H05B  33/10</main-classification><further-classification>H05B  33/14</further-classification></classification-ipc><classifications-ipcr><classification-ipcr status="new">H01L  51/00        20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">H01L  51/00        20060101C I20070721RMEP        </classification-ipcr><classification-ipcr status="new">H01L  51/05        20060101C N20051008RMEP        </classification-ipcr><classification-ipcr status="new">H01L  51/30        20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">H01L  51/50        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">H01L  51/50        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">H05B  33/10        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">H05B  33/10        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">H01L  51/00A2H</classification-symbol><classification-symbol scheme="EC">H01L  51/50E</classification-symbol><classification-symbol scheme="EC">H05B  33/10</classification-symbol><classification-symbol scheme="ICO">T01L51:00M2D4</classification-symbol><classification-symbol scheme="ICO">T01L51:00M6</classification-symbol><classification-symbol scheme="ICO">T01L51:00M6F</classification-symbol><classification-symbol scheme="ICO">T01L51:30H</classification-symbol><classification-symbol scheme="ICO">T01L51:30H6</classification-symbol></classification-ecla><invention-title load-source="docdb" status="new" lang="EN">MATERIAL FOR ORGANIC ELECTROLUMINESCENCE DEVICE AND METHOD FOR PRODUCING THE SAME</invention-title><invention-title load-source="docdb" status="new" lang="FR">MATERIAUX POUR DISPOSITIF A ELECTROLUMINESCENCE ORGANIQUE ET SON PROCEDE DE PRODUCTION</invention-title><citations><patent-citations><patcit ucid="JP-10208881-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>10208881</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-1313930-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>1313930</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-51138188-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>51138188</doc-number><kind>A</kind></document-id><sources><source category="A"  name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-6297457-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>6297457</doc-number><kind>A</kind></document-id><sources><source category="A" name="SEA"  created-by-npl="N"/></sources></patcit><patcit ucid="JP-7235378-A"  status="new"><document-id status="new"  format="epo"><country>JP</country><doc-number>7235378</doc-number> <kind>A</kind></document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-8106006-A" status="new"><document-id status="new" format="epo"><country>JP</country> <doc-number>8106006</doc-number> <kind>A</kind> </document-id><sources><source category="A" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>H. FUKUMURA: 'Mass Transfer of Aromatic Molecules in Polymer Solid Induced by Pulse Laser Irridation' NEW LASER RESEARCH vol. 24, no. 7, 1996, pages 773 - 779, XP002923142</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>See also references of EP     1043915A1</text><sources><source name="SEA" created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>DAICEL CHEM</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>FUKUMURA HIROSHI</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>KITAGUCHI TORU</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>DAICEL CHEMICAL INDUSTRIES, LTD.</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>FUKUMURA, HIROSHI</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>KITAGUCHI, TORU</name></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>FUKUMURA HIROSHI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>KITAGUCHI TORU</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>FUKUMURA, HIROSHI</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KITAGUCHI, TORU</name></addressbook></inventor></inventors></parties></bibliographic-data><abstract load-source="docdb" source="national office" status="new" lang="EN"><p>A material adapted for an organic electroluminescence device and having a radiative recombination center is produced by bringing a source (1) containing a radiative recombination center formig compound capable of absorbing laser light into contact with a target (2) transmitting laser light and having at least one of an electron transport function and a hole transport function, irradiating the surface on the source (1) side (or on the target (2) side) with a laser beam the intensity of which is less than the laser ablation threshold of the source (1), and injecting a radiative recombination center forming compound (3) in the source (1) into the target (2). Thus, the material can be subjected to fine patterning.</p></abstract><abstract load-source="docdb" source="national office" status="new" lang="FR"><p>Un matériau adapté à un dispositif à électroluminescence organique et présentant un centre de recombinaison radiative est obtenu par contact d'une source (1) contenant un composé formant un centre de recombinaison radiative capable d'absorber la lumière laser avec une cible (2) transmettant la lumière laser et ayant une fonction de transport d'électrons et/ou une fonction de transport par trou(s), par irradiation de la surface sur le côté source (1) (ou sur le côté cible (2)) avec un faisceau laser dont l'intensité est inférieure au seuil d'ablation laser de la source (1), et par injection du composé (3) formant un centre de recombinaison radiative dans la source (1) à l'intérieur de la cible (2). Ainsi, le matériau peut être soumis à une formation de motifs fins.</p></abstract><description load-source="epoque" status="new" lang="EN"><p><pre xml:space="preserve" listing-type="other">
+
+ 
+EMI1.1     
+  
+EMI2.1     
+  
+EMI3.1     
+  
+EMI4.1     
+  
+EMI5.1     
+  
+EMI6.1     
+  
+EMI7.1     
+  
+EMI8.1     
+  
+EMI9.1     
+  
+EMI10.1     
+  
+EMI11.1     
+  
+EMI12.1     
+  
+EMI13.1     
+  
+EMI14.1     
+  
+EMI15.1     
+  
+EMI16.1     
+  
+EMI17.1     
+
+  
+</pre></p></description><claims load-source="epoque" status="new" lang="EN"><claim num="1"><claim-text>
+ 
+EMI18.1     
+  
+EMI19.1     
+ 
+</claim-text></claim></claims><copyright>User acknowledges that the Information Retrieval Facility (IRF) and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws. User acquires no ownership rights to this xml including but not limited to its format. User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.ir-facility.org/legal/marec/data_licence</copyright></patent-document>

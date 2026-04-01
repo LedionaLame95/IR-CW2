@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.ir-facility.org/dtds/patents/v1.4/patent-document.dtd"><patent-document ucid="WO-2000038043-A1" country="WO" doc-number="2000038043" kind="A1" lang="DE" family-id="18478061" status="new" date-produced="20090508" date="20000629"><bibliographic-data><publication-reference ucid="WO-2000038043-A1" status="new" fvid="77418507"><document-id status="new" format="original"><country>WO</country><doc-number>2000038043</doc-number><kind>A1</kind><date>20000629</date></document-id></publication-reference><application-reference ucid="JP-9907173-W" status="new" is-representative="NO"><document-id status="new" format="epo"><country>JP</country><doc-number>9907173</doc-number><kind>W</kind><date>19991221</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="JP-36291998-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>36291998</doc-number><kind>A</kind><date>19981221</date></document-id></priority-claim></priority-claims><technical-data status="new"><classification-ipc status="new"><edition>7</edition><main-classification>G06F   3/14</main-classification><further-classification>G06F   3/16</further-classification><further-classification>G06F  17/30</further-classification><further-classification>G06F   3/00</further-classification><further-classification>G06F  13/00</further-classification><further-classification>G06F  12/00</further-classification></classification-ipc><classifications-ipcr><classification-ipcr status="new">G06F   3/01        20060101ALI20060310RMJP        </classification-ipcr><classification-ipcr status="new">G06F   3/01        20060101CLI20060310RMJP        </classification-ipcr><classification-ipcr status="new">G06F   3/023       20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">G06F   3/023       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">G06F   3/048       20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">G06F   3/048       20060101C I20070721RMEP        </classification-ipcr><classification-ipcr status="new">G06F   3/14        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">G06F   3/14        20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">G06F  17/30        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">G06F  17/30        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">G06F  17/30G4</classification-symbol><classification-symbol scheme="EC">G06F  17/30W9</classification-symbol><classification-symbol scheme="EC">G06F   3/023P</classification-symbol><classification-symbol scheme="EC">G06F   3/048K</classification-symbol><classification-symbol scheme="EC">G06F   3/14</classification-symbol></classification-ecla><invention-title load-source="docdb" status="new" lang="EN">HYPERTEXT DISPLAY DEVICE</invention-title><invention-title load-source="docdb" status="new" lang="FR">DISPOSITIF D'AFFICHAGE D'HYPERTEXTE</invention-title><citations><patent-citations><patcit ucid="JP-10039981-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>10039981</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-10124293-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>10124293</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-10320168-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>10320168</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit><patcit ucid="JP-10322478-A" status="new"><document-id status="new" format="epo"><country>JP</country><doc-number>10322478</doc-number><kind>A</kind></document-id><sources><source category="X" name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>HIONOBU SUZUKI: 'Sokuho! Sarani power up shita HTML4. 0' SOFTWARE DESIGN no. 89, 19 March 1998, KABUSHIKI KAISHA GIJUTSU HYORONSHA (TOKYO), pages 78 - 81, XP002930229</text><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>M. SASAKI: 'Keitai tanmatsu muke kijutsu gengo' NIKKEI INTERNET TECHNOLOGY no. 12, 01 December 1997, NIKKEI BP K. K. (TOKYO), pages 106 - 113, XP002930231</text><sources><source category="Y" name="SEA"  created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>MASSHIANO CHAKKU: 'Web Master 28 HTML4. O wo tsukaikonasu (Part 2)' SUN WORLD vol. 8, no. 8, 01 August 1998, KABUSHIKI KAISHA IDG COMMUNICATIONS (TOKYO), pages 91 - 93, XP002930228</text><sources><source category="Y" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>See also references of EP     1058182A1</text><sources><source name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>TAKUYA KOZA: 'Rensai koza, Web wo kiso kara rikai suru accessibility kojo no tame WWW page seisakusha ga koryo subekiten' NIKKEI INTERNET TECHNOLOGY no. 14, 22 August 1998, NIKKEI BP K. K. (TOKYO), pages 144 - 149, XP002930230</text><sources><source category="Y" name="SEA"  created-by-npl="N"/></sources></nplcit></non-patent-citations></citations></technical-data><parties><applicants><applicant status="new"  format="epo"><addressbook><name>HISHIDA TOSHIHIRO</name><address><country>JP</country></address></addressbook></applicant><applicant status="new"  format="epo"><addressbook><name>KATO ATSUNOBU</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>MATSUSHITA COMMUNICATION IND</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>MATSUSHITA ELECTRIC IND CO LTD</name><address><country>JP</country></address></addressbook></applicant> <applicant status="new" format="epo"><addressbook><name>NAKATSUCHI MASAHARU</name><address><country>JP</country></address></addressbook></applicant> <applicant status="new" format="epo"><addressbook><name>NIPPON TELEGRAPH &amp; TELEPHONE</name> <address><country>JP</country> </address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>OOSEKI ERIKO</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>SHIN HIDEHIKO</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>TANAKA YASUNORI</name><address><country>JP</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>HISHIDA, TOSHIHIRO</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>KATO, ATSUNOBU</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>MATSUSHITA COMMUNICATION INDUSTRIAL CO., LTD.</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>MATSUSHITA ELECTRIC INDUSTRIAL CO., LTD.</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>NAKATSUCHI, MASAHARU</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>NTT MOBILE COMMUNICATIONS NETWORK, INC.</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>OOSEKI, ERIKO</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>SHIN, HIDEHIKO</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>TANAKA, YASUNORI</name></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>HISHIDA TOSHIHIRO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>KATO ATSUNOBU</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>NAKATSUCHI MASAHARU</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>OOSEKI ERIKO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>SHIN HIDEHIKO</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>TANAKA YASUNORI</name><address><country>JP</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>HISHIDA, TOSHIHIRO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>KATO, ATSUNOBU</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>NAKATSUCHI, MASAHARU</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>OOSEKI, ERIKO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>SHIN, HIDEHIKO</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>TANAKA, YASUNORI</name></addressbook></inventor></inventors></parties></bibliographic-data><abstract load-source="docdb" source="national office" status="new" lang="EN"><p>Anchor information is extracted by analyzing a hypertext document using analyzing means.  If a button key selection attribute is not imparted to the anchor of the hypertext document, the attribute is imparted automatically by automatic attribute impartation judging means or automatic attribute imparting means.  Based on the correlation between the button key selection attribute automatically imparted or imparted to the hypertext document and the anchor information, according to the anchor information correlated with the button key selection attribute corresponding to the button key input or speech input, the data is acquired or focus is moved, allowing the corresponding anchor to be easily selected.</p></abstract><abstract load-source="docdb" source="national office" status="new" lang="FR"><p>D'après cette invention, des informations ancres sont extraites en analysant un document hypertexte à l'aide d'un système d'analyse. Si un attribut de sélection de touche n'est pas attribué à l'ancre du document hypertexte, l'attribut est attribué automatiquement par un système automatique d'évaluation d'attribution d'attributs ou par un système automatique d'attribution d'attributs. En se fondant sur la corrélation entre, d'une part, l'attribut de sélection de touche attribué automatiquement ou attribué au document hypertexte et, d'autre part, les informations ancres, et en fonction des informations ancres corrélées à l'attribut de sélection de touche correspondant à une entrée par touche ou une entrée vocale, les données sont acquises ou le centre d'attention est déplacé de manière à pouvoir sélectionner facilement l'ancre correspondante.</p></abstract><description load-source="epoque" status="new" lang="DE"><p><pre xml:space="preserve" listing-type="other">
+ &lt;Desc/Clms Page number 1&gt; 
+ 
+ EMI1.1 
+ 
+
+ &lt;Desc/Clms Page number 2&gt; 
+
+ 
+ EMI2.1 
+ 
+
+ &lt;Desc/Clms Page number 3&gt; 
+
+ 
+ EMI3.1 
+ 
+
+ &lt;Desc/Clms Page number 4&gt; 
+
+ 
+ EMI4.1 
+ 
+
+ &lt;Desc/Clms Page number 5&gt; 
+
+ 
+ EMI5.1 
+ 
+
+ &lt;Desc/Clms Page number 6&gt; 
+
+ 
+ EMI6.1 
+ 
+
+ &lt;Desc/Clms Page number 7&gt; 
+
+ 
+ EMI7.1 
+ 
+
+ &lt;Desc/Clms Page number 8&gt; 
+
+ 
+ EMI8.1 
+ 
+
+ &lt;Desc/Clms Page number 9&gt; 
+
+ 
+ EMI9.1 
+ 
+
+ &lt;Desc/Clms Page number 10&gt; 
+
+ 
+ EMI10.1 
+ 
+
+ &lt;Desc/Clms Page number 11&gt; 
+
+ 
+ EMI11.1 
+ 
+
+ &lt;Desc/Clms Page number 12&gt; 
+
+ 
+ EMI12.1 
+ 
+
+ &lt;Desc/Clms Page number 13&gt; 
+
+ 
+ EMI13.1 
+ 
+ EMI13.2 
+
+</pre></p></description><claims load-source="epoque" status="new" lang="DE"><claim num="1"><claim-text>
+ EMI14.1 
+ 
+
+ &lt;Desc/Clms Page number 15&gt; 
+
+ 
+ EMI15.1 
+
+</claim-text></claim></claims><copyright>User acknowledges that the Information Retrieval Facility (IRF) and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws. User acquires no ownership rights to this xml including but not limited to its format. User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.ir-facility.org/legal/marec/data_licence</copyright></patent-document>

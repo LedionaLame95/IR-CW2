@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE patent-document
+  PUBLIC "-//MXW//DTD patent-document XML//EN" "http://www.ir-facility.org/dtds/patents/v1.4/patent-document.dtd"><patent-document ucid="WO-2000049132-A2" country="WO" doc-number="2000049132" kind="A2" lang="EN" family-id="22295794" status="new" date-produced="20090508" date="20000824"><bibliographic-data><publication-reference ucid="WO-2000049132-A2" status="new" fvid="77425569"><document-id status="new" format="original"><country>WO</country><doc-number>2000049132</doc-number><kind>A2</kind><date>20000824</date></document-id></publication-reference><application-reference ucid="IB-9902129-W" status="new" is-representative="NO"><document-id status="new" format="epo"><country>IB</country><doc-number>9902129</doc-number><kind>W</kind><date>19991008</date></document-id></application-reference><priority-claims status="new"><priority-claim ucid="US-10355098-P" status="new"><document-id status="new" format="epo"><country>US</country><doc-number>10355098</doc-number><kind>P</kind><date>19981008</date></document-id></priority-claim></priority-claims><technical-data status="new"><classification-ipc status="new"><edition>7</edition><main-classification>C12N    /</main-classification></classification-ipc><classifications-ipcr><classification-ipcr status="new">A01K  67/027       20060101A I20070721RMEP        </classification-ipcr><classification-ipcr status="new">A01K  67/027       20060101C I20070721RMEP        </classification-ipcr><classification-ipcr status="new">A61K  38/00        20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  38/00        20060101C N20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  48/00        20060101A N20051008RMEP        </classification-ipcr><classification-ipcr status="new">A61K  48/00        20060101C N20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07K  14/435       20060101C I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C07K  14/78        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/12        20060101A I20060521RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/12        20060101C I20060521RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/85        20060101A I20051008RMEP        </classification-ipcr><classification-ipcr status="new">C12N  15/85        20060101C I20051008RMEP        </classification-ipcr></classifications-ipcr><classification-ecla status="new"><classification-symbol scheme="EC">A01K  67/027M</classification-symbol><classification-symbol scheme="EC">C07K  14/78</classification-symbol><classification-symbol scheme="EC">C12N  15/85A3</classification-symbol><classification-symbol scheme="EC">C12N  15/85A3A</classification-symbol><classification-symbol scheme="ICO">K01K217:00</classification-symbol><classification-symbol scheme="ICO">K01K217:02</classification-symbol><classification-symbol scheme="ICO">K01K227:10M</classification-symbol><classification-symbol scheme="ICO">K01K267:03</classification-symbol><classification-symbol scheme="ICO">K01K267:03A</classification-symbol><classification-symbol scheme="ICO">K61K38:00</classification-symbol><classification-symbol scheme="ICO">K61K48:00</classification-symbol><classification-symbol scheme="ICO">M07K207:00</classification-symbol><classification-symbol scheme="ICO">M12N830:42</classification-symbol></classification-ecla><invention-title load-source="docdb" status="new" lang="EN">USES OF TRANSGENIC ANIMALS CONTAINING A TYPE X COLLAGEN MUTANT</invention-title><invention-title load-source="docdb" status="new" lang="FR">UTILISATION D'ANIMAUX TRANSGENIQUES CONTENANT UN COLLAGENE DE TYPE X MUTANT</invention-title><citations><patent-citations><patcit ucid="WO-1997017430-A1" status="new"><document-id status="new" format="epo"><country>WO</country><doc-number>1997017430</doc-number><kind>A1</kind></document-id><sources><source category="A"  name="SEA" created-by-npl="N"/></sources></patcit></patent-citations><non-patent-citations><nplcit status="new"><text>DATABASE WPI Week 9314 Derwent Publications Ltd., London, GB; AN 1993-112771 XP002162012 KANEKA CORP: "X-type collagen derived from rabbit-cartilage - for treating bone diseases (e.g. fractures and osteoporosis) and arthritis." &amp; JP 05 051400 A (KANEGAFUCHI CHEM IND CO LTD), 15 May 1997 (1997-05-15)</text><sources><source category="A" name="SEA" created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>JACENKO O ET AL: "Spondylometaphyseal dysplasia in mice carrying a dominant negative mutation in a matrix protein specific for cartilage-to-bone transition" NATURE, vol. 365, 2 September 1993 (1993-09-02), pages 56-61, XP002162010 cited in the application</text><sources><source category="AD" name="SEA"  created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>KUIVANIEMI H ET AL: "Mutations in fibrillar collagens (Type I, II, III, and XI), fibril-associated collagen (Type IX), and network-forming collagen (Type X) caused a spectrum of diseases of bone, cartilage, and blood vessels" HUMAN MUTAT, vol. 9, 1997, pages 300-315, XP002162009 -&amp; DATABASE SWISSPROT E.B.I., Hixton, U.K.; Accession Number: Q03692, 1 November 1995 (1995-11-01) HOMO SAPIENS: "Collagen alpha 1(X) chain precursor" XP002162011</text><sources><source category="X"  name="SEA"  created-by-npl="N"/></sources></nplcit><nplcit status="new"><text>WARMAN M ET AL: "A type X collagen mutation causes Schmid metaphyseal chondrodysplasia" NAT GENET, vol. 5, no. 1, September 1993 (1993-09), pages 79-82, XP000982762 cited in the application</text><sources><source category="XD" name="SEA" created-by-npl="N"/></sources></nplcit> </non-patent-citations></citations></technical-data><parties><applicants><applicant status="new" format="epo"><addressbook><name>CHEAH KATHRYN</name><address><country>CN</country> </address> </addressbook> </applicant><applicant status="new" format="epo"><addressbook><name>CHEUNG KENNETH</name><address><country>CN</country></address></addressbook></applicant><applicant status="new" format="epo"><addressbook><name>UNIV HONG KONG</name><address><country>CN</country></address></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>CHEAH, KATHRYN</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>CHEUNG, KENNETH</name></addressbook></applicant><applicant status="new" format="intermediate"><addressbook><name>THE UNIVERSITY OF HONG KONG</name></addressbook></applicant></applicants><inventors><inventor status="new" format="epo"><addressbook><name>CHEAH KATHRYN</name><address><country>CN</country></address></addressbook></inventor><inventor status="new" format="epo"><addressbook><name>CHEUNG KENNETH</name><address><country>CN</country></address></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>CHEAH, KATHRYN</name></addressbook></inventor><inventor status="new" format="intermediate"><addressbook><name>CHEUNG, KENNETH</name></addressbook></inventor></inventors></parties></bibliographic-data><abstract load-source="docdb" source="national office" status="new" lang="EN"><p>This invention provides an isolated DNA comprising the sequence which codes for a mutated collagen X or a portion thereof wherein the expression of said DNA regulates bone growth. This invention provides a polypeptide encoded by the isolated DNA comprising the sequence which codes for a mutated collagen X or a portion thereof wherein the expression of said DNA regulates bone growth. This invention also provides a polypeptide which comprises the portion of the mutated collagen X capable of regulating bone growth. This invention further provides a transgenic animal comprising an isolated DNA comprising the sequence which codes for a mutated collagen X or a portion thereof wherein the expression of said DNA regulates bone growth.</p></abstract><abstract load-source="docdb" source="national office" status="new" lang="FR"><p>L'invention concerne un ADN isolé qui comprend une séquence codant pour un collagène X mutant ou une partie de celui-ci, dans laquelle l'expression de cet ADN régule la croissance osseuse. L'invention concerne également un polypeptide codé par l'ADN isolé comprenant la séquence codant pour un collagène X mutant ou une partie de celui-ci, dans laquelle l'expression de cet ADN régule la croissance osseuse. L'invention concerne en outre un polypeptide comprenant la partie du collagène X mutant pouvant réguler la croissance osseuse. L'invention concerne enfin un animal transgénique contenant un ADN isolé qui comprend la séquence codant pour un collagène X mutant ou une partie de celui-ci, dans laquelle l'expression de cet ADN régule la croissance osseuse.</p></abstract><description load-source="epoque" status="new" lang="EN"><p><pre xml:space="preserve" listing-type="other">
+ USES OF TRANSGENIC ANIMALS CONTAINING
+ A TYPE X COLLAGEN MUTANT
+This application claims the benefit of U. S. Provisional
+Application No. 60/103,550, filed October 8,1998, the contents of which are   hereby nincorporated    by reference.
+
+
+Throughout this application, various references are referred to within parentheses. Disclosures of these publications in their entireties are hereby incorporated by reference into this application to more fully describe the state of the art to which this invention pertains.
+
+
+Background of the Invention
+Type X Collagen and its function
+Type X collagen is a homotrimer of three al (X) chains, with a short (38aa) non-helical   aDmino    terminus (NC2), a triple helix of 463aa and a C-terminal highly conserved noncollagenous domain   (NC1)    of 161aa. This collagen is the major extracellular component synthesized by hypertrophic chondrocytes in growth cartilage destined to be calcified and in zones of secondary ossification (1,2). Expression of the al (X) collagen gene is specifically associated with hypertrophic chondrocytes and precedes the onset of endochondral ossification (3). Although this collagen does not form fibrils, it has been found as fine pericellular filaments in association with cartilage collagen fibrils (4).
+ Type X collagen molecules may also form other supramolecular structures in the matrix, since they have been shown to assemble into a hexagonal lattice in vitro (5).
+
+
+Apart from association with collagen fibrils, type X collagen interacts with other matrix components, such as annexin V, chondrocalcin (6) and proteoglycans (4). Type X collagen has also been shown to be intimately associated with the calcification process by binding to Ca++ and matrix vesicles which are cell-derived microstructures found in the matrix of calcifying cartilage and bone and thought to be  important in the initiation of mineral deposition (7). In addition expression of type X collagen precedes mineral deposition by cultured chondrocytes (8).
+
+
+Despite the wealth of information about type X collagen, the precise function of this protein and its role in the pathogenesis of chondrodysplasia, has remained the subject of controversy. Because of its specific association with hypertrophic chondrocytes in the calcifying zone of growth plate cartilage, type X collagen has been proposed to be important for endochondral bone formation (2). Proposed functions include, providing an easily resorbed fabric for the deposition of bone matrix during endochondral growth of long bones; providing support as the cartilage matrix is degraded during endochondral ossification (9,10); or regulating the calcification process during endochondral ossification (11-14). Reconciling these opposing views has also been difficult because the consequences of gene mutations which result in type X collagen deficiency in human and mouse differ.
+
+
+Mutations in the NC1 encoding domain of the human al (X) collagen gene   (COL10A1)    have been found to be associated with the autosomal dominant inherited skeletal disorder,
+Schmid metaphyseal chondrodysplasia (SMCD) (15-18). SMCD is a relatively mild form of metaphyseal chondrodysplasia, resulting from growth plate abnormalities. The SMCD phenotype is variable in severity and characterized by short to normal stature, with genu varum (bow legs), coxa vara (a reduced angle between the femoral neck and shaft) and flaring of the metaphyses of long bone (19,20). Transgenic mice expressing truncated chicken type X collagen, display much more severe skeletal abnormalities, similar to human spondylometaphyseal dysplasia (SMD) (21) in which there is compression of the hypertrophic zone of the growth plate and a decrease in newly formed bony trabeculae.
+
+
+The phenotypes of SMCD patients and the SMD-like transgenic  mice favour a supportive role for type X collagen (15,16,22). Therefore it was surprising to find that mice carrying a null mutation in the al (X) collagen gene   (CollOal)    have been reported to show no abnormality and no signs of SMCD (23). K. Cheah in collaboration with others had also created a null mutation in mouse   CollOal    by homologous recombination in ES cells, to gain insight into the function of type X collagen (24). To resolve the apparently contradictory consequences of mutations in the gene in human and mouse and gain better insight into the pathogenesis of SMCD, we focused our study on the consequences of type X collagen deficiency on the structure of the growth plate and trabecular bone, and on the organization of matrix components within cartilage.
+
+
+This disclosure showed that type X collagen deficiency in mice does have phenotypic consequences which partly resemble
+SMCD, reducing the apparent discrepancy in phenotype between human and mouse (24). Intriguingly, the major impact of type X collagen deficiency does not lie in its site of expression, the hypertrophic zone, but rather affects other zones of the growth plate and in bone. It is also found that the consequence of loss of type X collagen in mutant mice is a major change in the distribution of matrix materials such as proteoglycans and matrix vesicles, within the epiphyseal cartilage. Other features of type X collagen deficiency are a significant compression of the resting zone and articular cartilage.
+
+
+Phenotypic features which partly resemble SMCD were found, such as persistence of cartilage in trabecular bone, alterations in bone mineralization and trabecular structure.
+
+
+In particular, type X collagen deficient mice develop coxa vara, one of phenotypic changes common in human SMCD. These findings have led us to propose a function for type X collagen. Based on these findings we propose that type X collagen plays a role in the normal compartmentalization of the cartilage matrix. Type X  collagen deficiency alters the distribution of cartilage matrix components thereby impacting on the supporting properties of the growth plate and the mineralization process, resulting in abnormal trabecular bone. This hypothesis would accommodate the previously conflicting views of the function of type X collagen and of the molecular pathogenesis of SMCD.  
+
+
+Summary of the Invention
+This invention provides an isolated DNA comprising the sequence which codes for a mutated collagen X or a portion thereof wherein the expression of said DNA regulates bone growth. In an embodiment, the DNA comprises the sequence of   CollO-13del    as set forth in Figure 2. This invention also provides a vector which comprises the above-described DNA.
+
+
+This invention also provides a method for production of the a polypeptide which regulates bone growth comprising a hostvector system which comprise the above vector and an appropriate host.
+
+
+This invention provides a polypeptide encoded by the isolated DNA comprising the sequence which codes for a mutated collagen X or a portion thereof wherein the expression of said DNA regulates bone growth. This invention also provides a polypeptide which comprise the portion of the mutated collagen X capable of regulating bone growth.
+
+
+This invention provides a composition comprising the above polypeptide and a suitable carrier. This invention provides a pharmaceutical composition for increasing bone growth comprising the above polypeptide and a pharmaceutically acceptable carrier.
+
+
+This invention also provides a method of treating a subject afflicted with dwarfism comprising administering to the subject an amount of the polypeptide comprising a portion of the mutated collagen X capable of regulating bone growth or the isolated DNA comprising the sequence which codes for a mutated collagen X or a portion thereof wherein the expression of said DNA regulates bone growth effective to reverse the dwarfism.
+
+
+This invention provides a method of treating a subject afflicted with low bone mass comprising administering to the  subject an amount of the polypeptide comprising a portion of the mutated collagen X capable of regulating bone growth or the isolated DNA comprising the sequence which codes for a mutated collagen X or a portion thereof wherein the expression of said DNA regulates bone growth effective to treat low bone mass in the subject.
+
+
+This invention provides a method of improving the quality and speed of bone union after fracture in a subject comprising administering to the subject an amount of the polypeptide comprising a portion of the mutated collagen X capable of regulating bone growth or the isolated DNA comprising the sequence which codes for a mutated collagen
+X or a portion thereof wherein the expression of said DNA regulates bone growth effective to improve the quality and speed of bone union.
+
+
+This invention further provides a transgenic animal comprising an isolated DNA comprising the sequence which codes for a mutated collagen X or a portion thereof wherein the expression of said DNA regulates bone growth.  
+
+
+Brief Description of the Figures
+Fig. 1. Diagram showing the structure of the   CollO-13del   
+ transgene. Collagen X gene and protein structure.
+
+
+Fig. 2. Comparison of the mouse and human nonsense
+ sequence generated from an equivalent 13 base
+ pairs deletion within the NC1 domain of collagen
+ X. Amino acids are numbered from the start of
+ translation (3). The underlined bases in the wt
+ sequence (SEQ ID NO: 1) represent the 13 bp
+ deleted in the mutant sequence (SEQ ID NO: 2).
+
+
+ Variations between the mouse and human nonsense
+ sequences are highlighted in bold. The boxed
+ amino acids represent a mutant specific
+ polypeptide synthesized for polyclonal antibody
+ production in rabbit. The nonsense amino acid
+ sequences resulting from the deletion in the mouse
+ and human are aligned for comparison. Amino acids
+ are numbered form the start of translation (3). The
+ underlined bases in the wt sequence represent the
+ 13 bp deleted in the mutant sequence. Variations
+ between the mouse and human nonsense sequences are
+ highlighted in yellow. The boxed amino acids
+ represent a mutant specific polypeptide
+ synthesized for polyclonal antibody production in
+ rabbit. Wild type amino acid sequence (SEQ ID NO:
+ 3). Mutant mouse amino acid sequence (SEQ ID   NO:   
+ 4). Mutant human amino acid sequence (SEQ ID NO:
+ 5).
+
+
+Fig. 3. Pictures of 6 month old   CollO-13del    transgenic
+ (Tg) and non-transgenic (NT) mice and X-rays. X
+ rays shown here and in subsequent figures are
+ taken at the same exposures using a mammogram
+ machine. A and B the scale bar represents lcm; C
+ E scale bar represents 0.5cm. A. Left
+ 34.10.57 (NT), right 34.10.54 (Tg) at 6 months of
+ age showing differences in overall body length and  
+ shape, in particular differences in the length of
+ the limbs. B. Left 34.10.57 (NT), right
+ 34.10.224 (Tg) at 6 months, showing differences in
+ the shape of the head. C-E. 34.10.372 (NT),
+ 34.10.373 (Tg) and 34.10.224 (Tg) respectively.
+
+
+ Demonstrates the variability in severity of the
+ malformation of the feet and digits. E also has
+ an extra digit. F. X-ray of 34.10.224, showing
+ the presence of an extra digit.
+
+
+Fig. 4. X-ray images of 5 week old Coll0-13del mice
+ compared to non-transgenic mice. Note marked
+ hyperostosis of bones as indicated by the
+ increased opacity (whiteness) of image. A-B.
+
+
+ 34.10.372 (NT) and 34.10.373 (Tg) top views. C-D
+ 34.10.372 and 34.10.373 lateral view.
+
+
+Fig. 5. X-rays of 10 week old   CollO-13del    mice compared to
+ non-transgenic mice. A-B. 34.10.57 (NT) and
+ 34.10.54 (Tg) top views. C-D 34.10.57 and 34.10.54
+ lateral view.
+
+
+Fig. 6. X-rays of 15 week old   CollO-13del    mice compared to
+ non-trangenic mice.   A-B.    34.10.57 (NT) and
+ 34.10.54 (Tg) top views. C-D 34.10.57 and 34.10.54
+ lateral view.
+
+
+Fig. 7. Histology of growth plates of   CollO-31del    and
+ wild-type littermate. A, C, E are wild-type non
+ transgenic (NT); B, D, F are   CollO-13del   
+ transgenic (T). Note the greatly increased
+ heights of the proliferating (p) and hypertrophic
+ (h) zones in the   CollO-13del    mice as compared to
+ wild-type littermate.
+
+
+Fig. 8. Expression of   p57kip2, PCNA    and Hsp47 in 2 days
+ post partum distal femur growth plates of   Colt0-   
+ 13del transgenic and non-transgenic mice.  
+
+
+ Expression shown are: a, b)   cyclin-dependent    kinase
+ inhibitor p57kip2;   c, d)    proliferating cell nuclear
+ antigen   (PCNA, antibody    from Santa Cruz
+   Biotechnology, Santa Cruz, California);      e, f)    heat
+ shock protein 47 (Hsp47). Positive signal in
+ cells is shown by the brown immunoperoxidase
+ staining using Vectastain ABC kit (Vector
+   Laboratories, Burlingame, California).    Staining of
+ trabecular bony matrix is non-specific. All images
+ are at   100X    magnification except boxes are regions
+ magnified 200 times. T: trabecular   bone, H:   
+ hypertophic zone. P: proliferative zone.
+
+
+Fig. 9. Expression of wild type and mutant collagen X.
+
+
+ Immunofluorescence (FITC staining) on cryo
+ sections from new born distal femur growth plates
+ of   CollO-13del    transgenic (tg, a,   c, d)    and non
+ transgenic mice   (nt, b). a, b) ColX    antibody
+ staining; c) 13-del mutant protein antibody
+ staining. Note punctate staining in the 13 del
+ antibody stained section from transgenic growth
+   plat, indicating    mainly intracellular staining of
+ hypertrophic chondrocytes (c) compared to
+ extracellular staining with collagen X antibody
+ staining of non-transgenic sections (b). In non
+ transgenic sections, only very weak background was
+ seen (not shown). d) Immunostaining showing
+ intracellular localisation of the   CollO-13del   
+ protein in osteoblast-like cells found in the
+ trabecular bone in (c).
+ T: trabecular bone H:
+ hypertophic zone.  
+
+
+Detailed Description of the Invention
+This invention provides an isolated DNA comprising the sequence which codes for a mutated collagen X or a portion thereof wherein the expression of said DNA regulates bone growth. It is the intention of this invention to cover all mutant collagen X which is capable to regulate bone growth.
+This invention also covers portion of mutated collagen X which has the biological activities of regulating bone growth and polypeptides which bears this domain (portion).
+
+
+This invention provides an isolated DNA comprising the sequence   CollO-13del    as set forth in Figure 2 or a portion thereof of which regulates bone growth when expressed.
+
+
+This invention also provides a vector which comprises the above-described DNA.
+
+
+Vectors which comprise the isolated nucleic acid molecule described hereinabove also are provided. Suitable vectors comprise, but are not limited to, a plasmid or a virus.
+
+
+These vectors may be transformed into a suitable host cell to form a host cell vector system for the production of a polypeptide capable of regulating bone growth.
+
+
+This invention further provides an isolated DNA or   cDNA    molecule described hereinabove wherein the host cell is prokaryote or eukaryote. For example, the cells may be bacterial cells (such as E. coli), yeast cells, fungal cells, insect cells or animal cells. Suitable animal cells include, but are not limited to Vero cells, HeLa cells, Cos cells, CV1 cells and various primary mammalian cells.
+
+
+This invention also provides a polypeptide encoded by abovedescribed DNA. This invention also provides polypeptide which bears the domain (s) of the mutant collagen X which regulates bone growth.
+
+
+This invention also provide a composition comprising the  above-described polypeptide and a suitable carrier. A suitable carrier are carrier which is capable of dissolving the polypeptide and yet not affect the biological activity of said polypeptide. For example, the carrier may be a physiologically saline.
+
+
+This invention also provides a pharmaceutical composition for increasing bone growth comprising the above-described polypeptide and a pharmaceutically acceptable carrier.
+
+
+For the purposes of this invention"pharmaceutically acceptable carriers"means any of the standard pharmaceutical carriers. Examples of suitable carriers are well known in the art and may include, but not limited to, any of the standard pharmaceutical carriers such as physiologic saline solution, phosphate buffered saline solutions, phosphate buffered saline containing Polysorb 80, water, emulsions such as oil/water emulsion, and various type of wetting agents.   Other    carriers may also include sterile solutions, tablets, coated tablets, and capsules.
+
+
+Typically such carriers contain excipients such as starch, milk, sugar, certain types of clay, gelatin, stearic acid or salts thereof, magnesium or calcium stearate, talc, vegetable fats or oils, gums, glycols, or other known excipients. Such carriers may also include flavor and color additives or other ingredients. Compositions comprising such carriers are formulated by well known conventional methods.
+
+
+This invention also provides a method of treating a subject afflicted with dwarfism comprising administering to the subject an amount of the above polypeptide or the abovedescribed DNA of effective to reverse the dwarfism.
+
+
+Methods of determining an"effective amount"are well known to those skilled in the art and depend upon factors including, but not limited to: the size of the patient and  the carrier used.
+
+
+This invention provides a method of treating a subject afflicted with low bone mass, including but not limited to osteoporosis, comprising administering to the subject an amount of the above polypeptide or DNA via for example the administration of bone marrow/stromal cells carrying and expressing the   CollO-13del    transgene.
+
+
+This invention provides a method of enhancing the quality of fracture healing and of the healed bone of a subject comprising administering to or implanting into or around the bone of the subject an amount of the above polypeptide or
+DNA comprising the above-described DNA effective to enhance the quality of fracture healing and of the healed bone.
+
+
+As used herein, enhancing the quality of fracture healing means an increase in the rate of callus and bone formation, a reduction in the incidence of failure to heal (non-union), an increase in the quantity of bone formed, or an improvement in the mechanical properties of the callus or of the bone formed. Enhancement of the healed bone means an improvement in the mechanical properties of the bone or and increase in the quantity of bone formed.
+
+
+This invention also provides to a patient with low bone mass to improve the quality of the healed bone. Since type X collagen protein is an extracellular matrix component, it and its mutant forms may be administered extracellularly via local therapy which involves biodegradable vehicles.
+
+
+Methods of administering the polypeptide includes implanting coated or impregnated forms of solid support material e. g. ceramic powders (Gordon, E., Lasserre, A, Stull, P., Bajpai,
+P. K., England, B. 1997 Biomed Sci Instrum 33: 131-136); polymethymethacrylate cement; biodegradable polymers (such as poly   lactides-co-glycolides    Ramchandani M. Robinson, D.
+
+
+1998 J. Controlled Release 54: 167-175), collagen vehicles such as resorbable collagen membranes (King, G. N., King, N.,  
+Hughes, F. J. 1998. J. Periodontal Res 33: 226-236) or gels impregnated with extracellular matrix proteins and the polypeptide and other similar approaches.
+
+
+Methods of allowing site-specific gene delivery of the DNA may include implanting osteoblasts which have been transfected with the   CollO-13del    transgene and which express the transgene. We have previously identified a subset of the regulatory sequences in the   CollOal    gene (within the whole   collO-13del    construct) which can direct expression specifically to endosteal cells and osteoblasts (Cheah and
+Poon, unpublished results). Alternatively, implants containing chondrocytes transfected with the   CollO-13del    construct and expressing the transgene may be transferred to bone defects. Liposome based vehicles may also be used as a means to deliver the   CollO-13del    transgene to cells at the fracture site.
+
+
+In an embodiment, the above-described DNA is operatively linked to inducible regulatory element.
+
+
+This invention further provides a transgenic animal comprising an the isolated DNA comprising the sequence   CollO-13del    as set forth in Figure 2 or a portion thereof of which regulates bone growth when expressed.
+
+
+In an embodiment, the transgenic animal of claim is a mouse.
+
+
+This invention also provides a transgenic animal comprising an DNA designated   CollO-13del    as set forth in Figure 2.
+
+
+This invention provides a method for identifying whether an agent which stimulates bone growth comprising steps of: a) administering the agent to the above transgenic animal; and b) examining the transgenic animal after the administration of the agent to determine whether bone growth has been stimulated.  
+This invention also provides a method for assessing the effect of surgery on increasing bone length comprising steps of: a) performing surgery on the above transgenic animal; and b) assessing the increase in bone length of the animal to determine the effect of surgery on said animal.
+
+
+In an embodiment, the assessment is performed by direct measurement of the increase in bone length and the animal is sacrificed at different time for the accurate measurement.
+
+
+The invention also provides a method for assessing the effect of bone growth stimulating agents on fracture repair comprising steps of: a) creating a fracture repair in the above-described transgenic animal; b) administering the agent to the transgenic animal; and b) examining the transgenic animal after the administration of the agent to determine whether bone growth has been stimulated.
+
+
+This invention will be better understood from the
+Experimental Details which follow. However, one skilled in the art will readily appreciate that the specific methods and results discussed are merely illustrative of the invention as described more fully in the claims which follow thereafter.  
+
+
+Experimental Details
+Molecular mechanisms underlying SMCD type X collagen mutations in humans
+An important issue raised by our findings, is the relative mildness of phenotype in the null mutants compared with the
+SMD-like transgenic mice and human SMCD (reviewed in 25).
+
+
+Since collagen a chains associate via the NC1 domain, it has been proposed that in human SMCD, the NC1 mutations result in failure of trimer assembly (15,16) and the phenotypic changes are caused because type X collagen is depleted in the matrix. This proposal is supported by recent reports that collagen al (X) chains carrying SMCD mutations are unable to form trimers in in vitro assembly and cell transfection experiments (26,27). In the SMD transgenic mice, the chondrodysplasia is postulated to be caused by a depletion of type   X    collagen as a result of instability/degradation of mutant chicken-mouse hybrid protein (21) or because the chicken a chains interfere with the normal assembly of mouse type X collagen.
+ The ability of ai (X) chains with internal deletions within the helix to assemble with normal chains as heterotrimers and be secreted, support the latter explanation (27). It is notable that the changes in trabecular structure observed in
+SMD-like transgenic mice (21) were similar but more severe than in the type X collagen null mutants. Our results suggested that different phenotypes of the null mutants and the SMD-like transgenic mice probably reflect differing severity of outcome of mutations resulting in loss versus gain of function.
+
+
+The reason for the late onset of coxa vara and the relatively milder phenotypic changes in type X collagen mutant mice, compared with human SMCD, is still not fully understood. The late onset of the defect in the mutant mice compared with the SMCD patients may be related to the differences in loading of the growth plate between man, a biped and mouse, a quadriped. However, the type X collagen  content in SMCD growth plates has not been determined. In addition it is not known if synthesizing abnormal al   (X)    collagen chains which cannot assemble, has additional effects on hypertrophic chondrocytes, affecting their growth. It would therefore be important to compare the phenotypic consequences of the null with a SMCD mutation in mice.
+
+
+Experimental Results  &amp;  Discussion
+Expressing type X collagen chains containing a SMCD mutation in transgenic mice
+We have identified genomic sequences in the   5'flanking    region, first and second introns of the mouse   CollOal    gene which were sufficient to drive tissue-specific expression of a FLAG-epitope-marked form of collagen X in hypertrophic chondrocytes in transgenic mice. There was also some expression in some chondrocytes in the lower proliferative zone. Expression was also seen in a few cells in the bone marrow compartment which could be osteoblasts.
+ We used these sequences to initiate experiments designed to address these questions and have started to study the phenotypic consequence of expressing collagen al (X) chains carrying a
+SMCD mutation in hypertrophic chondrocytes of mice heterozygous and homozygous null for type X collagen.
+
+
+Sited-directed mutagenesis (15) is used to introduce the mutation into a genomic clone containing the whole mouse collagen X gene   (CollOal)    and the resulting clone is designated   CollO-13del.    The mutation was a 13-bp deletion within the conserved NC1 domain (Fig. 1). This mutation causes a shift in the amino acid reading frame at position 619 resulting in the production of a nonsense sequence (52 amino acids) from residue 620 with a prediction premature termination at 671,9 amino acids shorter than the wild type (Fig. 2). This mutant construct, CollO-13del was introduced into the germ-line of mice wild-type or heterozygous for   CollOal,    by transgenesis.
+ Three transgenic mouse lines  carrying this transgene on a wild-type   CollOal    genetic background were found to have abnormal skeletal phenotype which, although variable in severity, was very similar in these lines. All three of these lines expressed the transgene as assessed by RT-PCR on RNAs from cartilage of the mice. Surprisingly the external gross phenotype of these transgenic mice was not similar to human SMCD but rather resembled other human skeletal disorders as follows:
+Gross phenotype: The phenotype observed in the   CollO-13del    mice appeared to be a rhizomelic skeletal dysplasia with analogy to human cranio-tubular remodelling disorders. The onset of observable differences in phenotype between transgenic and wild-type mice occurs 4-6 days post-partum.
+
+
+The transgenic mice are smaller than their littermates.
+
+
+The observed phenotype at this stage involves the distal digits. The digits are shorter and fatter than their wild type counterparts and appear to be hypermobile (Fig. 3).
+
+
+There is variation in degree in which the digits are short, bent or curved outwards, but this is a common feature of all the transgenic mice. Fore-and hind-limbs are affected, often the latter more severely. As the mice develop, a rounding of the fronto-nasal area becomes apparent. X-ray analysis of the mice from 5 weeks (5,10,15 wks) onwards has revealed a progressive hyperostosis (hyper =3D increased, ost =3D bone, osis =3D condition i. e. a condition of increased bone), which affects skull, ribs, spine and long bones (Figs.   4-6).    As with the distal digits the long bones (humeri and femurs), ribs and pelvic elements are also shorter and broader than those observed in the wild type mice. There is also a strange lucency and expansion of the medullary cavity distal to the mid-point of the femurs.
+ By 10-15 weeks the mice show varying degrees of waddling gait with splayed feet, with those most severely affected showing a"dragging   posture"of    their rear end probably because the hind legs are not normally flexed.
+
+ 
+Histopathology: Comparison of the histology of sections  from the growth plates of   lOday    and 4 week non-transgenic and   CollO-13del    mice show marked differences (Fig 7). The proliferative zone of transgenic mice is enlarged compared to non-transgenic littermates. The most dramatic changes are seen in the hypertrophic zone which is considerably increased in height in   CollO-13del    mice, with hypertrophic chondrocytes appearing disorganized and reduced in size. In addition, the trabeculae at the chrondro-osseuts region in mutants appeared increased in size (Fig7).
+
+
+Ultrastructure: ultrastructural changes in the growth plates of the   CollO-13del    mice were ana 
+
+
+Molecular bases of the growth plate and bone abnormalities
+The occurrence of hyperostosis in these mice is an interesting phenomenon, especially since type X collagen is not normally synthesized in bone. There is however some evidence that residual collagen X is present in the cartilaginous remnants within bone trabeculae (24). There are several possible underlying causes, which singly or in combination, may underlie the abnormal bone phenotype in these mice: a. In both the human and mouse collagen X, the mutation
+ results in a similar nonsense amino acid sequence
+ terminating at the same residue. However, 15 of the 52
+ nonsense amino acids are different between the mouse
+ and human sequence (Fig. 2).
+ This represents 29%
+ variation and it is possible that the altered peptide
+ sequence may contribute towards the phenotypic changes
+ for example behaving as a signalling molecule/growth
+ factor. b. The phenotypic changes could be the result of ectopic
+ expression of the transgene in the lower proliferative
+ zone and/or osteoblasts   c.    Synthesis of abnormal collagen X molecules which form
+ heterotrimers with wild type chains d. The phenotype is caused by the increased degradation of
+ mutant molecules by the hypertrophic chondrocytes. e. Since collagen X has been shown to have a strong
+ affinity for proteoglycans, the bone overgrowth could
+ be caused by an imbalance in the matrix components,
+ especially proteoglycans.
+ This alteration in
+ proteoglycan deposition or biosynthesis could
+ contribute to the bone overgrowth since these molecules
+ have been shown to be important for bone growth and
+ remodelling. f. The consequence of expressing abnormal collagen X could
+ be to disrupt its interaction intracellularly with
+ chaperones and extracellularly with other matrix
+ molecules, proteinases and/or receptors (e. g  
+ integrins). These altered interactions are likely to
+ alter intracellular signal transduction and hence
+ chondrocyte proliferation and/or differentiation. The
+ impact of such alterations are likely to be mostly at
+ the chondro-osseous junction.
+
+
+Further experimentation:
+A. Basic Studies
+Studying the molecular basis of the abnormalities in these mice will help us to understand the relationship between genotype and phenotype and will contribute to a further definition of the role of type X collagen in the formation and structural integrity of growth cartilage. This insight will be extremely valuable for an understanding of the pathology of diseases which result in the degeneration of cartilage, such as osteoarthritis. The progressive increase in bone density in these mice also imply deregulation of bone growth and remodelling. It is not yet clear if the phenotypic abnormalities are a primary or secondary effect of expression of the   CollO-13del    transgene. However this abnormality raises many questions about the regulatory pathways for bone growth.
+ Therefore these mice will be used to: a) identify key molecules and pathways important for the
+ regulation of bone growth, with implications for human
+ bone disorders. b) study differentiation, proliferation, apoptosis and
+ cell-cycle regulation in the growth plate. c) study the role of the marrow microenvironment and the
+ chondro-osseous junction on hematopoiesis,
+ vascularization of bone, bone formation and
+ remodelling.
+
+
+The following studies will be performed: i) Phenotype and molecular characterization
+Cartilage, the growth plate and membranous bone of mutants will be extensively analyzed. The spatial and temporal expression pattern of the transgene during development and  postnatal growth these mice will be studied further by insitu hybridization and immunohistochemistry. In situ hybridization analyses will be used to determine if the transgene is expressed at the appropriate time in development as the wild type gene. Specific oligonucleotide or riboprobes will be generated spanning the deletion site.
+
+
+Conditions of hybridization will be optimized to give specific hybridization only to the transgene mRNA. In addition since our previous studies with the wild type gene marked by a FLAG epitope had shown expression in the hypertrophic chondrocytes as well as some proliferating chondrocytes. In situ hybridization using wild type   CollOal    probe will show the overall distribution of both mutant and normal transcripts and assess if the   CollO-13del    transgene shows similar ectopic expression. Since the 13bp deletion creates a new peptide sequence in the NC1 domain, antibodies can be raised against the altered peptide and used for immunohistochemistry. This will enable us to determine the localization of the mutant collagen X protein.
+ Attention will also be taken to determine if mutant protein is present in the bone in the cartilaginous remnants within boney trabeculae.
+
+
+Levels of expression of the mutant transcript relative to wild-type will be determined using RNAse protection assays using a riboprobe spanning the mutation, enabling both type of transcripts to be detected in one assay.
+
+
+Proper chondrocyte differentiation will be assessed using appropriate molecular markers (30,31), including type IIA procollagen (marker for pre-chondrocytes); long-form Col9al,
+Colla2, aggrecan (expressed by proliferating and mature chondrocytes); link protein, indian hedgehog (proliferating chondrocytes);   PTH-PTHrP    receptor (marks chondrocytes at the boundary between the proliferative and hypertrophic zones); and   CollOal    (marks hypertrophic chondrocytes);
+BMP-6, FGFR3 (marks all chondrocytes). In situ hybridization studies to analyse the biochemical consequences of  expressing the transgene at developmental stages 14.5,16.5 dpc; and postnatal stages: newborn,   5dpp,    5,10,15 wks will be performed.
+
+
+To study possible secondary impact of abnormal bone formation in   CollO-13del    mutant mice on hematopoiesis we will analyse the long bones in situ for deviations from normal with respect to the morphological appearance of the stroma and haematopoietic cells, incidence of apoptotic and cycling cells and marrow cell number and composition. For this assessment specific molecular markers will be used in situ hybridization studies such as for osteoblasts (Osf2, osteocalcin), osteoclasts (acp5, encoding tartrate resistant acid phosphatase, CSF-1, GM-CSF); chemokines essential for initiation of bone marrow haematopoesis in ontogeny (e. g.
+
+
+SDF-1); metalloproteinases (BP-1,   MMPs)    and haematopoietic cytokines (e. g. IL-6, G-CSF) and others. ii) Further control studies
+The following experiments will be performed to determine if the abnormal phenotype is the consequence of: a) ectopic expression of the transgene b) truncated NC1 domain in collagen X molecules caused by
+ the 13bp del c) the novel mutant peptide sequence caused by the 13 bp
+ del which differs from the human d) The formation and/or processing and/or matrix
+ deposition of collagen X heterotrimers consisting of
+ mutant and wild-type chains.
+
+
+To address a) above, transgenic mice will be generated carrying normal   CollOal    sequences with the same regulatory elements as in the   CollO-13del    construct. The phenotype of mice expressing such a transgene will be compared with that of the   CollO-13del    mice. The expression pattern of the transgene can be monitored by introducing an internal ribosome entry site sequence followed by an ATG and green fluorescent protein (GFP), at a position downstream of the    CollOal translational stop but upstream of the polyA    attachment signal.
+
+
+Alternatively, mice carrying the   collO-13del    mutation will be generated using homologous recombination in ES cells to "knock-in"the mutation (Ramires-Solis, R.  &amp;  Bradley, A
+Curr. Opin. Biotechnol. 5,528-533 (1994); Baudoin, C.,
+Goumans, M.-J., Mummery, C.  &amp;  Sonnenberg. A. Genes  &amp; 
+Development 12,1202-1216).
+
+
+To address b) a construct containing a SMCD point mutation which results in a premature stop codon in the NC1 domain has been made. This construct will be used to generate transgenic mice and the phenotype of these mice compared with the   CollO-13del    mice.
+
+
+To address c) transgenic mice   (CollO-13delH)    will be made carrying the same 13bp deletion mutation except that the downstream amino sequence following the 13bp deletion is identical to that in human SMCD mutation. The phenotype of this mouse will be compared with the original   CollO-13del    mouse.
+
+
+To address d) transgene mice   (CollO-13del)    will be generated on varying genetic backgrounds: heterozygous and homozygous null for   CollOal.    The phenotypes of these mice will be compared with the mice described here, which are   CollO-13del    on a wild-type CollOal background. In addition, the biosynthesis and processing of collagen X in chondrocytes isolated from mutant mice will be analyzed. iii) Studying the role of proteoglycans (PGs) and
+ glycosaminoglycans   (GAGs)    in regulating bone growth.
+
+
+In a recent report, EXT1, a transmembrane glycoprotein present in the ER has been shown to be critical for the expression of cell surface glycosaminoglycans (GAGs).
+
+
+Mutations in EXT1 is the cause of hereditary multiple exostosis (HME), an inherited skeletal disorder  characterized by skeletal malformation due to excessive bone growth (32). Type X collagen has been shown to have a strong affinity to bind to proteoglycans (PGs). We propose to test the possibility that the abnormal type X collagen associates differently or fails to associate with proteoglycans (PGs) and/or GAGs in the   CollO-13del    mice, thereby causing the bone overgrowth. The biosynthesis of GAGs and PGs will be studied and compared in explant cultures of growth plates from non-transgenic and transgenic mice. In addition the   CollO-13del    construct will be transfected into hypertrophic chonrocytes and the effect on PG and GAG biosynthesis studied.
+ These experiments will enable us to determine if PG metabolism has been affected by the abnormal type X collagen. iv) Cell proliferation and cell cycle regulation in
+   CollO-13del    hypertrophic chondrocytes
+Cell proliferation is controlled by a complicated network of extracellular and intracellular signalling pathways that process growth regulatory signals and integrate them into the basic cell-cycle regulatory machinery through the control of the cyclin-dependant kinases (CDKs). CDKs are regulated by cyclins (positive regulation) and CDK inhibitory proteins CKIs (negative regulation). Recently it has been shown that mice lacking the CDK inhibitor p57kip2 show abnormal proliferation of hypertrophic chondrocytes and abnormal endochondral ossification (33,34).
+ The proliferative ability of the hypertrophic chondrocytes by
+PCNA (proliferating cell nuclear antigen) immunostaining or
+BrdU labelling will be studies and compared. In addition
+TUNEL (TdT-mediated   dUTP-X    nick end labelling assay,
+Boehringer Mannheim Ltd) assays will be performed to assess the degree of apoptosis in the transgenic growth plate compared to non transgenic littermates. Furthermore, PCR differential display will be used to compare the expression profiles of wild-type and transgenic growth plates and to clone out genes which are up-regulated or down-regulated.
+These studies will identify key regulators of bone and  cartilage growth and the signal transduction pathways which are affected in the   CollO-13del    mice and molecular interactions at the cartilage-bone junction.
+
+
+These studies also have implications for understanding the mechanisms underlying the development of bone and cartilage tumors. Such cartilage and bone tumors include but are not limited to metastatic bone tumors with primary tumor arising from the breast and prostate, osteoid osteoma, osteochondroma, chondroma, osteoblastoma, osteogenic sarcoma, chondrosarcoma, fibrosarcoma or any other tumors in which increase cartilage and/or bone formation occurs. In addition, these studies will also have implications for understanding the mechanism underlying diseases caused by overgrowth or remodelling problems of bone such as for hyperostosis, exostoses and osteopetrosis, etc. v) Remodelling and turnover of cartilage and bone
+The effect of the 13del mutation on the degradation of collagen X will be assessed.
+ To assess degradation of the mutant type X collagen in growth plate, we will isolate the type X collagen substrate from the growth plates of transgenic and wild-type mice (Chan, Azsodi, Fassler and
+Bateman, unpublished data). Intact and papsinised collagen
+X will be purified by selective salt fractionation and by affinity chromatography using Sephacryl S-500 resins. This will provide chemical amounts of intact type X collagen (59 kDa) containing both NC1 and NC2 domains as well as pepsined (45 kDa with the NC1 and NC2 domains removed) for   metalloproteinase    (MMP) cleavage anaylysis. This will provide data on the susceptibility of the mutant collagen to
+MMP cleavage.
+ N-terminal amino acid sequencing will be performed on products with major or significant MMP cleavage, MMP cleavage products resolved by SDSpolyacrylamide gel electrophoresis will be sequenced directly following transfer onto PVDF membranes. vi) Bioinformatics and structural analyses  
+Interspecies comparisons of genes and identification of homologues in vertebrates and invertebrates can reveal insight into gene function and biochemical and genetic pathways. The sequences of genomes of some model organisms have been, or are about to be completely determined.
+
+
+Sequences homologous to the normal and 13-del mutant NC1 domain of collagen X will be screened for using bioinformatics tools in model organisms such as yeast, C. elegans, Drosophila, zebrafish and fugu. Molecular modelling of the normal and mutant NC1 domain may also yield insight into the possible interactions with other molecules.
+
+
+B. Applied studies for clinical applications
+There are many different causes of dwarfism. Some are genetic, others environmental or endocrine. Some causes are known, others are as yet undetermined. A number of human conditions can result in a similar phenotype. However, work will need to be undertaken to determine whether they result from the same gene defect. a. The mouse will serve as a useful model for testing the effect of drugs on growth, and the effect of surgical procedures on mice with collagen defects.
+
+
+Drugs like growth hormone has been used to treat achondroplasia (Am J Med Genet 1997 Oct 3; 72   (1):    71-76) with limited effect. The effect of growth hormone in treating other bone dysplasia is not known. A mouse model is an ideal method whereby the effect of growth hormone on skeletal growth can be tested. Additionally, by understanding the basic mechanism by which short stature is produced, new drugs may be devised to stimulate bone growth in these conditions. b. Surgical lengthening of bones can increase the height and limb lengths in dwarfs. This has been used to improve on  their cosmetic appearance. However, while such bones can lengthen and heal in the lengthened position, what the optimal conditions are to perform the lengthening process is not known.
+ The availability of a mouse model would allow experimentation using an external fixation device to perform lengthening at various rates and frequency. Additionally, by varying the mechanical characteristic of the external fixator the optimal mechanical environment for bone formation can be ascertained. c. Of particular interest is that the additional bone formation is manifested by a thickening in the endosteal and cortical bone. If this process can be made use of in clinical practice, then it is of advantage over the currently available bone induction agents (e. g. BMP2 and
+BMP7), as these agents result in bone formation in an uncontrolled manner, resulting in undesirable soft tissue and even muscle calcification.
+
+
+There is the potential to enhance bone formation in conditions of low bone mass (osteoporosis), and to improve the quality and speed of bone union after fracture. This statement is made on the assumption that the endosteal bone formed is of normal mechanical characteristic and that the fracture healing occur uneventfully in these mice. Thus, experiments will be carried out to determine the mechanical properties of these bones under bending, tension, torsion and compression. Fracture healing will be assessed in these mice using an external fixation model, with the resultant fracture callus assessed mechanically and histologically. Molecular markers will be used to compare the healing process in   CollOal-13del    mutant and wild-type mice.
+
+
+Some possible ways of using this finding to increase bone mass may be: i. Transfect the   CollOal-13del    transgene into
+ proliferating, hypertrophic chondrocytes and  
+ osteoblasts and assess the effect on in vitro
+ mineralization using approaches reviewed by Bianco et
+ al (35). ii. To generate the mutant collagen X protein by
+ recombinant DNA methodology and bacterial/eucaryotic
+ cell/baculovirus protein expression systems. The
+ recombinant protein can be implanted in the growth
+ plate or bone and the effect on bone growth and
+ fracture repair assessed. The protein may also be
+ implanted at fracture sites. This may be tested out on
+ normal and osteoporotic bone. iii.
+ Gene therapy, to deliver the   CollO-13del    construct into
+ cells at fracture sites or into osteoblasts in
+ osteoporotic bone. iv. to complement i)-iii) above, devise and generate
+ vectors for inducible expression of the   CollO-13del   
+ gene or the mutant peptide in the NCI domain. These
+ vectors would be derived by modifications of the
+ original   CollO-13del    construct by the addition of
+ sequences which may activate expression on addition of
+ an inducer and/or removal of a repressor. Further
+ modifications can also be made to enable switching off
+ of expression of this inducible gene. Such switching
+ off of expression can be achieved by the addition of
+ sequences which can bind   repressors    of transcription.
+
+
+ These vectors may be used to generate transgenic mice
+ in which the timing, site and level of expression of
+ the transgene may be manipulated by induction.
+
+
+ Suitable transgenic mice carrying the"inducer"will be
+ generated and crossed to the inducible   CollO-13del   
+ mice.
+
+
+This invention provides different use of the   CollO-13del    mice, the   CollOal    regulatory elements within the vector   CollO-13del,    and the novel peptide sequence created by the   CollOal-13del    mutation for basic research into the regulation of bone growth and clinical applications for bone disorders. Specifically, this invention provides the use of  the mouse as listed below and the use of the genes which have been affected by expression of the mutant type X collagen. Such genes can be used to develop tools to alter bone formation and growth.
+
+
+The transgene or key molecules in the pathway revealed as a result of determining the underlying cause of the bone overgrowth can be modified for use in developing a gene or protein based therapy to treat bone and cartilage tumors by reversing or inhibiting chondrocytes proliferation.
+
+
+The   CollO-13del    mouse may be used to: 1. identify key molecules and pathways important for the
+ regulation of bone growth and treatment of dwarfism 1.1. To test the effect of drugs or other agents on
+ stimulating bone growth.
+
+
+Potential drugs for stimulating bone growth in dwarfism can be administered to transgenic and non-transgenic mice which are age and sex matched. The effect of the drug will be assessed by monitoring the animals weight, overall length, and also by measuring the length of the long bones and spine on radiographs taken at regular intervals. In addition, at set time intervals mice will be sacrificed and biochemical and immunohistochemical analyses will be carried out to test for the synthesis of bone-characteristic markers such as type I collagen, osteocalcin, alkaline phosphatase, matrix gla protein, osteonectin, etc.
+
+
+Groups of control and test animals of different ages and sex will be used to assess the effect of the drug on different age and sex.
+
+
+Potential drugs (including the use of recombinant human hormones) for increasing bone growth include but is not limited to the natriuretic peptide family of hormones (Yasoda, et al. Natriuretic peptide regulation of endochondral ossification. Evidence for possible roles of  
+C-type natriuretic peptide/guanylyl cyclase-B pathway. J.
+
+
+Biol. Chem. 1998 273: 11695-700), growth hormone (Kidder et al. Effects of growth hormone and low dose estrogen on bone growth and turnover in long bones of hypophysectomized rats.
+
+
+Calcif Tissue Int 1997 61: 327-35; Rosen et   al.,    Treatment with growth hormone and   IGF-I    in growing rats increases bone mineral content but not bone mineral density [published erratum appears in J Bone Miner Res 1995 Nov; 10   (11):      1836]   
+J Bone Miner Res 1995 10: 1352-8.), estrogen (Kidder et al.
+
+
+Calcif Tissue Int 1997 61: 327-35), insulin-like growth factor (Kidder et al. Calcif Tissue Int 1997 61: 327-35), and parathyroid hormone (Coxam et al. Insulin-like growth factor 1 and parathyroid hormone effects on the growth of fetal rat metatarsal bones cultured in serum-free medium. Biol
+Neonate 1995 68: 368-76) or any combination of the above.   Other    agents include but are not limited to the expression of a transgene which results in a local delivery of the hormones mentioned above in bone and growth plate (Yasoda, et al. J Biol Chem 1998 273: 11695-700), ultrasound, electromagnetic radiation, infrared and laser therapy and acupuncture.
+
+
+1.2. To test the effect of surgery on increasing bone
+ length.
+
+
+A limb lengthening device (a modified external fixator that allows for a progressive change in the length of its connecting rods) will be attached to the mouse femur. The femur will then be osteotomised. When early callus formation is observed on radiographs, lengthening of femur will begin (callotaxis). Distraction will be performed under regular radiological monitoring. The frequency and the amount of distraction will be varied to assess the optimal conditions for callotaxis to occur. The animals will be sacrificed at various time points during distraction and at completion of the experiment. The femora will be harvested, and samples sent for mechanical testing and for histological analysis of the quality of the new bone formed.  
+A limb lengthening device is a modified external fixator that allows for a progressive change in the length of its connecting rods.
+ A number of different systems are in common use today for increasing bone length in human subject (Dahl, M. T. and Fischer, D. A. Lower extremity lengthening by
+Wagner's method and by callus distraction. Orthop Clin Norh
+Am 1991 22: 643-9; Hardy et al. The Sequoia circular fixator for limb lengthening. Orthop Clin North Am 1991 22: 663-75;
+Price, C. T. and Mann, J. W. Experience with the   Orthofix    device for limb lengthening. Orthop Clin North Am 1991 22: 651-61; Saleh, M. and Burton, M. Leg lengthening: patient selection and management in achondroplasia. Orthop Clin
+North Am 1991 22: 589-99.
+
+
+2. To test the effect of bone growth stimulating agents on
+ fracture repair.
+
+
+A fracture repair model in the mouse femur is set up using an externally fixed method (Andrew, J. G. and Gregory, J. An externally fixed murine fracture model. The 25th European symposium on calcified tissues. Bone vol. 20, April 1997 pl04S; Cheung et al. External fixation fracture model of the mouse femur. The HKOA annual congress, 15-16 Nov. 1997).
+
+
+Procedure: The femur will be exposed by an incision on the lateral aspect of the thigh. The vastus lateralis muscle is then split to directly expose the mid-shaft of the femur.
+
+
+The periosteum is not stripped to preserve the blood supply.
+
+
+The external fxator is applied using a drill guide to place the four pins. The femur is fractured after drilling holes midway between the pairs of pins; these holes act as a stress raiser to facilitate fracture. Skin is closed with an absorbable suture.
+
+
+The bone growth stimulating agent will be administered to the mice after fracture. A second group of age and sex matched mice will also have the external fixator applied and the bone fractured. No bone growth stimulating agent will  be used. This group will act as control.
+
+
+Outcome will be monitored by regular radiographs, histological and mechanical testing of the harvested one after sacrifice. In addition biochemical, immunohistochemical and gene expression studies will be carried out to assess at the molecular level, whether bone is forming normally.
+
+
+3. Treatment of human conditions which result in bone
+ over-growth (including osteopetrosis) or mineralization
+ abnormalities by drugs.
+
+
+Bone overgrowth can occur locally or regionally as a result of certain tumors or in response to certain agents such as physical trauma, ionising radiation, etc. Generalised bone overgrowth can occur in conditions like flurosis (excessive flouride admininstration) and osteopetrosis (cause unknown).
+
+
+In osteopetrosis, it is characterised by a generalized increase in the amount of bone and mineral content of the bone. Both the cortical and trabecular bone are affected with a resultant reduction in the marrow spaces within the medullary cavity. The cause of the condition is not known.
+
+
+The mouse may be used to: i. Identify key molecules or pathways important for the
+ regulation of bone growth and bone overgrowth. ii. To make drugs which can be used to reverse or inhibit
+ this process of bone overgrowth. iii. Act as a model to test the effect of other drugs on
+ reversing or inhibiting bone overgrowth.
+
+
+Use of the model to identify drugs for treatment of bone overgrowth
+By understanding the mechanism by which the   CollO-13del    transgene can cause bone overgrowth, and the regulatory pathways involved, a drug may be devised which can act as an inhibitor of bone growth for example one which inhibits  osteoblast proliferation and/or differentiation. The drug may also be an antagonist to some key step in the regulatory pathway.
+
+
+Use of the model to test the effect of drugs on bone overgrowth
+The method involves adminstration of the drug to a group of transgenic animals, while another group of age and sex matched transgenic will be given a placebo to act as control. The effect of the drug on bone density will be assessed by regular radiological monitoring. Additionally, bone densitometry, micro-CT analysis or other more sensitive methods may be used in future to assess the effect of the drug on bone density. At regular time intervals the mice will be sacrificed and the bones examined histologically.
+
+
+Bone density may also be estimated using electron backscattering analyses combined with electron microscopy.
+
+
+Histomorphometric analysis will be carried out to quantify the effect on the bone content. Biochemical and immunohistochemical analyses will also be carried out to study the level of synthesis of bone-characteristic markers such as type I collagen, osteocalcin, alkaline phosphatase, matrix gla protein, ostenectin, etc.
+
+ 
+4. The transgene can be used or modified to be used as a
+ method of regulating bone growth and switched on in
+ conditions where more bone is required. For example
+ improving the amount of bone in patients with
+ osteoporosis and increasing the rate of fracture
+ healing using a gene therapy approach which may include
+ an inducible/switchable approach as described above.
+
+
+5. The mouse can be used to find potentially new genes and
+ pathways responsible for regulating bone growth with
+ implications for human bone disorders 6. If a human inherited condition caused by a regulatory
+ defect in   COL10A1    is found, the use of the mutation for
+ diagnosis.
+
+
+7. The use of the regulatory sequences in the transgene
+   CollO-13del    to target expression of therapeutic  
+ compounds to the growth plate by transgenesis.
+
+
+8. The use of the novel peptide sequence in the NC1 domain
+ created by the 13bp deletion and antibodies raised
+ against this sequence, if it should turn out to play a
+ role in causing the abnormal bone growth.
+
+
+Identification of genetic modifiers of bone growth
+Since the severity of phenotype in the   CollO-13del    mice varied within a line, and these mice are essentially a combination of 129sv/J, CBA and C57BL6 backgrounds, these mice will also serve as models to study the influence of genetic background on bone growth. Mice expressing the mutation on different bred background may be generated by breeding these mice to generate congenic mutant mice with different inbred background. Comparison of the phenotypic severity and extent of cartilage and bone growth will shed insight into the degree to which the bone overgrowth is affected by genetic background. Should differences in the bone overgrowth found in different inbred backgrounds, the mice could be used to identify genetic loci which account for genetic variation in bone growth.
+ These loci may be detected using genetics, linkage analyses and highly polymorphic markers such as single nucleotide polymorphism (SNPs).
+
+
+Molecular consequences of expressing the mutant   (CollO-      12del)    protein in hypertrophic chondrocytes
+As discussed in section number iv above, the expression of the cell cycle regulator p57kip2 in the growth plates of non-trangenic and   CollO-12del    mice has been analyzed using immunohistochemistry (antibodies, gift of Dr. Anne
+Fergueson-smith, Dept of Anatomy, Cambridge University, UK).
+
+
+In non-transgenic controls, strong staining for p57kip2 was seen in the hypertrophic chondrocytes throughout the hypertrophic zone. However, the immunostaining showed areas of reduced staining within the hypertriphic zone of   Colt0-    13del mice. Using antibodies to POCNA (Boehringer Mannheim),  strong immunostaining was seen in hypertrophic chondrocytes of the   CollO-13del    mice which was not seen in the nontransgenic controls. These data are consistent with abnormal proliferation of the hypertrophic chondrocytes in the   CollO-    13del mice which may in part account for the expansion of the hypertrophic zone in these mice.
+
+
+It has been suggested, as discussed in section number iv above, that there may be a problem with secreting the mutant collagent X protein in the transgenic mice (see experimental details above). Antibodies to the altered peptide sequence arising from the 13 del mutations have been generated (see experimental details in section number i above). Thi santibody has been used to stain growht plates sections from the   CollO-13del    and control mice. Immunostaining using antibodies specific to the mutant sequence in the   Colt0-    13del protein shows strong intracellularly and almost undectable signal extracellularly. No staining was seen in non-transgenic samples. Comfirming the transgene specificity of the antibody. This data is consistent with an impaired ability to secrete the mutant protein.
+ By contrast, immunostaining with antibodies to collagen X (gift of Bjorn
+Olsen, Harvard University) which would stain both the endogenous normal and mutant protein, showed an extracellular pattern of expression. The cells in the trabeculae may be hypertrophic chondrocytes in the cartilaginous remnants within trabeculae, or osteoblasts.
+
+
+There was also increased staining of hypertrophic chondrocytes in the growth plate and cells in the trabeculae of   CollO-13del    mice using antibodies to heat shock protein 47 (hsp47), a chaperone of collagens (Ref: Expression K
+Matrix Biol 1998: 7 379-386). There was little staining with hsp47 in the hypertrophic chondrocytes of nontransgenic mice. Taken with the electron microscopy data showing the presence of engorged endoplasmic reticulum, this observation would be consistent with intracellular accumulation of protein due to difficulty with secretion and support  hypothesis (see section f above).
+
+
+Active degradation of intraceullular proteins can have significant implication on cellular behavior. Interaction of unfolded X chains with chaperones such as protein disulfide isomerase and Hsp47, glcoprotein-specific chaperones such as calnexin and calreticulin, BiP and Ubiquitin (see Ellis RJ
+Molecular chaperones: pathways and netwotks, Curr Biol 1999 9: 4 R137-139) will also be assessed in further studies by immuno-coprecipitation methods. This will give insights into the intracellular handling of unassembled collagen X chains and preferred pathway of clearance.
+
+
+Expression has been seen (by in situ hybridization and by immunostaining) of the   CollO-13del    transgene in cells which are likely to be osteoblasts in the cortical bone. This finding indicates that expression of the mutant protein in both bone and hypertrophic cartilage may be the cause of the altered phenotype in   CollO-13del    mice.
+
+
+In collaboration with Dr. Davine Opelstein (Biochemistry
+Dept, University of Hong Kong) the composition of the marrow cells in wild-type and   CollO-13del    transgenic mice has been analyzed. It was found that at 26 weeks of a age, a marked increase in the numbers of adipocytes. There alsoappeared to be an increased number of blood vessels in the bone. There appeared to be an inrease in the volume of the marrow cavity, and an abundance of total haematopoietic cells in wildtype compared to transgenic mice.
+
+
+Consistent with an effect on haemetopoiesis was observation of abnormal morphology of the thymus in one of the transgenic mice. Further mice will need to be analyzed to determine if this is a consistent finding. These changes indicate an effect of the altered microenvironment of the transgenic bone on the development of cells within the marrow cavity. It is unknown if this is a direct effect or an indirect consequence whereby haematopoeitic cells remain  constant by adipocytes are increased to compensate for the increased size of the marrow cavity in the transgenic mice.
+
+
+The mice are also closely monitored for signs of srthritis, such as rheumatoid arthritis or osteoarthritis).  
+
+
+ References 1. Mayne, R., and Irwin., M. H. (1986) in Articular
+ cartilage biochemistry (Kuettner, K. E., Schleyerbach,
+ R., and Hascall, V. C., eds) pp. 23-35, Raven Press, New
+ York.
+
+
+2. Schmid, T. M., and Linsenmayer, T. F. (1987) in Structure
+ and Function of Collagen Types (Mayne, R., and
+ Burgeson, R. E., eds) pp. 223-259, Academic Press,
+ Orlando, Florida 20.
+
+
+3. Kong, R. Y. C., Kwan, K. M., Lau, E. T., Thomas, J. T.,
+ Boot-Handford, R. P., Grant, M. E., and Cheah, K. S. E.
+
+
+ (1993) Eur. J. Biochem. 213,99-111.
+
+
+4. Schmid, T. M., and Linsenmayer, T. F. (1990) Dev. Biol.
+
+
+ 138,53-62.
+
+
+5. Kwan, A. P. L., Cummings, C. E., Chapman, J. A., and Grant,
+ M. E. (1991) J. Cell Biol. 14,597-604.
+
+
+6. Kirsch, T., and Pfaffle, M. (1992) FEBS Lett. 310,
+ 143-147.
+
+
+7. Anderson, H. C. (1989) Lab. Invest. 60,320-330.
+
+
+8. Kirsch, T., Swoboda, B., and Von der Mark, K. (1992)
+ Differentiation 52,89-100.
+
+
+9. Gibson, G. J., Bearman, C. H., and Flint, M. H. (1986)
+ Coll. Rel. Res. 6,163-184.
+
+
+10. Schmid, T. M., and Linsenmayer, T. F. (1985) J. Cell
+ Biol. 100,598-605.
+
+
+11. Bonen, D. K., and Schmid, T. M. (1991) J. Cell Biol. 115,
+ 1171-1178.  12. Schmid, T. M., Bonen, D. K., Luchene, L., and
+ Linsenmayer, T. F. (1991) In Vivo 5,533-540.
+
+
+13. Poole, A. R., and Pidoux,   1.    (1989) J. Cell Biol. 109,
+ 2547-2554.
+
+
+14. Schmid, T. M., Popp, R. G., and Linsenmayer, T. F. (1990)
+ Ann. NY Acad. Sci. 580,64-73.
+
+
+15. Warman, M. L., Abbott, M., Apte, S. S., Hefferon, T.,
+   McIntosh,    I., Cohn, D. H., Hecht, J. T., Olsen, B. R., and
+ Francomano, C. A. (1993) Nature Genet. 5,79-82.
+
+
+16. Wallis, G. A., Rash, B., Sweetman, W. A., Thomas, J. T.,
+ Super, M., Evans, G., Grant, M. E., and Boot-Handford,
+ R. P. (1994) Am. J. Hum. Genet. 54,169-178.
+
+
+17. Wallis, G. A. (1993) Curr. Biol. 3,687-689.
+
+
+18.   McIntosh,    I., Abbott, M. H., and Francomano, C. A. (1995)
+ Hum. Mutat. 5,121-125.
+
+
+19. Lachman, R. S., Rimoin, D. L., and Spranger, J. (1988)
+ Pediatr. Radiol. 18,93-102.
+
+
+20. Horton, W. A., and Hecht, J. T. (1993) in Connective
+ tissue and its heritable disorders, molecular genetic
+ and medical aspects (Royce, P. M., and Steinmann, B.,
+ eds) pp. 641-675, Wiley-Liss, New York.
+
+
+21. Jacenko,   O.,    LuValle, P. A., and Olsen, B. R. (1993)
+ Nature 365,56-61.
+
+
+22. Jacenko,   O.,    LuValle, P., Solum, K., and Olsen, B. R.
+
+
+ (1993) Prog. Clin. Biol. Res. 383B, 427-436.
+
+
+23. Rosati, R., Horan, G. S. B., Pinero, G. J., Garofalo, S.,
+ Keene, D. R., Horton, W. A., De Crombrugghe, B., and  
+ Behringer, R. R. (1994) Nature Genet. 8,129-135.
+
+
+24. K. M. Kwan, M. K. M. Pang, S. Zhou, S. K. Cowan, R. Y. C.
+
+
+ Kong, T. Pfordte, B. R. Olsen, D. Sillence, P. P. L.
+
+
+ Tam,  &amp;  K. S. E. Cheah (1997) J. Cell Biol. 136 459-471.
+
+
+25. Chan, D., Jacenko,   0.    (1998) Matrix Biol. 17: 169-184.
+
+
+26. Chan, D., Cole, W. G., Rogers, J. G., and Bateman, J. F.
+
+
+ (1995) J. Biol. Chem. 270,4558-4562.
+
+
+27. Chan, D., Weng, Y. M., Hocking, A. M., Golub, S.,
+ McQuillan, D. J., and Bateman, J. F. (1996)   J.    Biol.
+
+
+ Chem. 271,13566-13572.
+
+
+28. Horton, R. M., Hunt, H. D., Ho, S. N., Pullen, J. K., and
+ Pease, L. R. (1989). Gene, 77: 61-68.
+
+
+29. Elima, K., Eerola, I., Rosati, R., Mets=E4ranta, M.,
+ Garofalo, S., Perala, M., de Crombrugghe, B., and
+ Vuorio, E. (1993) Biochem. J. 289: 247-253.
+
+
+30. Cheah, K. S. E., Levy, A., Trainor, P. A., Wai, A. W. K.,
+ Kuffner, T., So, C. L., Leung, K. K. H.,   Lovell-Badge,   
+ R. H., and Tam, P. P. L. (1995) J. Cell Biol. 128,
+ 223-237.
+
+
+31. Vortkamp, A., Lee, K., Lanske, B., Segre, G. V.,
+ Kronenberg, H. M., and Tabin, C.   J.    (1996) Science 273,
+ 613-622.
+
+
+32. McCormick, C., Leduc, Y., Martindale, D., Mattison, K.,
+ esford, L. E., Dyer, A. P., and Tufaro, F. (1998) Nature
+ Genetics 19: 158-161.
+
+
+33. Zhang, P., Liegeois, N. J., Wong, C., Finegold, M., Hou,
+ H., Thompson, J. C., Silverman, A., Harper, J. W.,
+ DePinho, R. A., Elledge, S. J. (1997) Nature 387: 151-158.  
+
+
+34. Yan, Y. Frisen, J., Lee, M-H., Massague, J., Barbacid,
+ M. (1997) Genes  &amp;  Dev. 11: 973-983.
+
+
+35. Bianco, P., Cancedda, F. D., Riminucci, M., Cancedda, R.
+
+
+ (1998) Matrix Biol. 17: 185-192.
+
+
+36. Nagata, K., (1998) Matrix Biol. 7: 379-386.
+
+
+37. Ellis, R. J., (1999) Curr. Biol. 9: 4 R137-139.
+  
+</pre></p></description><claims load-source="epoque" status="new" lang="EN"><claim num="1"><claim-text>What is claimed is: 1. An isolated DNA comprising the sequence which codes for
+ a mutated collagen X or a portion thereof wherein the
+ expression of said DNA regulates bone growth.
+
+
+</claim-text><claim-text>2. The isolated DNA of claim   1,    wherein the DNA comprises
+ the sequence of   CollO-13del    as set forth in Figure 2.
+
+
+</claim-text><claim-text>3. A vector which comprises the DNA of claim 1.
+
+
+</claim-text><claim-text>4. A method for production of the a polypeptide which
+ regulates bone growth comprising a host-vector system
+ which comprise the vector of claim 3 and an appropriate
+ host.
+
+
+</claim-text><claim-text>5. The method of claim 4, wherein the host is either a
+ prokaryotic or eukaryotic cell.
+
+
+</claim-text><claim-text>6. The polypeptide encoded by claim 1.
+
+
+</claim-text><claim-text>7. A polypeptide comprising a portion of a mutated
+ collagen X capable of regulating bone growth.
+
+
+</claim-text><claim-text>8. A composition comprising the polypeptide of claim 7 and
+ a suitable carrier.
+
+
+</claim-text><claim-text>9. A pharmaceutical composition for increasing bone growth
+ comprising the polypeptide of claim 7 and a
+ pharmaceutically acceptable carrier.
+
+
+</claim-text><claim-text>10. A method of treating a subject afflicted with dwarfism
+ comprising administering to the subject an amount of
+ the polypeptide of claim 7 or the DNA of claim 1
+ effective to reverse the dwarfism.
+
+
+</claim-text><claim-text>11. A method of treating a subject afflicted with low bone
+ mass comprising administering to the subject an amount  
+ of the polypeptide of claim or DNA comprising the DNA
+ of claim 1 effective to treat low bone mass in the
+ subject.
+
+
+</claim-text><claim-text>12. The method of claim 11, wherein the low bone mass
+ causes osteoporosis.
+
+
+</claim-text><claim-text>13. A method of improving the quality and speed of bone
+ union after fracture in a subject comprising
+ administering to the subject an amount of the
+ polypeptide of claim 7 or DNA comprising the DNA of
+ claim 1 effective to improve the quality and speed of
+ bone union.
+
+
+</claim-text><claim-text>14. The method of claim 9,10, or 11 wherein the DNA is
+ operatively linked to inducible regulatory element.
+
+
+</claim-text><claim-text>15. A transgenic animal comprising an the DNA of claim 1.
+
+
+</claim-text><claim-text>16. The transgenic animal of claim 15, wherein the animal
+ is a mouse.
+
+
+</claim-text><claim-text>17. A transgenic animal comprising an DNA designated CollO
+ 13del as set forth in Figure 2.
+
+
+</claim-text><claim-text>18. A method for identifying whether an agent which
+ stimulates bone growth comprising steps of:
+ a) administering the agent to the transgenic animal
+ of claim 15; and
+ b) examining the transgenic animal after the
+ administration of the agent to determine whether
+ bone growth has been stimulated.
+
+
+</claim-text><claim-text> 19. A method for assessing the effect of surgery on
+ increasing bone length comprising steps of:
+ a) performing surgery on the transgenic animal of
+ claim 15; and
+ b) assessing the increase in bone length of the  
+ animal to determine the effect of surgery on said
+ animal.
+
+
+</claim-text><claim-text>20. A method for assessing the effect of bone growth
+ stimulating agents on fracture repair comprising steps
+ of:
+ a) creating a fracture repair in the transgenic
+ animal of claim 15;
+ b) administering the agent to the transgenic animal;
+ and
+ c) examining the transgenic animal after the
+ administration of the agent to determine whether
+ bone growth has been stimulated. 
+</claim-text></claim></claims><copyright>User acknowledges that the Information Retrieval Facility (IRF) and its third party providers retain all right, title and interest in and to this xml under applicable copyright laws. User acquires no ownership rights to this xml including but not limited to its format. User hereby accepts the terms and conditions of the Licence Agreement set forth at http://www.ir-facility.org/legal/marec/data_licence</copyright></patent-document>
