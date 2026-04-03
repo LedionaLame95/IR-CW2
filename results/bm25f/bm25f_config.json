@@ -1,0 +1,10 @@
+{
+  "field_weights": {
+    "title": 3.0,
+    "abstract": 2.0,
+    "claims": 1.5,
+    "description": 1.0
+  },
+  "top_k": 10,
+  "num_docs": 2000
+}

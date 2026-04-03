@@ -6,3 +6,4 @@ jupyter
 ipykernel
 
 xml file of the folders 001979, 002000
+Parsed only 2000 records of data, stored inside data/interim/parsed_patents.jsonl
