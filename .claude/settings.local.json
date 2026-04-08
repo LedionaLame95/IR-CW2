@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python -c \"from src.app import app; print\\('Flask app imports OK'\\)\")"
+    ]
+  }
+}

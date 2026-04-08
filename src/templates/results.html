@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% block title %}{{ query }} — PatentSearch{% endblock %}
+
+{% block body %}
+<header class="results-header">
+  <a href="/" class="logo-small">
+    <img src="{{ url_for('static', filename='PriorArt.png') }}" alt="PriorArt" class="logo-img-small" />
+  </a>
+
+  <form class="search-form results-search-form" action="/search" method="get">
+    <div class="search-bar">
+      <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+        <path d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"
+              stroke="currentColor" stroke-width="2" stroke-linecap="round"
+              fill="none"/>
+      </svg>
+      <input
+        type="text"
+        name="q"
+        class="search-input"
+        value="{{ query }}"
+        autocomplete="off"
+      />
+    </div>
+  </form>
+</header>
+
+<div class="results-wrapper">
+  <p class="results-count">
+    About <strong>{{ total }}</strong> result{{ 's' if total != 1 else '' }} for
+    <em>"{{ query }}"</em>
+  </p>
+
+  {% if results %}
+    <ul class="results-list">
+      {% for r in results %}
+      <li class="result-card">
+        <div class="result-top">
+          <span class="result-ucid">{{ r.ucid }}</span>
+          <span class="score-badge
+            {% if r.score >= 80 %}score-high
+            {% elif r.score >= 50 %}score-mid
+            {% else %}score-low{% endif %}">
+            {{ "%.2f"|format(r.score) }}
+          </span>
+        </div>
+        <a class="result-title" href="#">{{ r.title }}</a>
+        <p class="result-ipc">IPC: <span>{{ r.ipc }}</span></p>
+        <p class="result-snippet">{{ r.snippet }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <div class="no-results">
+      <p>No patents found for <em>"{{ query }}"</em>.</p>
+      <p>Try different keywords or a broader search term.</p>
+    </div>
+  {% endif %}
+</div>
+{% endblock %}

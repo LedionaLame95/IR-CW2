@@ -4,7 +4,36 @@ tqdm
 rank-bm25
 jupyter
 ipykernel
+flask
 
 xml file of the folders 001979, 002000
 
 1. In the main directory run python parser.py to parse the data(only 2000) They will be stored inside data/interim/parsed_patents.jsonl
+
+To open front end: 
+You need to run the Flask server first:
+python src/app.py
+
+Then open your browser and go to:
+http://localhost:5000
+
+Done ✓
+Component	Proposal Task	Status
+XML parser (parser.py)	Member A	Complete
+BM25 baseline	Member B (R1)	Complete (notebook 01)
+BM25F field-aware retrieval	Member B (R2)	Complete (notebook 02), results stored
+Dense retrieval	Member C (R3)	Notebook merged today
+Frontend UI	—	Just built
+Not Done Yet
+Critical (required for submission):
+
+data/qrels/ and data/topics/ are empty — without relevance judgements and query topics, no formal evaluation is possible
+Evaluation harness (Member D) — MAP, nDCG@10, Recall@100, PRES not computed anywhere yet
+Hybrid fusion (R4/R5) — combining BM25F scores + dense scores (weighted sum or RRF) not implemented
+Ablation table (R1→R6 comparison) — the core deliverable of the report
+Secondary:
+
+Frontend wired to real retrieval (currently mock data)
+IPC boost/filter (R6, optional)
+FAISS for full-scale dense retrieval (optional)
+Bottom line: the individual retrieval components exist, but the glue is missing — no evaluation data loaded, no fusion, no metrics computed. Member D's evaluation harness is the most urgent blocker.
