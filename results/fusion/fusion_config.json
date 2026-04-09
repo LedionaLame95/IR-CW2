@@ -6,7 +6,7 @@
     "claims": 1.5,
     "description": 1.0
   },
-  "pool_size": 100,
+  "pool_size": 200,
   "top_k": 10,
   "dense_model": "sentence-transformers/all-MiniLM-L6-v2",
   "r3_method": "bm25f_top100 -> chunking_maxp_rerank",
