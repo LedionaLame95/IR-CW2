@@ -28,7 +28,7 @@ PARSED_PATH   = PROJECT_ROOT / "data" / "interim" / "parsed_patents.jsonl"
 # ---------------------------------------------------------------------------
 FIELD_WEIGHTS = {"title": 3.0, "abstract": 2.0, "claims": 1.5, "description": 1.0}
 FIELDS        = list(FIELD_WEIGHTS.keys())
-POOL_SIZE     = 100
+POOL_SIZE     = 200   # scaled for 20k corpus (was 100 for 2k)
 TOKEN_RE      = re.compile(r"[A-Za-z0-9]+")
 UCID_RE       = re.compile(r"^[A-Z]{2}-\d+-[A-Z]\d*$", re.IGNORECASE)
 TAG_SPACE_RE  = re.compile(r"\s+")
