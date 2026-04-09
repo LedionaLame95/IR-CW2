@@ -5,6 +5,10 @@ rank-bm25
 jupyter
 ipykernel
 flask
+sentence-transformers
+torch
+faiss-cpu
+numpy
 
 xml file of the folders 001979, 002000
 
@@ -37,3 +41,14 @@ Frontend wired to real retrieval (currently mock data)
 IPC boost/filter (R6, optional)
 FAISS for full-scale dense retrieval (optional)
 Bottom line: the individual retrieval components exist, but the glue is missing — no evaluation data loaded, no fusion, no metrics computed. Member D's evaluation harness is the most urgent blocker.
+
+
+Conclusion for Dense Retrieval Model Assessment: anferico/bert-for-patents
+
+The anferico/bert-for-patents model was evaluated as the bi-encoder for Stage 2 re-ranking (R3). The model is a BERT-base architecture pre-trained via Masked Language Modelling (MLM) on patent texts from the USPTO and EPO corpora. While this gives it strong domain vocabulary, it was not fine-tuned for retrieval or semantic similarity tasks.
+
+In practice, the model produced near-uniform cosine similarity scores across all 100 BM25F candidates (score spread: 0.026 on a [0,1] scale), failing to discriminate between highly relevant patents (e.g., "Fuel Injection System Control Valve") and completely irrelevant ones (e.g., "Web Browser System for Displaying Television Channels"). This behaviour is consistent with the known anisotropy problem in BERT-style models, where token embeddings occupy a narrow cone in the vector space, causing high cosine similarity between all document pairs regardless of content.
+
+As a result, R3 ranked irrelevant patents above relevant ones, performing worse than the BM25F baseline (R2). The MaxP aggregation strategy — which selects the highest-scoring chunk per patent — also failed to improve results, as the underlying embeddings lacked sufficient discriminative power at the chunk level.
+
+Recommendation: For effective dense retrieval in patent IR, a model fine-tuned on a retrieval objective (e.g., contrastive learning on query-document pairs) is required, rather than a domain-adapted MLM model.

@@ -1,5 +1,9 @@
+__pycache__/
+*.pyc
 data/interim/parsed_patents.jsonl
 data/interim/parsed_patents_mvp.jsonl
 data/interim/chunk_metadata_mvp.pkl
 data/interim/patent_dense_mvp.index
-results/dense/chunk_metadata_mvp.pkl
+results/dense/
+data/interim/chunk_metadata_mvp-anferico.pkl
+data/interim/patent_dense_mvp-anferico.index

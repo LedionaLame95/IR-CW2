@@ -8,6 +8,7 @@
   </a>
 
   <form class="search-form results-search-form" action="/search" method="get">
+    <input type="hidden" name="method" value="{{ method }}" />
     <div class="search-bar">
       <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
         <path d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"
@@ -26,9 +27,21 @@
 </header>
 
 <div class="results-wrapper">
+
+  <!-- Method selector tabs -->
+  <div class="method-tabs">
+    {% for key, label in methods.items() %}
+    <a href="/search?q={{ query|urlencode }}&method={{ key }}"
+       class="method-tab {% if key == method %}method-tab-active{% endif %}">
+      {{ label }}
+    </a>
+    {% endfor %}
+  </div>
+
   <p class="results-count">
     About <strong>{{ total }}</strong> result{{ 's' if total != 1 else '' }} for
     <em>"{{ query }}"</em>
+    &mdash; <span class="method-label">{{ method_label }}</span>
   </p>
 
   {% if results %}
@@ -41,12 +54,12 @@
             {% if r.score >= 80 %}score-high
             {% elif r.score >= 50 %}score-mid
             {% else %}score-low{% endif %}">
-            {{ "%.2f"|format(r.score) }}
+            {{ "%.1f"|format(r.score) }}
           </span>
         </div>
-        <a class="result-title" href="#">{{ r.title }}</a>
+        <a class="result-title" href="/patent/{{ r.ucid }}">{{ r.title_html }}</a>
         <p class="result-ipc">IPC: <span>{{ r.ipc }}</span></p>
-        <p class="result-snippet">{{ r.snippet }}</p>
+        <p class="result-snippet">{{ r.snippet_html }}</p>
       </li>
       {% endfor %}
     </ul>

@@ -8,8 +8,8 @@
   },
   "pool_size": 100,
   "top_k": 10,
-  "dense_model": "anferico/bert-for-patents",
-  "r3_method": "bm25f_top100 -> dense_rerank",
+  "dense_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "r3_method": "bm25f_top100 -> chunking_maxp_rerank",
   "r4_alpha": 0.5,
   "r5_k": 60
 }

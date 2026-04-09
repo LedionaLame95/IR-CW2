@@ -280,8 +280,8 @@ def main():
     ap = argparse.ArgumentParser(
         description="Parse CLEF-IP patent XMLs into a structured JSONL."
     )
-    ap.add_argument("--subset", type=int, default=2000,
-                    help="Number of files to parse (default: 2000)")
+    ap.add_argument("--subset", type=int, default=20000,
+                    help="Number of files to parse (default: 20000)")
     ap.add_argument("--all", action="store_true",
                     help="Parse the entire corpus (ignores --subset)")
     ap.add_argument("--sample", type=int, default=None,

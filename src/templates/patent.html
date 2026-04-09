@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block title %}{{ patent.ucid }} — PatentSearch{% endblock %}
+
+{% block body %}
+<header class="results-header">
+  <a href="/" class="logo-small">
+    <img src="{{ url_for('static', filename='PriorArt.png') }}" alt="PriorArt" class="logo-img-small" />
+  </a>
+  <a href="javascript:history.back()" class="back-btn">&larr; Back to results</a>
+</header>
+
+<div class="patent-wrapper">
+
+  <div class="patent-meta">
+    <span class="patent-ucid">{{ patent.ucid }}</span>
+    <span class="patent-ipc">IPC: {{ patent.ipc }}</span>
+  </div>
+
+  <h1 class="patent-title">{{ patent.title }}</h1>
+
+  {% if patent.abstract %}
+  <section class="patent-section">
+    <h2 class="section-heading">Abstract</h2>
+    <p class="section-body">{{ patent.abstract }}</p>
+  </section>
+  {% endif %}
+
+  {% if patent.claims %}
+  <section class="patent-section">
+    <h2 class="section-heading">Claims</h2>
+    <p class="section-body">{{ patent.claims }}</p>
+  </section>
+  {% endif %}
+
+  {% if patent.description %}
+  <section class="patent-section">
+    <h2 class="section-heading">Description</h2>
+    <div class="section-body description-body">
+      <p>{{ patent.description[:3000] }}{% if patent.description|length > 3000 %}…{% endif %}</p>
+      {% if patent.description|length > 3000 %}
+      <details>
+        <summary class="show-more">Show full description</summary>
+        <p>{{ patent.description[3000:] }}</p>
+      </details>
+      {% endif %}
+    </div>
+  </section>
+  {% endif %}
+
+</div>
+{% endblock %}
